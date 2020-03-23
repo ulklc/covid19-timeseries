@@ -1,7 +1,18 @@
 # covid19 timeseries datas 
 Covid19 timeseries datasheet for academic purposes
 
-This is data repository for covid 19 history. Webcrawlers is taking snapshot for every GMT 00:00 sources below and converting to CSV. There is some data normalization steps for different sources like country code or other stuffs. Sometimes there is some data inconsistency between days, we are keeping update, if newly counts lower than older, we are updating older rows. If you feels wrong data for own country, please open an issue. 
+This is data repository for covid 19 history. Webcrawlers is taking snapshot for every GMT 00:00 sources below and converting to CSV. There is some data normalization steps for different sources like country code or other stuffs. Sometimes there is some data inconsistency between days, we are keeping update, if newly counts lower than older, we are updating older rows. If you feels wrong data for own country, please open an issue.
+
+## Files
+
+Country data
+`report/country/{countryCode}.csv`
+
+Daily Data
+`report/daily/{YYYY-MM-DD}.csv`
+
+Raw Data
+`report/raw/rawReport.csv`
 
 ## Data sources
 * World Health Organization (WHO): https://www.who.int/ <br>
