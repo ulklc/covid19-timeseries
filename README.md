@@ -1,7 +1,9 @@
 # Covid19 timeseries data
 Covid19 timeseries data store for academic purposes
 
-This is data repository for covid 19 history. Webcrawlers is taking snapshot for every GMT 00:00 sources below and converting to CSV. There is some data normalization steps for different sources like country code or other stuffs. Sometimes there is some data inconsistency between days, we are keeping update, if newly counts lower than older, we are updating older rows. If you feels wrong data for own country, please open an issue.
+This is data repository for covid 19 history. Webcrawlers is taking snapshot for every GMT 00:00 sources below and converting to CSV. There is some data normalization steps for different sources like country code or other stuffs. Sometimes there is some data inconsistency between days, we are keeping update, if newly counts lower than older, we are updating older rows. 
+
+*If you feels wrong data for own country, please open an issue.
 
 ## Files
 
@@ -13,6 +15,11 @@ Daily Data
 
 Raw Data
 `report/raw/rawReport.csv`
+
+## Customized Country Codes
+
+X1: Diamon Princess
+X2: Jersey and Guernsey is assumed to be Channel Islands
 
 ## Data sources
 * World Health Organization (WHO): https://www.who.int/ <br>
