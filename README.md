@@ -38,3 +38,4 @@ X2: Jersey and Guernsey is assumed to be Channel Islands
 * European Centre for Disease Prevention and Control (ECDC): https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases 
 * Ministry of Health Singapore (MOH): https://www.moh.gov.sg/covid-19
 * Italy Ministry of Health: http://www.salute.gov.it/nuovocoronavirus
+* Johns Hopkins CSSE: https://github.com/CSSEGISandData/COVID-19
