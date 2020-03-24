@@ -53,11 +53,11 @@ day,countryCode,countryName,region,lat,lon,confirmed,cured,death
 2020/03/13,AF,Afghanistan,Asia,33,65,7,0,0
 2020/03/14,AF,Afghanistan,Asia,33,65,11,0,0
 2020/03/15,AF,Afghanistan,Asia,33,65,16,0,0
-2020/03/16,AF,Afghanistan,Asia,33,65,21,0,1
-2020/03/17,AF,Afghanistan,Asia,33,65,22,0,1
-2020/03/18,AF,Afghanistan,Asia,33,65,22,0,1
-2020/03/19,AF,Afghanistan,Asia,33,65,22,0,1
-2020/03/20,AF,Afghanistan,Asia,33,65,24,0,1
-2020/03/21,AF,Afghanistan,Asia,33,65,24,0,1
+2020/03/16,AF,Afghanistan,Asia,33,65,21,1,0
+2020/03/17,AF,Afghanistan,Asia,33,65,22,1,0
+2020/03/18,AF,Afghanistan,Asia,33,65,22,1,0
+2020/03/19,AF,Afghanistan,Asia,33,65,22,1,0
+2020/03/20,AF,Afghanistan,Asia,33,65,24,1,0
+2020/03/21,AF,Afghanistan,Asia,33,65,24,1,0
 2020/03/22,AF,Afghanistan,Asia,33,65,40,1,1
 2020/03/23,AF,Afghanistan,Asia,33,65,40,1,1

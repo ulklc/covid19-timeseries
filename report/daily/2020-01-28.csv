@@ -36,7 +36,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,cured,death
 2020/01/28,CI,Ivory Coast,Africa,8,-5,0,0,0
 2020/01/28,CL,Chile,Americas,-30,-71,0,0,0
 2020/01/28,CM,Cameroon,Africa,6,12,0,0,0
-2020/01/28,CN,China,Asia,35,105,5494,131,101
+2020/01/28,CN,China,Asia,35,105,5494,101,131
 2020/01/28,CO,Colombia,Americas,4,-72,0,0,0
 2020/01/28,CR,Costa Rica,Americas,10,-84,0,0,0
 2020/01/28,CU,Cuba,Americas,21.5,-80,0,0,0
@@ -92,7 +92,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,cured,death
 2020/01/28,IT,Italy,Europe,42.83333333,12.83333333,0,0,0
 2020/01/28,JM,Jamaica,Americas,18.25,-77.5,0,0,0
 2020/01/28,JO,Jordan,Asia,31,36,0,0,0
-2020/01/28,JP,Japan,Asia,36,138,7,0,1
+2020/01/28,JP,Japan,Asia,36,138,7,1,0
 2020/01/28,KE,Kenya,Africa,1,38,0,0,0
 2020/01/28,KG,Kyrgyzstan,Asia,41,75,0,0,0
 2020/01/28,KH,Cambodia,Asia,13,105,1,0,0
@@ -172,7 +172,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,cured,death
 2020/01/28,TC,Turks and Caicos Islands,Americas,21.75,-71.58333333,0,0,0
 2020/01/28,TD,Chad,Africa,15,19,0,0,0
 2020/01/28,TG,Togo,Africa,8,1.16666666,0,0,0
-2020/01/28,TH,Thailand,Asia,15,100,14,0,5
+2020/01/28,TH,Thailand,Asia,15,100,14,5,0
 2020/01/28,TL,Timor-Leste,Asia,-8.83333333,125.91666666,0,0,0
 2020/01/28,TN,Tunisia,Africa,34,9,0,0,0
 2020/01/28,TR,Turkey,Asia,39,35,0,0,0

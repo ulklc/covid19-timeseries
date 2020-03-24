@@ -54,10 +54,10 @@ day,countryCode,countryName,region,lat,lon,confirmed,cured,death
 2020/03/14,AM,Armenia,Asia,40,45,18,0,0
 2020/03/15,AM,Armenia,Asia,40,45,26,0,0
 2020/03/16,AM,Armenia,Asia,40,45,52,0,0
-2020/03/17,AM,Armenia,Asia,40,45,78,0,1
-2020/03/18,AM,Armenia,Asia,40,45,84,0,1
-2020/03/19,AM,Armenia,Asia,40,45,115,0,1
-2020/03/20,AM,Armenia,Asia,40,45,136,0,1
-2020/03/21,AM,Armenia,Asia,40,45,160,0,1
-2020/03/22,AM,Armenia,Asia,40,45,194,0,2
-2020/03/23,AM,Armenia,Asia,40,45,235,0,2
+2020/03/17,AM,Armenia,Asia,40,45,78,1,0
+2020/03/18,AM,Armenia,Asia,40,45,84,1,0
+2020/03/19,AM,Armenia,Asia,40,45,115,1,0
+2020/03/20,AM,Armenia,Asia,40,45,136,1,0
+2020/03/21,AM,Armenia,Asia,40,45,160,1,0
+2020/03/22,AM,Armenia,Asia,40,45,194,2,0
+2020/03/23,AM,Armenia,Asia,40,45,235,2,0

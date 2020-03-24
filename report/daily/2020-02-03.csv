@@ -8,7 +8,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,cured,death
 2020/02/03,AO,Angola,Africa,-12.5,18.5,0,0,0
 2020/02/03,AR,Argentina,Americas,-34,-64,0,0,0
 2020/02/03,AT,Austria,Europe,47.33333333,13.33333333,0,0,0
-2020/02/03,AU,Australia,Oceania,-27,133,12,0,2
+2020/02/03,AU,Australia,Oceania,-27,133,12,2,0
 2020/02/03,AW,Aruba,Americas,12.5,-69.96666666,0,0,0
 2020/02/03,AZ,Azerbaijan,Asia,40.5,47.5,0,0,0
 2020/02/03,BA,Bosnia and Herzegovina,Europe,44,18,0,0,0
@@ -36,7 +36,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,cured,death
 2020/02/03,CI,Ivory Coast,Africa,8,-5,0,0,0
 2020/02/03,CL,Chile,Americas,-30,-71,0,0,0
 2020/02/03,CM,Cameroon,Africa,6,12,0,0,0
-2020/02/03,CN,China,Asia,35,105,19693,425,614
+2020/02/03,CN,China,Asia,35,105,19693,614,425
 2020/02/03,CO,Colombia,Americas,4,-72,0,0,0
 2020/02/03,CR,Costa Rica,Americas,10,-84,0,0,0
 2020/02/03,CU,Cuba,Americas,21.5,-80,0,0,0
@@ -92,7 +92,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,cured,death
 2020/02/03,IT,Italy,Europe,42.83333333,12.83333333,2,0,0
 2020/02/03,JM,Jamaica,Americas,18.25,-77.5,0,0,0
 2020/02/03,JO,Jordan,Asia,31,36,0,0,0
-2020/02/03,JP,Japan,Asia,36,138,20,0,1
+2020/02/03,JP,Japan,Asia,36,138,20,1,0
 2020/02/03,KE,Kenya,Africa,1,38,0,0,0
 2020/02/03,KG,Kyrgyzstan,Asia,41,75,0,0,0
 2020/02/03,KH,Cambodia,Asia,13,105,1,0,0
@@ -141,7 +141,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,cured,death
 2020/02/03,PE,Peru,Americas,-10,-76,0,0,0
 2020/02/03,PF,French Polynesia,Oceania,-15,-140,0,0,0
 2020/02/03,PG,Papua New Guinea,Oceania,-6,147,0,0,0
-2020/02/03,PH,Philippines,Asia,13,122,2,1,0
+2020/02/03,PH,Philippines,Asia,13,122,2,0,1
 2020/02/03,PK,Pakistan,Asia,30,70,0,0,0
 2020/02/03,PL,Poland,Europe,52,20,0,0,0
 2020/02/03,PR,Puerto Rico,Americas,18.25,-66.5,0,0,0
@@ -172,7 +172,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,cured,death
 2020/02/03,TC,Turks and Caicos Islands,Americas,21.75,-71.58333333,0,0,0
 2020/02/03,TD,Chad,Africa,15,19,0,0,0
 2020/02/03,TG,Togo,Africa,8,1.16666666,0,0,0
-2020/02/03,TH,Thailand,Asia,15,100,19,0,5
+2020/02/03,TH,Thailand,Asia,15,100,19,5,0
 2020/02/03,TL,Timor-Leste,Asia,-8.83333333,125.91666666,0,0,0
 2020/02/03,TN,Tunisia,Africa,34,9,0,0,0
 2020/02/03,TR,Turkey,Asia,39,35,0,0,0
@@ -188,7 +188,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,cured,death
 2020/02/03,VC,Saint Vincent and the Grenadines,Americas,13.25,-61.2,0,0,0
 2020/02/03,VE,Venezuela,Americas,8,-66,0,0,0
 2020/02/03,VI,United States Virgin Islands,Americas,18.35,-64.933333,0,0,0
-2020/02/03,VN,Vietnam,Asia,16.16666666,107.83333333,8,0,1
+2020/02/03,VN,Vietnam,Asia,16.16666666,107.83333333,8,1,0
 2020/02/03,X1,Diamond Princess,Asia,35.45582,139.68188,0,0,0
 2020/02/03,X2,Channel Islands,Europe,49.372284,-2.364351,0,0,0
 2020/02/03,YT,Mayotte,Africa,-12.83333333,45.16666666,0,0,0

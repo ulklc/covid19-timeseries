@@ -58,6 +58,6 @@ day,countryCode,countryName,region,lat,lon,confirmed,cured,death
 2020/03/18,PR,Puerto Rico,Americas,18.25,-66.5,5,0,0
 2020/03/19,PR,Puerto Rico,Americas,18.25,-66.5,5,0,0
 2020/03/20,PR,Puerto Rico,Americas,18.25,-66.5,14,0,0
-2020/03/21,PR,Puerto Rico,Americas,18.25,-66.5,21,1,0
-2020/03/22,PR,Puerto Rico,Americas,18.25,-66.5,23,1,0
-2020/03/23,PR,Puerto Rico,Americas,18.25,-66.5,31,2,1
+2020/03/21,PR,Puerto Rico,Americas,18.25,-66.5,21,0,1
+2020/03/22,PR,Puerto Rico,Americas,18.25,-66.5,23,0,1
+2020/03/23,PR,Puerto Rico,Americas,18.25,-66.5,31,1,2

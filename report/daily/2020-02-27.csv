@@ -1,6 +1,6 @@
 day,countryCode,countryName,region,lat,lon,confirmed,cured,death
 2020/02/27,AD,Andorra,Europe,42.5,1.5,0,0,0
-2020/02/27,AE,United Arab Emirates,Asia,24,54,13,0,4
+2020/02/27,AE,United Arab Emirates,Asia,24,54,13,4,0
 2020/02/27,AF,Afghanistan,Asia,33,65,1,0,0
 2020/02/27,AG,Antigua and Barbuda,Americas,17.05,-61.8,0,0,0
 2020/02/27,AL,Albania,Europe,41,20,0,0,0
@@ -8,13 +8,13 @@ day,countryCode,countryName,region,lat,lon,confirmed,cured,death
 2020/02/27,AO,Angola,Africa,-12.5,18.5,0,0,0
 2020/02/27,AR,Argentina,Americas,-34,-64,0,0,0
 2020/02/27,AT,Austria,Europe,47.33333333,13.33333333,3,0,0
-2020/02/27,AU,Australia,Oceania,-27,133,23,0,11
+2020/02/27,AU,Australia,Oceania,-27,133,23,11,0
 2020/02/27,AW,Aruba,Americas,12.5,-69.96666666,0,0,0
 2020/02/27,AZ,Azerbaijan,Asia,40.5,47.5,0,0,0
 2020/02/27,BA,Bosnia and Herzegovina,Europe,44,18,0,0,0
 2020/02/27,BB,Barbados,Americas,13.16666666,-59.53333333,0,0,0
 2020/02/27,BD,Bangladesh,Asia,24,90,0,0,0
-2020/02/27,BE,Belgium,Europe,50.83333333,4,1,0,1
+2020/02/27,BE,Belgium,Europe,50.83333333,4,1,1,0
 2020/02/27,BF,Burkina Faso,Africa,13,-2,0,0,0
 2020/02/27,BG,Bulgaria,Europe,43,25,0,0,0
 2020/02/27,BH,Bahrain,Asia,26,50.55,33,0,0
@@ -28,7 +28,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,cured,death
 2020/02/27,BT,Bhutan,Asia,27.5,90.5,0,0,0
 2020/02/27,BY,Belarus,Europe,53,28,0,0,0
 2020/02/27,BZ,Belize,Americas,17.25,-88.75,0,0,0
-2020/02/27,CA,Canada,Americas,60,-95,13,0,6
+2020/02/27,CA,Canada,Americas,60,-95,13,6,0
 2020/02/27,CD,DR Congo,Africa,0,25,0,0,0
 2020/02/27,CF,Central African Republic,Africa,7,21,0,0,0
 2020/02/27,CG,Republic of the Congo,Africa,-1,15,0,0,0
@@ -36,7 +36,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,cured,death
 2020/02/27,CI,Ivory Coast,Africa,8,-5,0,0,0
 2020/02/27,CL,Chile,Americas,-30,-71,0,0,0
 2020/02/27,CM,Cameroon,Africa,6,12,0,0,0
-2020/02/27,CN,China,Asia,35,105,78498,2744,32898
+2020/02/27,CN,China,Asia,35,105,78498,32898,2744
 2020/02/27,CO,Colombia,Americas,4,-72,0,0,0
 2020/02/27,CR,Costa Rica,Americas,10,-84,0,0,0
 2020/02/27,CU,Cuba,Americas,21.5,-80,0,0,0
@@ -44,7 +44,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,cured,death
 2020/02/27,CW,Curaçao,Americas,12.116667,-68.933333,0,0,0
 2020/02/27,CY,Cyprus,Europe,35,33,0,0,0
 2020/02/27,CZ,Czechia,Europe,49.75,15.5,0,0,0
-2020/02/27,DE,Germany,Europe,51,9,46,0,16
+2020/02/27,DE,Germany,Europe,51,9,46,16,0
 2020/02/27,DJ,Djibouti,Africa,11.5,43,0,0,0
 2020/02/27,DK,Denmark,Europe,56,10,1,0,0
 2020/02/27,DM,Dominica,Americas,15.41666666,-61.33333333,0,0,0
@@ -54,14 +54,14 @@ day,countryCode,countryName,region,lat,lon,confirmed,cured,death
 2020/02/27,EE,Estonia,Europe,59,26,1,0,0
 2020/02/27,EG,Egypt,Africa,27,30,1,0,0
 2020/02/27,ER,Eritrea,Africa,15,39,0,0,0
-2020/02/27,ES,Spain,Europe,40,-4,15,0,2
+2020/02/27,ES,Spain,Europe,40,-4,15,2,0
 2020/02/27,ET,Ethiopia,Africa,8,38,0,0,0
-2020/02/27,FI,Finland,Europe,64,26,2,0,1
+2020/02/27,FI,Finland,Europe,64,26,2,1,0
 2020/02/27,FJ,Fiji,Oceania,-18,175,0,0,0
 2020/02/27,FO,Faroe Islands,Europe,62,-7,0,0,0
-2020/02/27,FR,France,Europe,46,2,38,2,11
+2020/02/27,FR,France,Europe,46,2,38,11,2
 2020/02/27,GA,Gabon,Africa,-1,11.75,0,0,0
-2020/02/27,GB,United Kingdom,Europe,54,-2,15,0,8
+2020/02/27,GB,United Kingdom,Europe,54,-2,15,8,0
 2020/02/27,GD,Grenada,Americas,12.11666666,-61.66666666,0,0,0
 2020/02/27,GE,Georgia,Asia,42,43.5,1,0,0
 2020/02/27,GF,French Guiana,Americas,4,-53,0,0,0
@@ -76,34 +76,34 @@ day,countryCode,countryName,region,lat,lon,confirmed,cured,death
 2020/02/27,GT,Guatemala,Americas,15.5,-90.25,0,0,0
 2020/02/27,GU,Guam,Oceania,13.46666666,144.78333333,0,0,0
 2020/02/27,GY,Guyana,Americas,5,-59,0,0,0
-2020/02/27,HK,Hong Kong,Asia,22.267,114.188,92,2,24
+2020/02/27,HK,Hong Kong,Asia,22.267,114.188,92,24,2
 2020/02/27,HN,Honduras,Americas,15,-86.5,0,0,0
 2020/02/27,HR,Croatia,Europe,45.16666666,15.5,3,0,0
 2020/02/27,HT,Haiti,Americas,19,-72.41666666,0,0,0
 2020/02/27,HU,Hungary,Europe,47,20,0,0,0
 2020/02/27,ID,Indonesia,Asia,-5,120,0,0,0
 2020/02/27,IE,Ireland,Europe,53,-8,0,0,0
-2020/02/27,IL,Israel,Asia,31.47,35.13,3,0,1
+2020/02/27,IL,Israel,Asia,31.47,35.13,3,1,0
 2020/02/27,IM,Isle of Man,Europe,54.25,-4.5,0,0,0
-2020/02/27,IN,India,Asia,20,77,3,0,3
+2020/02/27,IN,India,Asia,20,77,3,3,0
 2020/02/27,IQ,Iraq,Asia,33,44,7,0,0
-2020/02/27,IR,Iran,Asia,32,53,245,26,49
+2020/02/27,IR,Iran,Asia,32,53,245,49,26
 2020/02/27,IS,Iceland,Europe,65,-18,0,0,0
-2020/02/27,IT,Italy,Europe,42.83333333,12.83333333,655,17,45
+2020/02/27,IT,Italy,Europe,42.83333333,12.83333333,655,45,17
 2020/02/27,JM,Jamaica,Americas,18.25,-77.5,0,0,0
 2020/02/27,JO,Jordan,Asia,31,36,0,0,0
-2020/02/27,JP,Japan,Asia,36,138,214,4,22
+2020/02/27,JP,Japan,Asia,36,138,214,22,4
 2020/02/27,KE,Kenya,Africa,1,38,0,0,0
 2020/02/27,KG,Kyrgyzstan,Asia,41,75,0,0,0
-2020/02/27,KH,Cambodia,Asia,13,105,1,0,1
-2020/02/27,KR,South Korea,Asia,37,127.5,1766,13,22
+2020/02/27,KH,Cambodia,Asia,13,105,1,1,0
+2020/02/27,KR,South Korea,Asia,37,127.5,1766,22,13
 2020/02/27,KW,Kuwait,Asia,29.5,45.75,43,0,0
 2020/02/27,KY,Cayman Islands,Americas,19.5,-80.5,0,0,0
 2020/02/27,KZ,Kazakhstan,Asia,48,68,0,0,0
 2020/02/27,LB,Lebanon,Asia,33.83333333,35.83333333,2,0,0
 2020/02/27,LC,Saint Lucia,Americas,13.88333333,-60.96666666,0,0,0
 2020/02/27,LI,Liechtenstein,Europe,47.26666666,9.53333333,0,0,0
-2020/02/27,LK,Sri Lanka,Asia,7,81,1,0,1
+2020/02/27,LK,Sri Lanka,Asia,7,81,1,1,0
 2020/02/27,LR,Liberia,Africa,6.5,-9.5,0,0,0
 2020/02/27,LT,Lithuania,Europe,56,24,0,0,0
 2020/02/27,LU,Luxembourg,Europe,49.75,6.16666666,0,0,0
@@ -117,7 +117,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,cured,death
 2020/02/27,MK,North Macedonia,Europe,41.83333333,22,1,0,0
 2020/02/27,MM,Myanmar,Asia,22,98,0,0,0
 2020/02/27,MN,Mongolia,Asia,46,105,0,0,0
-2020/02/27,MO,Macau,Asia,22.16666666,113.55,10,0,8
+2020/02/27,MO,Macau,Asia,22.16666666,113.55,10,8,0
 2020/02/27,MQ,Martinique,Americas,14.666667,-61,0,0,0
 2020/02/27,MR,Mauritania,Africa,20,-12,0,0,0
 2020/02/27,MS,Montserrat,Americas,16.75,-62.2,0,0,0
@@ -125,7 +125,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,cured,death
 2020/02/27,MU,Mauritius,Africa,-20.28333333,57.55,0,0,0
 2020/02/27,MV,Maldives,Asia,3.25,73,0,0,0
 2020/02/27,MX,Mexico,Americas,23,-102,0,0,0
-2020/02/27,MY,Malaysia,Asia,2.5,112.5,23,0,18
+2020/02/27,MY,Malaysia,Asia,2.5,112.5,23,18,0
 2020/02/27,MZ,Mozambique,Africa,-18.25,35,0,0,0
 2020/02/27,NA,Namibia,Africa,-22,17,0,0,0
 2020/02/27,NC,New Caledonia,Oceania,-21.5,165.5,0,0,0
@@ -134,7 +134,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,cured,death
 2020/02/27,NI,Nicaragua,Americas,13,-85,0,0,0
 2020/02/27,NL,Netherlands,Europe,52.5,5.75,1,0,0
 2020/02/27,NO,Norway,Europe,62,10,1,0,0
-2020/02/27,NP,Nepal,Asia,28,84,1,0,1
+2020/02/27,NP,Nepal,Asia,28,84,1,1,0
 2020/02/27,NZ,New Zealand,Oceania,-41,174,0,0,0
 2020/02/27,OM,Oman,Asia,21,57,4,0,0
 2020/02/27,PA,Panama,Americas,9,-80,0,0,0
@@ -152,13 +152,13 @@ day,countryCode,countryName,region,lat,lon,confirmed,cured,death
 2020/02/27,RE,Réunion,Africa,-21.15,55.5,0,0,0
 2020/02/27,RO,Romania,Europe,46,25,1,0,0
 2020/02/27,RS,Serbia,Europe,44,21,0,0,0
-2020/02/27,RU,Russia,Europe,60,100,2,0,2
+2020/02/27,RU,Russia,Europe,60,100,2,2,0
 2020/02/27,RW,Rwanda,Africa,-2,30,0,0,0
 2020/02/27,SA,Saudi Arabia,Asia,25,45,0,0,0
 2020/02/27,SC,Seychelles,Africa,-4.58333333,55.66666666,0,0,0
 2020/02/27,SD,Sudan,Africa,15,30,0,0,0
 2020/02/27,SE,Sweden,Europe,62,15,7,0,0
-2020/02/27,SG,Singapore,Asia,1.36666666,103.8,93,0,62
+2020/02/27,SG,Singapore,Asia,1.36666666,103.8,93,62,0
 2020/02/27,SI,Slovenia,Europe,46.11666666,14.81666666,0,0,0
 2020/02/27,SK,Slovakia,Europe,48.66666666,19.5,0,0,0
 2020/02/27,SM,San Marino,Europe,43.76666666,12.41666666,1,0,0
@@ -172,24 +172,24 @@ day,countryCode,countryName,region,lat,lon,confirmed,cured,death
 2020/02/27,TC,Turks and Caicos Islands,Americas,21.75,-71.58333333,0,0,0
 2020/02/27,TD,Chad,Africa,15,19,0,0,0
 2020/02/27,TG,Togo,Africa,8,1.16666666,0,0,0
-2020/02/27,TH,Thailand,Asia,15,100,40,0,22
+2020/02/27,TH,Thailand,Asia,15,100,40,22,0
 2020/02/27,TL,Timor-Leste,Asia,-8.83333333,125.91666666,0,0,0
 2020/02/27,TN,Tunisia,Africa,34,9,0,0,0
 2020/02/27,TR,Turkey,Asia,39,35,0,0,0
 2020/02/27,TT,Trinidad and Tobago,Americas,11,-61,0,0,0
-2020/02/27,TW,Taiwan,Asia,23.5,121,32,1,5
+2020/02/27,TW,Taiwan,Asia,23.5,121,32,5,1
 2020/02/27,TZ,Tanzania,Africa,-6,35,0,0,0
 2020/02/27,UA,Ukraine,Europe,49,32,0,0,0
 2020/02/27,UG,Uganda,Africa,1,32,0,0,0
-2020/02/27,US,United States,Americas,38,-97,58,0,6
+2020/02/27,US,United States,Americas,38,-97,58,6,0
 2020/02/27,UY,Uruguay,Americas,-33,-56,0,0,0
 2020/02/27,UZ,Uzbekistan,Asia,41,64,0,0,0
 2020/02/27,VA,Vatican City,Europe,41.9,12.45,0,0,0
 2020/02/27,VC,Saint Vincent and the Grenadines,Americas,13.25,-61.2,0,0,0
 2020/02/27,VE,Venezuela,Americas,8,-66,0,0,0
 2020/02/27,VI,United States Virgin Islands,Americas,18.35,-64.933333,0,0,0
-2020/02/27,VN,Vietnam,Asia,16.16666666,107.83333333,16,0,16
-2020/02/27,X1,Diamond Princess,Asia,35.45582,139.68188,696,4,10
+2020/02/27,VN,Vietnam,Asia,16.16666666,107.83333333,16,16,0
+2020/02/27,X1,Diamond Princess,Asia,35.45582,139.68188,696,10,4
 2020/02/27,X2,Channel Islands,Europe,49.372284,-2.364351,0,0,0
 2020/02/27,YT,Mayotte,Africa,-12.83333333,45.16666666,0,0,0
 2020/02/27,ZA,South Africa,Africa,-29,24,0,0,0
