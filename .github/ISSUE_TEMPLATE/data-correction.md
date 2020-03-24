@@ -2,7 +2,7 @@
 name: Data Correction
 about: Create a report to help us improve
 title: ''
-labels: ''
+labels: data correction
 assignees: ''
 
 ---
