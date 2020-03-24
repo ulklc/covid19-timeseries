@@ -19,6 +19,7 @@ Raw Data
 ## Customized Country Codes
 
 X1: Diamon Princess
+
 X2: Jersey and Guernsey is assumed to be Channel Islands
 
 ## Data sources
