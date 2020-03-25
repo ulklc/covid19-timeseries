@@ -8,13 +8,13 @@ This is data repository for covid 19 history. Webcrawlers is taking snapshot for
 ## Files
 
 Country data
-`report/country/{countryCode}.csv`
+`countryReport/country/{countryCode}.csv`
 
 Daily Data
-`report/daily/{YYYY-MM-DD}.csv`
+`countryReport/daily/{YYYY-MM-DD}.csv`
 
 Raw Data
-`report/raw/rawReport.csv`
+`countryReport/raw/rawReport.csv`
 
 ## Customized Country Codes
 
