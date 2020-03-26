@@ -49,7 +49,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/03/23,DK,Denmark,Europe,56,10,1450,1,24
 2020/03/23,DM,Dominica,Americas,15.41666666,-61.33333333,2,0,0
 2020/03/23,DO,Dominican Republic,Americas,19,-70.66666666,245,3,3
-2020/03/23,DZ,Algeria,Africa,28,3,230,65,17
+2020/03/23,DZ,Algeria,Africa,28,3,230,24,17
 2020/03/23,EC,Ecuador,Americas,-2,-77.5,981,3,18
 2020/03/23,EE,Estonia,Europe,59,26,352,4,0
 2020/03/23,EG,Egypt,Africa,27,30,366,68,19
@@ -97,6 +97,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/03/23,KE,Kenya,Africa,1,38,16,0,0
 2020/03/23,KG,Kyrgyzstan,Asia,41,75,16,0,0
 2020/03/23,KH,Cambodia,Asia,13,105,87,2,0
+2020/03/23,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
 2020/03/23,KR,South Korea,Asia,37,127.5,8961,3166,111
 2020/03/23,KW,Kuwait,Asia,29.5,45.75,189,30,0
 2020/03/23,KY,Cayman Islands,Americas,19.5,-80.5,5,0,1
@@ -191,6 +192,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/03/23,VA,Vatican City,Europe,41.9,12.45,1,0,0
 2020/03/23,VC,Saint Vincent and the Grenadines,Americas,13.25,-61.2,1,0,0
 2020/03/23,VE,Venezuela,Americas,8,-66,77,15,0
+2020/03/23,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
 2020/03/23,VI,United States Virgin Islands,Americas,18.35,-64.933333,17,0,0
 2020/03/23,VN,Vietnam,Asia,16.16666666,107.83333333,123,17,0
 2020/03/23,X1,Diamond Princess,Asia,35.45582,139.68188,712,567,8

@@ -3256,13 +3256,13 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/03/16,DZ,Algeria,Africa,28,3,54,12,4
 2020/03/17,DZ,Algeria,Africa,28,3,60,12,4
 2020/03/18,DZ,Algeria,Africa,28,3,74,12,7
-2020/03/19,DZ,Algeria,Africa,28,3,87,32,9
-2020/03/20,DZ,Algeria,Africa,28,3,90,32,11
-2020/03/21,DZ,Algeria,Africa,28,3,139,32,15
-2020/03/22,DZ,Algeria,Africa,28,3,201,65,17
-2020/03/23,DZ,Algeria,Africa,28,3,230,65,17
-2020/03/24,DZ,Algeria,Africa,28,3,264,89,19
-2020/03/25,DZ,Algeria,Africa,28,3,264,89,19
+2020/03/19,DZ,Algeria,Africa,28,3,87,24,9
+2020/03/20,DZ,Algeria,Africa,28,3,90,24,11
+2020/03/21,DZ,Algeria,Africa,28,3,139,24,15
+2020/03/22,DZ,Algeria,Africa,28,3,201,24,17
+2020/03/23,DZ,Algeria,Africa,28,3,230,24,17
+2020/03/24,DZ,Algeria,Africa,28,3,264,24,19
+2020/03/25,DZ,Algeria,Africa,28,3,264,24,19
 2020/01/22,EC,Ecuador,Americas,-2,-77.5,0,0,0
 2020/01/23,EC,Ecuador,Americas,-2,-77.5,0,0,0
 2020/01/24,EC,Ecuador,Americas,-2,-77.5,0,0,0
@@ -6271,6 +6271,70 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/03/23,KH,Cambodia,Asia,13,105,87,2,0
 2020/03/24,KH,Cambodia,Asia,13,105,91,4,0
 2020/03/25,KH,Cambodia,Asia,13,105,96,10,0
+2020/01/22,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
+2020/01/23,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
+2020/01/24,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
+2020/01/25,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
+2020/01/26,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
+2020/01/27,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
+2020/01/28,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
+2020/01/29,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
+2020/01/30,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
+2020/01/31,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
+2020/02/01,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
+2020/02/02,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
+2020/02/03,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
+2020/02/04,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
+2020/02/05,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
+2020/02/06,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
+2020/02/07,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
+2020/02/08,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
+2020/02/09,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
+2020/02/10,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
+2020/02/11,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
+2020/02/12,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
+2020/02/13,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
+2020/02/14,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
+2020/02/15,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
+2020/02/16,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
+2020/02/17,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
+2020/02/18,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
+2020/02/19,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
+2020/02/20,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
+2020/02/21,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
+2020/02/22,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
+2020/02/23,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
+2020/02/24,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
+2020/02/25,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
+2020/02/26,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
+2020/02/27,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
+2020/02/28,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
+2020/02/29,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
+2020/03/01,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
+2020/03/02,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
+2020/03/03,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
+2020/03/04,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
+2020/03/05,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
+2020/03/06,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
+2020/03/07,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
+2020/03/08,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
+2020/03/09,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
+2020/03/10,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
+2020/03/11,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
+2020/03/12,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
+2020/03/13,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
+2020/03/14,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
+2020/03/15,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
+2020/03/16,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
+2020/03/17,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
+2020/03/18,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
+2020/03/19,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
+2020/03/20,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
+2020/03/21,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
+2020/03/22,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
+2020/03/23,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
+2020/03/24,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
+2020/03/25,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
 2020/01/22,KR,South Korea,Asia,37,127.5,1,0,0
 2020/01/23,KR,South Korea,Asia,37,127.5,1,0,0
 2020/01/24,KR,South Korea,Asia,37,127.5,2,0,0
@@ -12287,6 +12351,70 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/03/23,VE,Venezuela,Americas,8,-66,77,15,0
 2020/03/24,VE,Venezuela,Americas,8,-66,84,15,0
 2020/03/25,VE,Venezuela,Americas,8,-66,91,15,0
+2020/01/22,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
+2020/01/23,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
+2020/01/24,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
+2020/01/25,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
+2020/01/26,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
+2020/01/27,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
+2020/01/28,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
+2020/01/29,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
+2020/01/30,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
+2020/01/31,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
+2020/02/01,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
+2020/02/02,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
+2020/02/03,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
+2020/02/04,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
+2020/02/05,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
+2020/02/06,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
+2020/02/07,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
+2020/02/08,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
+2020/02/09,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
+2020/02/10,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
+2020/02/11,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
+2020/02/12,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
+2020/02/13,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
+2020/02/14,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
+2020/02/15,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
+2020/02/16,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
+2020/02/17,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
+2020/02/18,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
+2020/02/19,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
+2020/02/20,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
+2020/02/21,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
+2020/02/22,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
+2020/02/23,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
+2020/02/24,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
+2020/02/25,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
+2020/02/26,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
+2020/02/27,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
+2020/02/28,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
+2020/02/29,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
+2020/03/01,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
+2020/03/02,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
+2020/03/03,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
+2020/03/04,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
+2020/03/05,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
+2020/03/06,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
+2020/03/07,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
+2020/03/08,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
+2020/03/09,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
+2020/03/10,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
+2020/03/11,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
+2020/03/12,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
+2020/03/13,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
+2020/03/14,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
+2020/03/15,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
+2020/03/16,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
+2020/03/17,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
+2020/03/18,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
+2020/03/19,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
+2020/03/20,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
+2020/03/21,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
+2020/03/22,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
+2020/03/23,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
+2020/03/24,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
+2020/03/25,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
 2020/01/22,VI,United States Virgin Islands,Americas,18.35,-64.933333,0,0,0
 2020/01/23,VI,United States Virgin Islands,Americas,18.35,-64.933333,0,0,0
 2020/01/24,VI,United States Virgin Islands,Americas,18.35,-64.933333,0,0,0
