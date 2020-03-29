@@ -22,6 +22,8 @@ X1: Diamon Princess
 
 X2: Jersey and Guernsey is assumed to be Channel Islands
 
+X3: MS Zaandam
+
 ## Data sources
 * World Health Organization (WHO): https://www.who.int/ <br>
 * DXY.cn. Pneumonia. 2020. http://3g.dxy.cn/newh5/view/pneumonia.  <br>
