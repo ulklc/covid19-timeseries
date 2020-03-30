@@ -41,3 +41,4 @@ X3: MS Zaandam
 * Ministry of Health Singapore (MOH): https://www.moh.gov.sg/covid-19
 * Italy Ministry of Health: http://www.salute.gov.it/nuovocoronavirus
 * Johns Hopkins CSSE: https://github.com/CSSEGISandData/COVID-19
+* WorldoMeters: https://www.worldometers.info/coronavirus/
