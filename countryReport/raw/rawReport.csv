@@ -2105,16 +2105,16 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/03/21,BS,Bahamas,Americas,24.25,-76,4,0,0
 2020/03/22,BS,Bahamas,Americas,24.25,-76,4,0,0
 2020/03/23,BS,Bahamas,Americas,24.25,-76,4,0,0
-2020/03/24,BS,Bahamas,Americas,24.25,-76,5,1,0
-2020/03/25,BS,Bahamas,Americas,24.25,-76,5,1,0
-2020/03/26,BS,Bahamas,Americas,24.25,-76,9,1,0
-2020/03/27,BS,Bahamas,Americas,24.25,-76,10,1,0
-2020/03/28,BS,Bahamas,Americas,24.25,-76,10,1,0
-2020/03/29,BS,Bahamas,Americas,24.25,-76,14,1,0
-2020/03/30,BS,Bahamas,Americas,24.25,-76,14,1,0
-2020/03/31,BS,Bahamas,Americas,24.25,-76,14,1,0
-2020/04/01,BS,Bahamas,Americas,24.25,-76,21,1,1
-2020/04/02,BS,Bahamas,Americas,24.25,-76,24,1,1
+2020/03/24,BS,Bahamas,Americas,24.25,-76,5,0,0
+2020/03/25,BS,Bahamas,Americas,24.25,-76,5,0,0
+2020/03/26,BS,Bahamas,Americas,24.25,-76,9,0,0
+2020/03/27,BS,Bahamas,Americas,24.25,-76,10,0,0
+2020/03/28,BS,Bahamas,Americas,24.25,-76,10,0,0
+2020/03/29,BS,Bahamas,Americas,24.25,-76,14,0,0
+2020/03/30,BS,Bahamas,Americas,24.25,-76,14,0,0
+2020/03/31,BS,Bahamas,Americas,24.25,-76,14,0,0
+2020/04/01,BS,Bahamas,Americas,24.25,-76,21,0,1
+2020/04/02,BS,Bahamas,Americas,24.25,-76,24,0,1
 2020/04/03,BS,Bahamas,Americas,24.25,-76,24,0,3
 2020/01/22,BT,Bhutan,Asia,27.5,90.5,0,0,0
 2020/01/23,BT,Bhutan,Asia,27.5,90.5,0,0,0
@@ -4598,6 +4598,79 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/04/01,FJ,Fiji,Oceania,-18,175,5,0,0
 2020/04/02,FJ,Fiji,Oceania,-18,175,7,0,0
 2020/04/03,FJ,Fiji,Oceania,-18,175,7,0,0
+2020/01/22,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/01/23,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/01/24,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/01/25,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/01/26,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/01/27,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/01/28,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/01/29,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/01/30,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/01/31,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/02/01,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/02/02,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/02/03,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/02/04,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/02/05,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/02/06,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/02/07,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/02/08,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/02/09,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/02/10,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/02/11,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/02/12,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/02/13,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/02/14,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/02/15,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/02/16,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/02/17,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/02/18,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/02/19,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/02/20,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/02/21,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/02/22,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/02/23,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/02/24,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/02/25,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/02/26,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/02/27,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/02/28,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/02/29,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/03/01,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/03/02,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/03/03,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/03/04,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/03/05,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/03/06,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/03/07,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/03/08,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/03/09,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/03/10,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/03/11,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/03/12,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/03/13,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/03/14,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/03/15,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/03/16,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/03/17,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/03/18,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/03/19,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/03/20,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/03/21,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/03/22,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/03/23,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/03/24,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/03/25,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/03/26,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/03/27,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/03/28,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/03/29,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/03/30,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/03/31,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/04/01,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/04/02,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
+2020/04/03,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
 2020/01/22,FO,Faroe Islands,Europe,62,-7,0,0,0
 2020/01/23,FO,Faroe Islands,Europe,62,-7,0,0,0
 2020/01/24,FO,Faroe Islands,Europe,62,-7,0,0,0
@@ -8392,7 +8465,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/03/30,LV,Latvia,Europe,57,25,376,1,0
 2020/03/31,LV,Latvia,Europe,57,25,398,1,0
 2020/04/01,LV,Latvia,Europe,57,25,446,1,0
-2020/04/02,LV,Latvia,Europe,57,25,458,31,0
+2020/04/02,LV,Latvia,Europe,57,25,458,1,0
 2020/04/03,LV,Latvia,Europe,57,25,493,1,1
 2020/01/22,LY,Libya,Africa,25,17,0,0,0
 2020/01/23,LY,Libya,Africa,25,17,0,0,0
@@ -9708,6 +9781,79 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/04/01,MV,Maldives,Asia,3.25,73,19,13,0
 2020/04/02,MV,Maldives,Asia,3.25,73,19,13,0
 2020/04/03,MV,Maldives,Asia,3.25,73,19,13,0
+2020/01/22,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/01/23,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/01/24,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/01/25,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/01/26,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/01/27,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/01/28,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/01/29,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/01/30,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/01/31,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/02/01,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/02/02,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/02/03,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/02/04,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/02/05,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/02/06,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/02/07,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/02/08,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/02/09,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/02/10,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/02/11,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/02/12,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/02/13,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/02/14,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/02/15,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/02/16,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/02/17,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/02/18,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/02/19,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/02/20,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/02/21,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/02/22,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/02/23,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/02/24,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/02/25,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/02/26,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/02/27,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/02/28,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/02/29,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/03/01,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/03/02,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/03/03,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/03/04,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/03/05,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/03/06,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/03/07,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/03/08,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/03/09,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/03/10,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/03/11,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/03/12,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/03/13,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/03/14,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/03/15,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/03/16,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/03/17,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/03/18,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/03/19,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/03/20,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/03/21,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/03/22,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/03/23,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/03/24,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/03/25,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/03/26,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/03/27,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/03/28,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/03/29,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/03/30,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/03/31,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/04/01,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/04/02,MW,Malawi,Africa,-13.5,34,0,0,0
+2020/04/03,MW,Malawi,Africa,-13.5,34,0,0,0
 2020/01/22,MX,Mexico,Americas,23,-102,0,0,0
 2020/01/23,MX,Mexico,Americas,23,-102,0,0,0
 2020/01/24,MX,Mexico,Americas,23,-102,0,0,0
@@ -13063,7 +13209,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/03/29,TC,Turks and Caicos Islands,Americas,21.75,-71.58333333,4,0,0
 2020/03/30,TC,Turks and Caicos Islands,Americas,21.75,-71.58333333,5,0,0
 2020/03/31,TC,Turks and Caicos Islands,Americas,21.75,-71.58333333,5,0,0
-2020/04/01,TC,Turks and Caicos Islands,Americas,21.75,-71.58333333,6,0,0
+2020/04/01,TC,Turks and Caicos Islands,Americas,21.75,-71.58333333,5,0,0
 2020/04/02,TC,Turks and Caicos Islands,Americas,21.75,-71.58333333,5,0,0
 2020/04/03,TC,Turks and Caicos Islands,Americas,21.75,-71.58333333,5,0,0
 2020/01/22,TD,Chad,Africa,15,19,0,0,0

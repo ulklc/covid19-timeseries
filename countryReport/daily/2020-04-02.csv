@@ -27,7 +27,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/04/02,BO,Bolivia,Americas,-17,-65,123,1,8
 2020/04/02,BQ,Caribbean Netherlands,Americas,12.18,-68.25,2,0,0
 2020/04/02,BR,Brazil,Americas,-10,-55,8044,127,324
-2020/04/02,BS,Bahamas,Americas,24.25,-76,24,1,1
+2020/04/02,BS,Bahamas,Americas,24.25,-76,24,0,1
 2020/04/02,BT,Bhutan,Asia,27.5,90.5,5,1,0
 2020/04/02,BW,Botswana,Africa,-22,24,4,0,1
 2020/04/02,BY,Belarus,Europe,53,28,304,53,4
@@ -62,6 +62,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/04/02,ET,Ethiopia,Africa,8,38,29,3,0
 2020/04/02,FI,Finland,Europe,64,26,1518,300,19
 2020/04/02,FJ,Fiji,Oceania,-18,175,7,0,0
+2020/04/02,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
 2020/04/02,FO,Faroe Islands,Europe,62,-7,177,81,0
 2020/04/02,FR,France,Europe,46,2,59105,12428,5387
 2020/04/02,GA,Gabon,Africa,-1,11.75,21,0,1
@@ -113,7 +114,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/04/02,LR,Liberia,Africa,6.5,-9.5,6,0,0
 2020/04/02,LT,Lithuania,Europe,56,24,649,7,9
 2020/04/02,LU,Luxembourg,Europe,49.75,6.16666666,2487,80,30
-2020/04/02,LV,Latvia,Europe,57,25,458,31,0
+2020/04/02,LV,Latvia,Europe,57,25,458,1,0
 2020/04/02,LY,Libya,Africa,25,17,11,0,1
 2020/04/02,MA,Morocco,Africa,32,-5,708,31,44
 2020/04/02,MC,Monaco,Europe,43.73333333,7.4,60,2,1
@@ -132,6 +133,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/04/02,MT,Malta,Europe,35.83333333,14.58333333,196,2,0
 2020/04/02,MU,Mauritius,Africa,-20.28333333,57.55,169,0,7
 2020/04/02,MV,Maldives,Asia,3.25,73,19,13,0
+2020/04/02,MW,Malawi,Africa,-13.5,34,0,0,0
 2020/04/02,MX,Mexico,Americas,23,-102,1378,35,37
 2020/04/02,MY,Malaysia,Asia,2.5,112.5,3116,767,50
 2020/04/02,MZ,Mozambique,Africa,-18.25,35,10,0,0

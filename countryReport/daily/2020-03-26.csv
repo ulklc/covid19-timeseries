@@ -27,7 +27,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/03/26,BO,Bolivia,Americas,-17,-65,43,0,0
 2020/03/26,BQ,Caribbean Netherlands,Americas,12.18,-68.25,0,0,0
 2020/03/26,BR,Brazil,Americas,-10,-55,2985,6,77
-2020/03/26,BS,Bahamas,Americas,24.25,-76,9,1,0
+2020/03/26,BS,Bahamas,Americas,24.25,-76,9,0,0
 2020/03/26,BT,Bhutan,Asia,27.5,90.5,2,0,0
 2020/03/26,BW,Botswana,Africa,-22,24,0,0,0
 2020/03/26,BY,Belarus,Europe,53,28,86,29,0
@@ -62,6 +62,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/03/26,ET,Ethiopia,Africa,8,38,12,0,0
 2020/03/26,FI,Finland,Europe,64,26,958,10,5
 2020/03/26,FJ,Fiji,Oceania,-18,175,5,0,0
+2020/03/26,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
 2020/03/26,FO,Faroe Islands,Europe,62,-7,140,47,0
 2020/03/26,FR,France,Europe,46,2,29155,4948,1696
 2020/03/26,GA,Gabon,Africa,-1,11.75,7,0,1
@@ -132,6 +133,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/03/26,MT,Malta,Europe,35.83333333,14.58333333,134,2,0
 2020/03/26,MU,Mauritius,Africa,-20.28333333,57.55,81,0,2
 2020/03/26,MV,Maldives,Asia,3.25,73,13,8,0
+2020/03/26,MW,Malawi,Africa,-13.5,34,0,0,0
 2020/03/26,MX,Mexico,Americas,23,-102,475,4,6
 2020/03/26,MY,Malaysia,Asia,2.5,112.5,2031,215,23
 2020/03/26,MZ,Mozambique,Africa,-18.25,35,7,0,0
