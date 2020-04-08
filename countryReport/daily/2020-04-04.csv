@@ -85,7 +85,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/04/04,HK,Hong Kong,Asia,22.267,114.188,862,173,4
 2020/04/04,HN,Honduras,Americas,15,-86.5,264,3,15
 2020/04/04,HR,Croatia,Europe,45.16666666,15.5,1126,119,12
-2020/04/04,HT,Haiti,Americas,19,-72.41666666,20,1,0
+2020/04/04,HT,Haiti,Americas,19,-72.41666666,20,0,0
 2020/04/04,HU,Hungary,Europe,47,20,678,58,32
 2020/04/04,ID,Indonesia,Asia,-5,120,2092,150,191
 2020/04/04,IE,Ireland,Europe,53,-8,4604,25,137
@@ -171,7 +171,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/04/04,SE,Sweden,Europe,62,15,6443,205,373
 2020/04/04,SG,Singapore,Asia,1.36666666,103.8,1189,297,6
 2020/04/04,SI,Slovenia,Europe,46.11666666,14.81666666,977,79,22
-2020/04/04,SK,Slovakia,Europe,48.66666666,19.5,471,10,1
+2020/04/04,SK,Slovakia,Europe,48.66666666,19.5,471,8,1
 2020/04/04,SL,Sierra Leone,Africa,8.5,-11.5,4,0,0
 2020/04/04,SM,San Marino,Europe,43.76666666,12.41666666,259,27,32
 2020/04/04,SN,Senegal,Africa,14,-14,219,72,2

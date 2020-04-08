@@ -61,7 +61,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/04/05,ER,Eritrea,Africa,15,39,29,0,0
 2020/04/05,ES,Spain,Europe,40,-4,131646,38080,12641
 2020/04/05,ET,Ethiopia,Africa,8,38,43,4,2
-2020/04/05,FI,Finland,Europe,64,26,1927,300,28
+2020/04/05,FI,Finland,Europe,64,26,1927,300,27
 2020/04/05,FJ,Fiji,Oceania,-18,175,12,0,0
 2020/04/05,FK,Falkland Islands,Americas,-51.75,-59,2,0,0
 2020/04/05,FO,Faroe Islands,Europe,62,-7,181,99,0
@@ -85,7 +85,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/04/05,HK,Hong Kong,Asia,22.267,114.188,890,206,4
 2020/04/05,HN,Honduras,Americas,15,-86.5,268,6,22
 2020/04/05,HR,Croatia,Europe,45.16666666,15.5,1182,125,15
-2020/04/05,HT,Haiti,Americas,19,-72.41666666,21,1,1
+2020/04/05,HT,Haiti,Americas,19,-72.41666666,21,0,1
 2020/04/05,HU,Hungary,Europe,47,20,733,66,34
 2020/04/05,ID,Indonesia,Asia,-5,120,2273,164,198
 2020/04/05,IE,Ireland,Europe,53,-8,4994,25,158
@@ -156,7 +156,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/04/05,PK,Pakistan,Asia,30,70,3157,211,47
 2020/04/05,PL,Poland,Europe,52,20,4102,134,94
 2020/04/05,PM,Saint Pierre and Miquelon,Americas,46.83333333,-56.33333333,1,0,0
-2020/04/05,PS,Palestine,Asia,31.9,35.2,237,25,1
+2020/04/05,PS,Palestine,Asia,31.9,35.2,237,24,1
 2020/04/05,PT,Portugal,Europe,39.5,-8,11278,75,295
 2020/04/05,PY,Paraguay,Americas,-23,-58,104,12,3
 2020/04/05,QA,Qatar,Asia,25.5,51.25,1604,123,4
@@ -171,7 +171,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/04/05,SE,Sweden,Europe,62,15,6830,205,401
 2020/04/05,SG,Singapore,Asia,1.36666666,103.8,1309,320,6
 2020/04/05,SI,Slovenia,Europe,46.11666666,14.81666666,997,79,28
-2020/04/05,SK,Slovakia,Europe,48.66666666,19.5,485,10,1
+2020/04/05,SK,Slovakia,Europe,48.66666666,19.5,485,8,1
 2020/04/05,SL,Sierra Leone,Africa,8.5,-11.5,6,0,0
 2020/04/05,SM,San Marino,Europe,43.76666666,12.41666666,266,35,32
 2020/04/05,SN,Senegal,Africa,14,-14,222,82,2
