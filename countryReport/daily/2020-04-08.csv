@@ -71,7 +71,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/04/08,GD,Grenada,Americas,12.11666666,-61.66666666,12,0,0
 2020/04/08,GE,Georgia,Asia,42,43.5,211,50,3
 2020/04/08,GF,French Guiana,Americas,4,-53,83,43,0
-2020/04/08,GH,Ghana,Africa,8,-2,313,34,6
+2020/04/08,GH,Ghana,Africa,8,-2,313,3,6
 2020/04/08,GI,Gibraltar,Europe,36.13333333,-5.35,120,60,0
 2020/04/08,GL,Greenland,Americas,72,-40,11,11,0
 2020/04/08,GM,Gambia,Africa,13.46666666,-16.56666666,4,2,1
@@ -101,7 +101,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/04/08,JP,Japan,Asia,36,138,4257,622,93
 2020/04/08,KE,Kenya,Africa,1,38,179,9,6
 2020/04/08,KG,Kyrgyzstan,Asia,41,75,270,33,4
-2020/04/08,KH,Cambodia,Asia,13,105,117,63,0
+2020/04/08,KH,Cambodia,Asia,13,105,117,62,0
 2020/04/08,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,11,0,0
 2020/04/08,KR,South Korea,Asia,37,127.5,10384,6776,200
 2020/04/08,KW,Kuwait,Asia,29.5,45.75,855,111,1
@@ -206,6 +206,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/04/08,X1,Diamond Princess,Asia,35.45582,139.68188,712,619,11
 2020/04/08,X2,Channel Islands,Europe,49.372284,-2.364351,351,38,8
 2020/04/08,X3,MS Zaandam,Americas,25.688575,-113.356289,9,0,2
+2020/04/08,YE,Yemen,Asia,15,48,0,0,0
 2020/04/08,YT,Mayotte,Africa,-12.83333333,45.16666666,171,22,2
 2020/04/08,ZA,South Africa,Africa,-29,24,1845,95,18
 2020/04/08,ZM,Zambia,Africa,-15,30,39,7,1

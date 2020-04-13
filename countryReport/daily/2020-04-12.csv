@@ -1,0 +1,213 @@
+day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
+2020/04/12,AD,Andorra,Europe,42.5,1.5,638,128,29
+2020/04/12,AE,United Arab Emirates,Asia,24,54,4123,680,22
+2020/04/12,AF,Afghanistan,Asia,33,65,607,32,18
+2020/04/12,AG,Antigua and Barbuda,Americas,17.05,-61.8,21,0,2
+2020/04/12,AI,Anguilla,Americas,18.25,-63.16666666,3,0,0
+2020/04/12,AL,Albania,Europe,41,20,446,217,23
+2020/04/12,AM,Armenia,Asia,40,45,1013,197,13
+2020/04/12,AO,Angola,Africa,-12.5,18.5,19,4,2
+2020/04/12,AR,Argentina,Americas,-34,-64,2142,468,90
+2020/04/12,AT,Austria,Europe,47.33333333,13.33333333,13945,6987,350
+2020/04/12,AU,Australia,Oceania,-27,133,6313,3338,59
+2020/04/12,AW,Aruba,Americas,12.5,-69.96666666,92,32,0
+2020/04/12,AZ,Azerbaijan,Asia,40.5,47.5,1098,250,11
+2020/04/12,BA,Bosnia and Herzegovina,Europe,44,18,1009,193,39
+2020/04/12,BB,Barbados,Americas,13.16666666,-59.53333333,71,11,4
+2020/04/12,BD,Bangladesh,Asia,24,90,621,39,34
+2020/04/12,BE,Belgium,Europe,50.83333333,4,29647,6463,3600
+2020/04/12,BF,Burkina Faso,Africa,13,-2,497,161,27
+2020/04/12,BG,Bulgaria,Europe,43,25,675,68,29
+2020/04/12,BH,Bahrain,Asia,26,50.55,1136,558,6
+2020/04/12,BI,Burundi,Africa,-3.5,30,5,0,0
+2020/04/12,BJ,Benin,Africa,9.5,2.25,35,5,1
+2020/04/12,BL,Saint Barthélemy,Americas,18.5,-63.41666666,6,4,0
+2020/04/12,BM,Bermuda,Americas,32.33333333,-64.75,57,29,4
+2020/04/12,BN,Brunei,Asia,4.5,114.66666666,136,106,1
+2020/04/12,BO,Bolivia,Americas,-17,-65,300,2,24
+2020/04/12,BQ,Caribbean Netherlands,Americas,12.18,-68.25,3,0,0
+2020/04/12,BR,Brazil,Americas,-10,-55,22192,173,1223
+2020/04/12,BS,Bahamas,Americas,24.25,-76,46,5,8
+2020/04/12,BT,Bhutan,Asia,27.5,90.5,5,2,0
+2020/04/12,BW,Botswana,Africa,-22,24,13,0,1
+2020/04/12,BY,Belarus,Europe,53,28,2578,203,26
+2020/04/12,BZ,Belize,Americas,17.25,-88.75,14,0,2
+2020/04/12,CA,Canada,Americas,60,-95,24292,7106,713
+2020/04/12,CD,DR Congo,Africa,0,25,234,16,20
+2020/04/12,CF,Central African Republic,Africa,7,21,8,0,0
+2020/04/12,CG,Republic of the Congo,Africa,-1,15,60,5,5
+2020/04/12,CH,Switzerland,Europe,47,8,25415,12700,1106
+2020/04/12,CI,Ivory Coast,Africa,8,-5,574,85,5
+2020/04/12,CL,Chile,Americas,-30,-71,7213,2059,80
+2020/04/12,CM,Cameroon,Africa,6,12,820,98,12
+2020/04/12,CN,China,Asia,35,105,82052,77575,3339
+2020/04/12,CO,Colombia,Americas,4,-72,2776,270,109
+2020/04/12,CR,Costa Rica,Americas,10,-84,595,56,3
+2020/04/12,CU,Cuba,Americas,21.5,-80,669,92,18
+2020/04/12,CV,Cape Verde,Africa,16,-24,8,1,1
+2020/04/12,CW,Curaçao,Americas,12.116667,-68.933333,14,8,1
+2020/04/12,CY,Cyprus,Europe,35,33,633,65,11
+2020/04/12,CZ,Czechia,Europe,49.75,15.5,5991,464,138
+2020/04/12,DE,Germany,Europe,51,9,127854,60300,3022
+2020/04/12,DJ,Djibouti,Africa,11.5,43,214,36,2
+2020/04/12,DK,Denmark,Europe,56,10,6174,2123,273
+2020/04/12,DM,Dominica,Americas,15.41666666,-61.33333333,16,8,0
+2020/04/12,DO,Dominican Republic,Americas,19,-70.66666666,2967,131,173
+2020/04/12,DZ,Algeria,Africa,28,3,1914,591,293
+2020/04/12,EC,Ecuador,Americas,-2,-77.5,7466,501,333
+2020/04/12,EE,Estonia,Europe,59,26,1309,98,25
+2020/04/12,EG,Egypt,Africa,27,30,2065,589,159
+2020/04/12,EH,Western Sahara,Africa,24.5,-13,6,0,0
+2020/04/12,ER,Eritrea,Africa,15,39,34,0,0
+2020/04/12,ES,Spain,Europe,40,-4,166831,62391,17209
+2020/04/12,ET,Ethiopia,Africa,8,38,71,10,3
+2020/04/12,FI,Finland,Europe,64,26,2974,300,56
+2020/04/12,FJ,Fiji,Oceania,-18,175,16,0,0
+2020/04/12,FK,Falkland Islands,Americas,-51.75,-59,5,1,0
+2020/04/12,FO,Faroe Islands,Europe,62,-7,184,157,0
+2020/04/12,FR,France,Europe,46,2,132591,27186,14393
+2020/04/12,GA,Gabon,Africa,-1,11.75,49,1,1
+2020/04/12,GB,United Kingdom,Europe,54,-2,84279,344,10612
+2020/04/12,GD,Grenada,Americas,12.11666666,-61.66666666,14,0,0
+2020/04/12,GE,Georgia,Asia,42,43.5,257,67,3
+2020/04/12,GF,French Guiana,Americas,4,-53,86,51,0
+2020/04/12,GH,Ghana,Africa,8,-2,566,4,8
+2020/04/12,GI,Gibraltar,Europe,36.13333333,-5.35,129,84,0
+2020/04/12,GL,Greenland,Americas,72,-40,11,11,0
+2020/04/12,GM,Gambia,Africa,13.46666666,-16.56666666,9,2,1
+2020/04/12,GN,Guinea,Africa,11,-10,250,17,0
+2020/04/12,GP,Guadeloupe,Americas,16.25,-61.583333,143,67,8
+2020/04/12,GQ,Equatorial Guinea,Africa,2,10,21,3,0
+2020/04/12,GR,Greece,Europe,39,22,2114,269,98
+2020/04/12,GT,Guatemala,Americas,15.5,-90.25,155,19,5
+2020/04/12,GW,Guinea-Bissau,Africa,12,-15,38,0,0
+2020/04/12,GY,Guyana,Americas,5,-59,45,8,6
+2020/04/12,HK,Hong Kong,Asia,22.267,114.188,1005,360,4
+2020/04/12,HN,Honduras,Americas,15,-86.5,393,7,25
+2020/04/12,HR,Croatia,Europe,45.16666666,15.5,1600,373,23
+2020/04/12,HT,Haiti,Americas,19,-72.41666666,33,0,3
+2020/04/12,HU,Hungary,Europe,47,20,1410,118,99
+2020/04/12,ID,Indonesia,Asia,-5,120,4241,359,373
+2020/04/12,IE,Ireland,Europe,53,-8,9655,25,334
+2020/04/12,IL,Israel,Asia,31.47,35.13,11145,1627,103
+2020/04/12,IM,Isle of Man,Europe,54.25,-4.5,228,112,2
+2020/04/12,IN,India,Asia,20,77,9205,1080,331
+2020/04/12,IQ,Iraq,Asia,33,44,1352,640,76
+2020/04/12,IR,Iran,Asia,32,53,71686,43894,4474
+2020/04/12,IS,Iceland,Europe,65,-18,1701,889,8
+2020/04/12,IT,Italy,Europe,42.83333333,12.83333333,156363,34211,19899
+2020/04/12,JM,Jamaica,Americas,18.25,-77.5,69,13,4
+2020/04/12,JO,Jordan,Asia,31,36,389,201,7
+2020/04/12,JP,Japan,Asia,36,138,6748,762,108
+2020/04/12,KE,Kenya,Africa,1,38,197,25,8
+2020/04/12,KG,Kyrgyzstan,Asia,41,75,377,54,5
+2020/04/12,KH,Cambodia,Asia,13,105,122,77,0
+2020/04/12,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,12,0,0
+2020/04/12,KR,South Korea,Asia,37,127.5,10512,7368,214
+2020/04/12,KW,Kuwait,Asia,29.5,45.75,1234,142,1
+2020/04/12,KY,Cayman Islands,Americas,19.5,-80.5,53,6,1
+2020/04/12,KZ,Kazakhstan,Asia,48,68,951,99,10
+2020/04/12,LA,Laos,Asia,18,105,19,0,0
+2020/04/12,LB,Lebanon,Asia,33.83333333,35.83333333,630,80,20
+2020/04/12,LC,Saint Lucia,Americas,13.88333333,-60.96666666,15,4,0
+2020/04/12,LI,Liechtenstein,Europe,47.26666666,9.53333333,79,55,1
+2020/04/12,LK,Sri Lanka,Asia,7,81,210,56,7
+2020/04/12,LR,Liberia,Africa,6.5,-9.5,50,3,5
+2020/04/12,LT,Lithuania,Europe,56,24,1053,97,23
+2020/04/12,LU,Luxembourg,Europe,49.75,6.16666666,3281,500,66
+2020/04/12,LV,Latvia,Europe,57,25,651,16,5
+2020/04/12,LY,Libya,Africa,25,17,25,9,1
+2020/04/12,MA,Morocco,Africa,32,-5,1661,177,118
+2020/04/12,MC,Monaco,Europe,43.73333333,7.4,93,6,1
+2020/04/12,MD,Moldova,Europe,47,29,1662,94,31
+2020/04/12,ME,Montenegro,Europe,42.5,19.3,272,5,3
+2020/04/12,MF,Saint Martin,Americas,18.08333333,-63.95,32,11,2
+2020/04/12,MG,Madagascar,Africa,-20,47,106,20,0
+2020/04/12,MK,North Macedonia,Europe,41.83333333,22,828,41,34
+2020/04/12,ML,Mali,Africa,17,-4,105,22,9
+2020/04/12,MM,Myanmar,Asia,22,98,41,2,4
+2020/04/12,MN,Mongolia,Asia,46,105,16,4,0
+2020/04/12,MO,Macau,Asia,22.16666666,113.55,45,10,0
+2020/04/12,MQ,Martinique,Americas,14.666667,-61,155,50,6
+2020/04/12,MR,Mauritania,Africa,20,-12,7,2,1
+2020/04/12,MS,Montserrat,Americas,16.75,-62.2,9,0,0
+2020/04/12,MT,Malta,Europe,35.83333333,14.58333333,378,44,3
+2020/04/12,MU,Mauritius,Africa,-20.28333333,57.55,324,42,9
+2020/04/12,MV,Maldives,Asia,3.25,73,20,14,0
+2020/04/12,MW,Malawi,Africa,-13.5,34,13,0,2
+2020/04/12,MX,Mexico,Americas,23,-102,4219,1772,273
+2020/04/12,MY,Malaysia,Asia,2.5,112.5,4683,2108,76
+2020/04/12,MZ,Mozambique,Africa,-18.25,35,21,2,0
+2020/04/12,NA,Namibia,Africa,-22,17,16,3,0
+2020/04/12,NC,New Caledonia,Oceania,-21.5,165.5,18,1,0
+2020/04/12,NE,Niger,Africa,16,8,529,75,12
+2020/04/12,NG,Nigeria,Africa,10,8,323,85,10
+2020/04/12,NI,Nicaragua,Americas,13,-85,9,4,1
+2020/04/12,NL,Netherlands,Europe,52.5,5.75,25587,250,2737
+2020/04/12,NO,Norway,Europe,62,10,6525,32,128
+2020/04/12,NP,Nepal,Asia,28,84,12,1,0
+2020/04/12,NZ,New Zealand,Oceania,-41,174,1330,471,4
+2020/04/12,OM,Oman,Asia,21,57,599,109,4
+2020/04/12,PA,Panama,Americas,9,-80,3400,29,87
+2020/04/12,PE,Peru,Americas,-10,-76,7519,1798,193
+2020/04/12,PF,French Polynesia,Oceania,-15,-140,53,0,0
+2020/04/12,PG,Papua New Guinea,Oceania,-6,147,2,0,0
+2020/04/12,PH,Philippines,Asia,13,122,4648,197,297
+2020/04/12,PK,Pakistan,Asia,30,70,5230,1028,91
+2020/04/12,PL,Poland,Europe,52,20,6674,439,232
+2020/04/12,PM,Saint Pierre and Miquelon,Americas,46.83333333,-56.33333333,1,0,0
+2020/04/12,PS,Palestine,Asia,31.9,35.2,290,58,2
+2020/04/12,PT,Portugal,Europe,39.5,-8,16585,277,504
+2020/04/12,PY,Paraguay,Americas,-23,-58,134,22,6
+2020/04/12,QA,Qatar,Asia,25.5,51.25,2979,275,7
+2020/04/12,RE,Réunion,Africa,-21.15,55.5,389,40,0
+2020/04/12,RO,Romania,Europe,46,25,6300,852,316
+2020/04/12,RS,Serbia,Europe,44,21,3630,400,80
+2020/04/12,RU,Russia,Europe,60,100,15770,1291,130
+2020/04/12,RW,Rwanda,Africa,-2,30,126,25,0
+2020/04/12,SA,Saudi Arabia,Asia,25,45,4462,761,59
+2020/04/12,SC,Seychelles,Africa,-4.58333333,55.66666666,11,0,0
+2020/04/12,SD,Sudan,Africa,15,30,19,2,2
+2020/04/12,SE,Sweden,Europe,62,15,10483,381,899
+2020/04/12,SG,Singapore,Asia,1.36666666,103.8,2532,560,8
+2020/04/12,SI,Slovenia,Europe,46.11666666,14.81666666,1205,150,53
+2020/04/12,SK,Slovakia,Europe,48.66666666,19.5,742,23,2
+2020/04/12,SL,Sierra Leone,Africa,8.5,-11.5,10,0,0
+2020/04/12,SM,San Marino,Europe,43.76666666,12.41666666,356,53,35
+2020/04/12,SN,Senegal,Africa,14,-14,280,171,2
+2020/04/12,SO,Somalia,Africa,10,49,25,2,1
+2020/04/12,SR,Suriname,Americas,4,-56,10,4,1
+2020/04/12,SS,South Sudan,Africa,7,30,4,0,0
+2020/04/12,ST,São Tomé and Príncipe,Africa,1,7,4,0,0
+2020/04/12,SV,El Salvador,Americas,13.83333333,-88.91666666,125,21,6
+2020/04/12,SX,Sint Maarten,Americas,18.033333,-63.05,50,5,9
+2020/04/12,SY,Syria,Asia,35,38,25,5,2
+2020/04/12,SZ,Eswatini,Africa,-26.5,31.5,14,7,0
+2020/04/12,TC,Turks and Caicos Islands,Americas,21.75,-71.58333333,9,0,1
+2020/04/12,TD,Chad,Africa,15,19,18,2,0
+2020/04/12,TG,Togo,Africa,8,1.16666666,76,29,3
+2020/04/12,TH,Thailand,Asia,15,100,2551,1218,38
+2020/04/12,TL,Timor-Leste,Asia,-8.83333333,125.91666666,2,1,0
+2020/04/12,TN,Tunisia,Africa,34,9,707,43,31
+2020/04/12,TR,Turkey,Asia,39,35,56956,3446,1198
+2020/04/12,TT,Trinidad and Tobago,Americas,11,-61,113,16,8
+2020/04/12,TW,Taiwan,Asia,23.5,121,388,109,6
+2020/04/12,TZ,Tanzania,Africa,-6,35,32,5,3
+2020/04/12,UA,Ukraine,Europe,49,32,2777,89,83
+2020/04/12,UG,Uganda,Africa,1,32,54,4,0
+2020/04/12,US,United States,Americas,38,-97,560246,32237,22101
+2020/04/12,UY,Uruguay,Americas,-33,-56,512,231,7
+2020/04/12,UZ,Uzbekistan,Asia,41,64,865,66,4
+2020/04/12,VA,Vatican City,Europe,41.9,12.45,8,2,0
+2020/04/12,VC,Saint Vincent and the Grenadines,Americas,13.25,-61.2,12,1,0
+2020/04/12,VE,Venezuela,Americas,8,-66,181,93,9
+2020/04/12,VG,British Virgin Islands,Americas,18.431383,-64.62305,3,2,0
+2020/04/12,VN,Vietnam,Asia,16.16666666,107.83333333,262,144,0
+2020/04/12,X1,Diamond Princess,Asia,35.45582,139.68188,712,619,11
+2020/04/12,X2,Channel Islands,Europe,49.372284,-2.364351,431,48,9
+2020/04/12,X3,MS Zaandam,Americas,25.688575,-113.356289,9,0,2
+2020/04/12,YE,Yemen,Asia,15,48,1,0,0
+2020/04/12,YT,Mayotte,Africa,-12.83333333,45.16666666,196,59,3
+2020/04/12,ZA,South Africa,Africa,-29,24,2173,410,25
+2020/04/12,ZM,Zambia,Africa,-15,30,43,30,2
+2020/04/12,ZW,Zimbabwe,Africa,-20,30,14,0,3
