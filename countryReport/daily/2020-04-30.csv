@@ -27,7 +27,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/04/30,BO,Bolivia,Americas,-17,-65,1110,117,59
 2020/04/30,BQ,Caribbean Netherlands,Americas,12.18,-68.25,5,0,0
 2020/04/30,BR,Brazil,Americas,-10,-55,85380,35935,5901
-2020/04/30,BS,Bahamas,Americas,24.25,-76,81,25,11
+2020/04/30,BS,Bahamas,Americas,24.25,-76,81,24,11
 2020/04/30,BT,Bhutan,Asia,27.5,90.5,7,5,0
 2020/04/30,BW,Botswana,Africa,-22,24,23,5,1
 2020/04/30,BY,Belarus,Europe,53,28,14027,2386,89
@@ -187,6 +187,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/04/30,TD,Chad,Africa,15,19,73,33,5
 2020/04/30,TG,Togo,Africa,8,1.16666666,116,65,9
 2020/04/30,TH,Thailand,Asia,15,100,2954,2684,54
+2020/04/30,TJ,Tajikistan,Asia,39,71,0,0,0
 2020/04/30,TL,Timor-Leste,Asia,-8.83333333,125.91666666,24,16,0
 2020/04/30,TN,Tunisia,Africa,34,9,994,305,41
 2020/04/30,TR,Turkey,Asia,39,35,120204,48886,3174
@@ -200,7 +201,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/04/30,UZ,Uzbekistan,Asia,41,64,2039,1133,9
 2020/04/30,VA,Vatican City,Europe,41.9,12.45,11,2,0
 2020/04/30,VC,Saint Vincent and the Grenadines,Americas,13.25,-61.2,16,8,0
-2020/04/30,VE,Venezuela,Americas,8,-66,333,142,16
+2020/04/30,VE,Venezuela,Americas,8,-66,333,142,10
 2020/04/30,VG,British Virgin Islands,Americas,18.431383,-64.62305,6,3,1
 2020/04/30,VN,Vietnam,Asia,16.16666666,107.83333333,270,219,0
 2020/04/30,X1,Diamond Princess,Asia,35.45582,139.68188,712,645,13
@@ -210,4 +211,4 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/04/30,YT,Mayotte,Africa,-12.83333333,45.16666666,539,235,4
 2020/04/30,ZA,South Africa,Africa,-29,24,5647,2073,103
 2020/04/30,ZM,Zambia,Africa,-15,30,106,55,3
-2020/04/30,ZW,Zimbabwe,Africa,-20,30,40,5,4
+2020/04/30,ZW,Zimbabwe,Africa,-20,30,34,5,4

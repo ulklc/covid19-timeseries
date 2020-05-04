@@ -83,7 +83,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/04/27,GW,Guinea-Bissau,Africa,12,-15,73,18,1
 2020/04/27,GY,Guyana,Americas,5,-59,74,15,8
 2020/04/27,HK,Hong Kong,Asia,22.267,114.188,1038,787,4
-2020/04/27,HN,Honduras,Americas,15,-86.5,661,79,61
+2020/04/27,HN,Honduras,Americas,15,-86.5,661,73,61
 2020/04/27,HR,Croatia,Europe,45.16666666,15.5,2039,1166,59
 2020/04/27,HT,Haiti,Americas,19,-72.41666666,74,7,6
 2020/04/27,HU,Hungary,Europe,47,20,2583,498,280
@@ -113,7 +113,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/04/27,LI,Liechtenstein,Europe,47.26666666,9.53333333,82,55,1
 2020/04/27,LK,Sri Lanka,Asia,7,81,588,126,7
 2020/04/27,LR,Liberia,Africa,6.5,-9.5,124,25,12
-2020/04/27,LT,Lithuania,Europe,56,24,1449,474,41
+2020/04/27,LT,Lithuania,Europe,56,24,1344,474,41
 2020/04/27,LU,Luxembourg,Europe,49.75,6.16666666,3729,3123,88
 2020/04/27,LV,Latvia,Europe,57,25,818,267,13
 2020/04/27,LY,Libya,Africa,25,17,61,18,2
@@ -132,7 +132,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/04/27,MR,Mauritania,Africa,20,-12,7,6,1
 2020/04/27,MS,Montserrat,Americas,16.75,-62.2,11,2,1
 2020/04/27,MT,Malta,Europe,35.83333333,14.58333333,450,286,4
-2020/04/27,MU,Mauritius,Africa,-20.28333333,57.55,334,302,10
+2020/04/27,MU,Mauritius,Africa,-20.28333333,57.55,332,302,10
 2020/04/27,MV,Maldives,Asia,3.25,73,226,17,0
 2020/04/27,MW,Malawi,Africa,-13.5,34,36,4,3
 2020/04/27,MX,Mexico,Americas,23,-102,14677,8354,1351
@@ -156,7 +156,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/04/27,PK,Pakistan,Asia,30,70,13915,3029,292
 2020/04/27,PL,Poland,Europe,52,20,11902,2466,562
 2020/04/27,PM,Saint Pierre and Miquelon,Americas,46.83333333,-56.33333333,1,0,0
-2020/04/27,PS,Palestine,Asia,31.9,35.2,342,83,2
+2020/04/27,PS,Palestine,Asia,31.9,35.2,342,71,2
 2020/04/27,PT,Portugal,Europe,39.5,-8,24027,1357,928
 2020/04/27,PY,Paraguay,Americas,-23,-58,228,93,9
 2020/04/27,QA,Qatar,Asia,25.5,51.25,11244,1066,10
@@ -187,6 +187,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/04/27,TD,Chad,Africa,15,19,46,15,0
 2020/04/27,TG,Togo,Africa,8,1.16666666,98,62,6
 2020/04/27,TH,Thailand,Asia,15,100,2931,2609,52
+2020/04/27,TJ,Tajikistan,Asia,39,71,0,0,0
 2020/04/27,TL,Timor-Leste,Asia,-8.83333333,125.91666666,24,2,0
 2020/04/27,TN,Tunisia,Africa,34,9,967,279,39
 2020/04/27,TR,Turkey,Asia,39,35,112261,33791,2900
@@ -202,7 +203,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/04/27,VC,Saint Vincent and the Grenadines,Americas,13.25,-61.2,15,5,0
 2020/04/27,VE,Venezuela,Americas,8,-66,325,137,10
 2020/04/27,VG,British Virgin Islands,Americas,18.431383,-64.62305,6,3,1
-2020/04/27,VN,Vietnam,Asia,16.16666666,107.83333333,270,225,0
+2020/04/27,VN,Vietnam,Asia,16.16666666,107.83333333,270,219,0
 2020/04/27,X1,Diamond Princess,Asia,35.45582,139.68188,712,645,13
 2020/04/27,X2,Channel Islands,Europe,49.372284,-2.364351,525,352,35
 2020/04/27,X3,MS Zaandam,Americas,25.688575,-113.356289,9,0,2

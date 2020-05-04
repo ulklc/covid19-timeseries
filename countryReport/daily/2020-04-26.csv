@@ -113,7 +113,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/04/26,LI,Liechtenstein,Europe,47.26666666,9.53333333,82,55,1
 2020/04/26,LK,Sri Lanka,Asia,7,81,523,120,7
 2020/04/26,LR,Liberia,Africa,6.5,-9.5,124,25,12
-2020/04/26,LT,Lithuania,Europe,56,24,1438,467,41
+2020/04/26,LT,Lithuania,Europe,56,24,1344,467,41
 2020/04/26,LU,Luxembourg,Europe,49.75,6.16666666,3723,3104,88
 2020/04/26,LV,Latvia,Europe,57,25,812,267,12
 2020/04/26,LY,Libya,Africa,25,17,61,18,2
@@ -146,7 +146,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/04/26,NL,Netherlands,Europe,52.5,5.75,37845,0,4475
 2020/04/26,NO,Norway,Europe,62,10,7527,32,201
 2020/04/26,NP,Nepal,Asia,28,84,52,16,0
-2020/04/26,NZ,New Zealand,Oceania,-41,174,1470,1142,18
+2020/04/26,NZ,New Zealand,Oceania,-41,174,1469,1142,18
 2020/04/26,OM,Oman,Asia,21,57,1998,333,10
 2020/04/26,PA,Panama,Americas,9,-80,5538,338,159
 2020/04/26,PE,Peru,Americas,-10,-76,27517,8088,728
@@ -156,7 +156,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/04/26,PK,Pakistan,Asia,30,70,13328,2936,281
 2020/04/26,PL,Poland,Europe,52,20,11617,2265,535
 2020/04/26,PM,Saint Pierre and Miquelon,Americas,46.83333333,-56.33333333,1,0,0
-2020/04/26,PS,Palestine,Asia,31.9,35.2,342,83,2
+2020/04/26,PS,Palestine,Asia,31.9,35.2,342,71,2
 2020/04/26,PT,Portugal,Europe,39.5,-8,23864,1329,903
 2020/04/26,PY,Paraguay,Americas,-23,-58,228,85,9
 2020/04/26,QA,Qatar,Asia,25.5,51.25,10287,1012,10
@@ -187,6 +187,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/04/26,TD,Chad,Africa,15,19,46,15,0
 2020/04/26,TG,Togo,Africa,8,1.16666666,98,62,6
 2020/04/26,TH,Thailand,Asia,15,100,2922,2594,51
+2020/04/26,TJ,Tajikistan,Asia,39,71,0,0,0
 2020/04/26,TL,Timor-Leste,Asia,-8.83333333,125.91666666,24,2,0
 2020/04/26,TN,Tunisia,Africa,34,9,949,216,38
 2020/04/26,TR,Turkey,Asia,39,35,110130,29140,2805
@@ -202,7 +203,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/04/26,VC,Saint Vincent and the Grenadines,Americas,13.25,-61.2,14,5,0
 2020/04/26,VE,Venezuela,Americas,8,-66,325,137,10
 2020/04/26,VG,British Virgin Islands,Americas,18.431383,-64.62305,6,3,1
-2020/04/26,VN,Vietnam,Asia,16.16666666,107.83333333,270,225,0
+2020/04/26,VN,Vietnam,Asia,16.16666666,107.83333333,270,219,0
 2020/04/26,X1,Diamond Princess,Asia,35.45582,139.68188,712,645,13
 2020/04/26,X2,Channel Islands,Europe,49.372284,-2.364351,525,332,35
 2020/04/26,X3,MS Zaandam,Americas,25.688575,-113.356289,9,0,2

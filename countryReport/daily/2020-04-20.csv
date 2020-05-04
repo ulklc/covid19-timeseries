@@ -156,7 +156,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/04/20,PK,Pakistan,Asia,30,70,8418,1970,176
 2020/04/20,PL,Poland,Europe,52,20,9593,1133,380
 2020/04/20,PM,Saint Pierre and Miquelon,Americas,46.83333333,-56.33333333,1,0,0
-2020/04/20,PS,Palestine,Asia,31.9,35.2,449,71,3
+2020/04/20,PS,Palestine,Asia,31.9,35.2,342,71,2
 2020/04/20,PT,Portugal,Europe,39.5,-8,20863,610,735
 2020/04/20,PY,Paraguay,Americas,-23,-58,208,46,8
 2020/04/20,QA,Qatar,Asia,25.5,51.25,6015,555,9
@@ -187,6 +187,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/04/20,TD,Chad,Africa,15,19,33,8,0
 2020/04/20,TG,Togo,Africa,8,1.16666666,84,53,6
 2020/04/20,TH,Thailand,Asia,15,100,2792,1999,47
+2020/04/20,TJ,Tajikistan,Asia,39,71,0,0,0
 2020/04/20,TL,Timor-Leste,Asia,-8.83333333,125.91666666,22,1,0
 2020/04/20,TN,Tunisia,Africa,34,9,884,148,38
 2020/04/20,TR,Turkey,Asia,39,35,90980,13430,2140

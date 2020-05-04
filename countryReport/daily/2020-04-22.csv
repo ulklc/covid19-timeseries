@@ -113,7 +113,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/04/22,LI,Liechtenstein,Europe,47.26666666,9.53333333,81,55,1
 2020/04/22,LK,Sri Lanka,Asia,7,81,330,105,7
 2020/04/22,LR,Liberia,Africa,6.5,-9.5,101,20,8
-2020/04/22,LT,Lithuania,Europe,56,24,1370,357,38
+2020/04/22,LT,Lithuania,Europe,56,24,1344,357,38
 2020/04/22,LU,Luxembourg,Europe,49.75,6.16666666,3654,711,80
 2020/04/22,LV,Latvia,Europe,57,25,761,133,11
 2020/04/22,LY,Libya,Africa,25,17,59,15,1
@@ -156,7 +156,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/04/22,PK,Pakistan,Asia,30,70,10076,2156,212
 2020/04/22,PL,Poland,Europe,52,20,10169,1513,426
 2020/04/22,PM,Saint Pierre and Miquelon,Americas,46.83333333,-56.33333333,1,0,0
-2020/04/22,PS,Palestine,Asia,31.9,35.2,474,71,4
+2020/04/22,PS,Palestine,Asia,31.9,35.2,342,71,2
 2020/04/22,PT,Portugal,Europe,39.5,-8,21982,1143,785
 2020/04/22,PY,Paraguay,Americas,-23,-58,213,62,9
 2020/04/22,QA,Qatar,Asia,25.5,51.25,7141,689,10
@@ -187,6 +187,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/04/22,TD,Chad,Africa,15,19,33,8,0
 2020/04/22,TG,Togo,Africa,8,1.16666666,88,56,6
 2020/04/22,TH,Thailand,Asia,15,100,2826,2352,49
+2020/04/22,TJ,Tajikistan,Asia,39,71,0,0,0
 2020/04/22,TL,Timor-Leste,Asia,-8.83333333,125.91666666,23,1,0
 2020/04/22,TN,Tunisia,Africa,34,9,909,190,38
 2020/04/22,TR,Turkey,Asia,39,35,98674,16477,2376
@@ -202,7 +203,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/04/22,VC,Saint Vincent and the Grenadines,Americas,13.25,-61.2,13,3,0
 2020/04/22,VE,Venezuela,Americas,8,-66,288,122,10
 2020/04/22,VG,British Virgin Islands,Americas,18.431383,-64.62305,5,3,1
-2020/04/22,VN,Vietnam,Asia,16.16666666,107.83333333,268,220,0
+2020/04/22,VN,Vietnam,Asia,16.16666666,107.83333333,268,219,0
 2020/04/22,X1,Diamond Princess,Asia,35.45582,139.68188,712,644,13
 2020/04/22,X2,Channel Islands,Europe,49.372284,-2.364351,498,285,28
 2020/04/22,X3,MS Zaandam,Americas,25.688575,-113.356289,9,0,2

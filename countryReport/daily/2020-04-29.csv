@@ -38,7 +38,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/04/29,CG,Republic of the Congo,Africa,-1,15,207,19,8
 2020/04/29,CH,Switzerland,Europe,47,8,29407,22600,1716
 2020/04/29,CI,Ivory Coast,Africa,8,-5,1238,557,14
-2020/04/29,CL,Chile,Americas,-30,-71,14885,8057,216
+2020/04/29,CL,Chile,Americas,-30,-71,15135,8057,216
 2020/04/29,CM,Cameroon,Africa,6,12,1806,934,61
 2020/04/29,CN,China,Asia,35,105,82858,77578,4633
 2020/04/29,CO,Colombia,Americas,4,-72,6207,1411,278
@@ -132,7 +132,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/04/29,MR,Mauritania,Africa,20,-12,8,6,1
 2020/04/29,MS,Montserrat,Americas,16.75,-62.2,11,2,1
 2020/04/29,MT,Malta,Europe,35.83333333,14.58333333,463,339,4
-2020/04/29,MU,Mauritius,Africa,-20.28333333,57.55,334,306,10
+2020/04/29,MU,Mauritius,Africa,-20.28333333,57.55,332,306,10
 2020/04/29,MV,Maldives,Asia,3.25,73,278,17,1
 2020/04/29,MW,Malawi,Africa,-13.5,34,36,7,3
 2020/04/29,MX,Mexico,Americas,23,-102,16752,11423,1569
@@ -187,6 +187,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/04/29,TD,Chad,Africa,15,19,52,19,2
 2020/04/29,TG,Togo,Africa,8,1.16666666,109,64,7
 2020/04/29,TH,Thailand,Asia,15,100,2947,2665,54
+2020/04/29,TJ,Tajikistan,Asia,39,71,0,0,0
 2020/04/29,TL,Timor-Leste,Asia,-8.83333333,125.91666666,24,6,0
 2020/04/29,TN,Tunisia,Africa,34,9,980,294,40
 2020/04/29,TR,Turkey,Asia,39,35,117589,44040,3081
@@ -202,7 +203,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/04/29,VC,Saint Vincent and the Grenadines,Americas,13.25,-61.2,16,8,0
 2020/04/29,VE,Venezuela,Americas,8,-66,329,142,10
 2020/04/29,VG,British Virgin Islands,Americas,18.431383,-64.62305,6,3,1
-2020/04/29,VN,Vietnam,Asia,16.16666666,107.83333333,270,222,0
+2020/04/29,VN,Vietnam,Asia,16.16666666,107.83333333,270,219,0
 2020/04/29,X1,Diamond Princess,Asia,35.45582,139.68188,712,645,13
 2020/04/29,X2,Channel Islands,Europe,49.372284,-2.364351,537,386,38
 2020/04/29,X3,MS Zaandam,Americas,25.688575,-113.356289,9,0,2
