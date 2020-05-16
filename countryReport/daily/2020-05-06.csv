@@ -54,7 +54,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/05/06,DM,Dominica,Americas,15.41666666,-61.33333333,16,14,0
 2020/05/06,DO,Dominican Republic,Americas,19,-70.66666666,8807,1960,362
 2020/05/06,DZ,Algeria,Africa,28,3,4997,2197,476
-2020/05/06,EC,Ecuador,Americas,-2,-77.5,31881,3433,1618
+2020/05/06,EC,Ecuador,Americas,-2,-77.5,29509,3433,1618
 2020/05/06,EE,Estonia,Europe,59,26,1713,264,55
 2020/05/06,EG,Egypt,Africa,27,30,7588,1815,469
 2020/05/06,EH,Western Sahara,Africa,24.5,-13,6,5,0
@@ -102,17 +102,19 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/05/06,KE,Kenya,Africa,1,38,582,190,26
 2020/05/06,KG,Kyrgyzstan,Asia,41,75,871,614,12
 2020/05/06,KH,Cambodia,Asia,13,105,122,120,0
+2020/05/06,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
 2020/05/06,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,15,12,0
 2020/05/06,KR,South Korea,Asia,37,127.5,10806,9333,255
 2020/05/06,KW,Kuwait,Asia,29.5,45.75,6289,2219,42
 2020/05/06,KY,Cayman Islands,Americas,19.5,-80.5,78,30,1
 2020/05/06,KZ,Kazakhstan,Asia,48,68,4422,1408,30
-2020/05/06,LA,Laos,Asia,18,105,19,10,0
+2020/05/06,LA,Laos,Asia,18,105,19,9,0
 2020/05/06,LB,Lebanon,Asia,33.83333333,35.83333333,750,206,25
 2020/05/06,LC,Saint Lucia,Americas,13.88333333,-60.96666666,18,15,0
 2020/05/06,LI,Liechtenstein,Europe,47.26666666,9.53333333,82,55,1
 2020/05/06,LK,Sri Lanka,Asia,7,81,797,215,9
 2020/05/06,LR,Liberia,Africa,6.5,-9.5,178,75,20
+2020/05/06,LS,Lesotho,Africa,-29.5,28.5,0,0,0
 2020/05/06,LT,Lithuania,Europe,56,24,1428,718,48
 2020/05/06,LU,Luxembourg,Europe,49.75,6.16666666,3851,3452,98
 2020/05/06,LV,Latvia,Europe,57,25,900,464,17

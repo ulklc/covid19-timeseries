@@ -5973,8 +5973,8 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/05/07,DK,Denmark,Europe,56,10,10083,7711,514
 2020/05/08,DK,Denmark,Europe,56,10,10218,7927,522
 2020/05/09,DK,Denmark,Europe,56,10,10319,8093,526
-2020/05/10,DK,Denmark,Europe,56,10,10429,8217,529
-2020/05/11,DK,Denmark,Europe,56,10,10513,8328,533
+2020/05/10,DK,Denmark,Europe,56,10,10429,8217,527
+2020/05/11,DK,Denmark,Europe,56,10,10513,8328,527
 2020/05/12,DK,Denmark,Europe,56,10,10591,8580,527
 2020/05/13,DK,Denmark,Europe,56,10,10667,8663,533
 2020/05/14,DK,Denmark,Europe,56,10,10713,8805,537
@@ -6426,14 +6426,14 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/04/30,EC,Ecuador,Americas,-2,-77.5,24934,1558,900
 2020/05/01,EC,Ecuador,Americas,-2,-77.5,26336,1913,1063
 2020/05/02,EC,Ecuador,Americas,-2,-77.5,27464,2132,1371
-2020/05/03,EC,Ecuador,Americas,-2,-77.5,29538,3300,1564
-2020/05/04,EC,Ecuador,Americas,-2,-77.5,31881,3433,1569
-2020/05/05,EC,Ecuador,Americas,-2,-77.5,31881,3433,1569
-2020/05/06,EC,Ecuador,Americas,-2,-77.5,31881,3433,1618
-2020/05/07,EC,Ecuador,Americas,-2,-77.5,30298,3433,1654
-2020/05/08,EC,Ecuador,Americas,-2,-77.5,30298,3433,1704
-2020/05/09,EC,Ecuador,Americas,-2,-77.5,29071,3433,1717
-2020/05/10,EC,Ecuador,Americas,-2,-77.5,29559,3433,2127
+2020/05/03,EC,Ecuador,Americas,-2,-77.5,29509,3300,1564
+2020/05/04,EC,Ecuador,Americas,-2,-77.5,29509,3433,1569
+2020/05/05,EC,Ecuador,Americas,-2,-77.5,29509,3433,1569
+2020/05/06,EC,Ecuador,Americas,-2,-77.5,29509,3433,1618
+2020/05/07,EC,Ecuador,Americas,-2,-77.5,29509,3433,1654
+2020/05/08,EC,Ecuador,Americas,-2,-77.5,29509,3433,1704
+2020/05/09,EC,Ecuador,Americas,-2,-77.5,29509,3433,1717
+2020/05/10,EC,Ecuador,Americas,-2,-77.5,29509,3433,2127
 2020/05/11,EC,Ecuador,Americas,-2,-77.5,29509,3433,2145
 2020/05/12,EC,Ecuador,Americas,-2,-77.5,30419,3433,2327
 2020/05/13,EC,Ecuador,Americas,-2,-77.5,30486,3433,2334
@@ -7700,7 +7700,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/05/09,FR,France,Europe,46,2,176658,56038,26310
 2020/05/10,FR,France,Europe,46,2,176970,56217,26380
 2020/05/11,FR,France,Europe,46,2,177423,56724,26643
-2020/05/12,FR,France,Europe,46,2,178225,57785,26991
+2020/05/12,FR,France,Europe,46,2,178060,57785,26991
 2020/05/13,FR,France,Europe,46,2,178060,58673,27074
 2020/05/14,FR,France,Europe,46,2,178870,59605,27425
 2020/05/15,FR,France,Europe,46,2,179506,60448,27529
@@ -8505,8 +8505,8 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/05/09,GI,Gibraltar,Europe,36.13333333,-5.35,146,142,0
 2020/05/10,GI,Gibraltar,Europe,36.13333333,-5.35,146,143,0
 2020/05/11,GI,Gibraltar,Europe,36.13333333,-5.35,147,143,0
-2020/05/12,GI,Gibraltar,Europe,36.13333333,-5.35,148,144,0
-2020/05/13,GI,Gibraltar,Europe,36.13333333,-5.35,148,144,0
+2020/05/12,GI,Gibraltar,Europe,36.13333333,-5.35,147,144,0
+2020/05/13,GI,Gibraltar,Europe,36.13333333,-5.35,147,144,0
 2020/05/14,GI,Gibraltar,Europe,36.13333333,-5.35,147,144,0
 2020/05/15,GI,Gibraltar,Europe,36.13333333,-5.35,147,144,0
 2020/01/22,GL,Greenland,Americas,72,-40,0,0,0
@@ -9770,7 +9770,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/05/09,HN,Honduras,Americas,15,-86.5,1771,192,107
 2020/05/10,HN,Honduras,Americas,15,-86.5,1830,195,108
 2020/05/11,HN,Honduras,Americas,15,-86.5,1972,203,108
-2020/05/12,HN,Honduras,Americas,15,-86.5,2100,206,116
+2020/05/12,HN,Honduras,Americas,15,-86.5,2080,206,116
 2020/05/13,HN,Honduras,Americas,15,-86.5,2080,211,121
 2020/05/14,HN,Honduras,Americas,15,-86.5,2255,237,123
 2020/05/15,HN,Honduras,Americas,15,-86.5,2318,253,133
@@ -11844,6 +11844,121 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/05/13,KH,Cambodia,Asia,13,105,122,121,0
 2020/05/14,KH,Cambodia,Asia,13,105,122,121,0
 2020/05/15,KH,Cambodia,Asia,13,105,122,121,0
+2020/01/22,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/01/23,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/01/24,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/01/25,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/01/26,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/01/27,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/01/28,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/01/29,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/01/30,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/01/31,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/02/01,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/02/02,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/02/03,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/02/04,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/02/05,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/02/06,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/02/07,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/02/08,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/02/09,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/02/10,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/02/11,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/02/12,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/02/13,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/02/14,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/02/15,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/02/16,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/02/17,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/02/18,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/02/19,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/02/20,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/02/21,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/02/22,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/02/23,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/02/24,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/02/25,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/02/26,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/02/27,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/02/28,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/02/29,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/03/01,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/03/02,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/03/03,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/03/04,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/03/05,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/03/06,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/03/07,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/03/08,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/03/09,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/03/10,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/03/11,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/03/12,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/03/13,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/03/14,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/03/15,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/03/16,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/03/17,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/03/18,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/03/19,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/03/20,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/03/21,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/03/22,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/03/23,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/03/24,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/03/25,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/03/26,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/03/27,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/03/28,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/03/29,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/03/30,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/03/31,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/04/01,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/04/02,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/04/03,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/04/04,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/04/05,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/04/06,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/04/07,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/04/08,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/04/09,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/04/10,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/04/11,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/04/12,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/04/13,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/04/14,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/04/15,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/04/16,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/04/17,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/04/18,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/04/19,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/04/20,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/04/21,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/04/22,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/04/23,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/04/24,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/04/25,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/04/26,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/04/27,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/04/28,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/04/29,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/04/30,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/05/01,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/05/02,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/05/03,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/05/04,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/05/05,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/05/06,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/05/07,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/05/08,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/05/09,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/05/10,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/05/11,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/05/12,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/05/13,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/05/14,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
+2020/05/15,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
 2020/01/22,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
 2020/01/23,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
 2020/01/24,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
@@ -12524,7 +12639,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/05/03,LA,Laos,Asia,18,105,19,9,0
 2020/05/04,LA,Laos,Asia,18,105,19,9,0
 2020/05/05,LA,Laos,Asia,18,105,19,9,0
-2020/05/06,LA,Laos,Asia,18,105,19,10,0
+2020/05/06,LA,Laos,Asia,18,105,19,9,0
 2020/05/07,LA,Laos,Asia,18,105,19,9,0
 2020/05/08,LA,Laos,Asia,18,105,19,9,0
 2020/05/09,LA,Laos,Asia,18,105,19,13,0
@@ -13109,6 +13224,121 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/05/13,LR,Liberia,Africa,6.5,-9.5,213,101,20
 2020/05/14,LR,Liberia,Africa,6.5,-9.5,215,105,20
 2020/05/15,LR,Liberia,Africa,6.5,-9.5,219,108,20
+2020/01/22,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/01/23,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/01/24,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/01/25,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/01/26,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/01/27,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/01/28,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/01/29,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/01/30,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/01/31,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/02/01,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/02/02,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/02/03,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/02/04,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/02/05,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/02/06,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/02/07,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/02/08,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/02/09,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/02/10,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/02/11,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/02/12,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/02/13,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/02/14,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/02/15,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/02/16,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/02/17,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/02/18,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/02/19,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/02/20,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/02/21,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/02/22,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/02/23,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/02/24,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/02/25,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/02/26,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/02/27,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/02/28,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/02/29,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/03/01,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/03/02,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/03/03,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/03/04,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/03/05,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/03/06,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/03/07,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/03/08,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/03/09,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/03/10,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/03/11,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/03/12,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/03/13,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/03/14,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/03/15,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/03/16,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/03/17,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/03/18,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/03/19,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/03/20,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/03/21,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/03/22,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/03/23,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/03/24,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/03/25,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/03/26,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/03/27,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/03/28,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/03/29,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/03/30,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/03/31,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/04/01,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/04/02,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/04/03,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/04/04,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/04/05,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/04/06,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/04/07,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/04/08,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/04/09,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/04/10,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/04/11,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/04/12,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/04/13,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/04/14,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/04/15,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/04/16,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/04/17,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/04/18,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/04/19,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/04/20,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/04/21,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/04/22,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/04/23,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/04/24,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/04/25,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/04/26,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/04/27,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/04/28,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/04/29,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/04/30,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/05/01,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/05/02,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/05/03,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/05/04,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/05/05,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/05/06,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/05/07,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/05/08,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/05/09,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/05/10,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/05/11,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/05/12,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/05/13,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/05/14,LS,Lesotho,Africa,-29.5,28.5,0,0,0
+2020/05/15,LS,Lesotho,Africa,-29.5,28.5,0,0,0
 2020/01/22,LT,Lithuania,Europe,56,24,0,0,0
 2020/01/23,LT,Lithuania,Europe,56,24,0,0,0
 2020/01/24,LT,Lithuania,Europe,56,24,0,0,0
@@ -14250,10 +14480,10 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/05/04,MG,Madagascar,Africa,-20,47,149,99,0
 2020/05/05,MG,Madagascar,Africa,-20,47,151,101,0
 2020/05/06,MG,Madagascar,Africa,-20,47,158,101,0
-2020/05/07,MG,Madagascar,Africa,-20,47,193,101,0
-2020/05/08,MG,Madagascar,Africa,-20,47,193,101,0
-2020/05/09,MG,Madagascar,Africa,-20,47,193,101,0
-2020/05/10,MG,Madagascar,Africa,-20,47,193,101,0
+2020/05/07,MG,Madagascar,Africa,-20,47,186,101,0
+2020/05/08,MG,Madagascar,Africa,-20,47,186,101,0
+2020/05/09,MG,Madagascar,Africa,-20,47,186,101,0
+2020/05/10,MG,Madagascar,Africa,-20,47,186,101,0
 2020/05/11,MG,Madagascar,Africa,-20,47,186,101,0
 2020/05/12,MG,Madagascar,Africa,-20,47,186,101,0
 2020/05/13,MG,Madagascar,Africa,-20,47,212,107,0
@@ -17006,8 +17236,8 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/04/30,NZ,New Zealand,Oceania,-41,174,1476,1241,19
 2020/05/01,NZ,New Zealand,Oceania,-41,174,1479,1252,19
 2020/05/02,NZ,New Zealand,Oceania,-41,174,1485,1263,20
-2020/05/03,NZ,New Zealand,Oceania,-41,174,1487,1266,20
-2020/05/04,NZ,New Zealand,Oceania,-41,174,1487,1276,20
+2020/05/03,NZ,New Zealand,Oceania,-41,174,1486,1266,20
+2020/05/04,NZ,New Zealand,Oceania,-41,174,1486,1276,20
 2020/05/05,NZ,New Zealand,Oceania,-41,174,1486,1302,20
 2020/05/06,NZ,New Zealand,Oceania,-41,174,1488,1316,21
 2020/05/07,NZ,New Zealand,Oceania,-41,174,1489,1332,21
@@ -20117,7 +20347,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/05/06,SM,San Marino,Europe,43.76666666,12.41666666,608,97,41
 2020/05/07,SM,San Marino,Europe,43.76666666,12.41666666,622,106,41
 2020/05/08,SM,San Marino,Europe,43.76666666,12.41666666,623,114,41
-2020/05/09,SM,San Marino,Europe,43.76666666,12.41666666,637,126,41
+2020/05/09,SM,San Marino,Europe,43.76666666,12.41666666,628,126,41
 2020/05/10,SM,San Marino,Europe,43.76666666,12.41666666,628,126,41
 2020/05/11,SM,San Marino,Europe,43.76666666,12.41666666,628,130,41
 2020/05/12,SM,San Marino,Europe,43.76666666,12.41666666,638,161,41
@@ -23789,11 +24019,11 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/04/28,X2,Channel Islands,Europe,49.372284,-2.364351,530,352,36
 2020/04/29,X2,Channel Islands,Europe,49.372284,-2.364351,537,386,38
 2020/04/30,X2,Channel Islands,Europe,49.372284,-2.364351,537,386,40
-2020/05/01,X2,Channel Islands,Europe,49.372284,-2.364351,538,406,41
-2020/05/02,X2,Channel Islands,Europe,49.372284,-2.364351,543,406,41
-2020/05/03,X2,Channel Islands,Europe,49.372284,-2.364351,544,406,41
-2020/05/04,X2,Channel Islands,Europe,49.372284,-2.364351,544,406,41
-2020/05/05,X2,Channel Islands,Europe,49.372284,-2.364351,544,406,41
+2020/05/01,X2,Channel Islands,Europe,49.372284,-2.364351,538,406,40
+2020/05/02,X2,Channel Islands,Europe,49.372284,-2.364351,543,406,40
+2020/05/03,X2,Channel Islands,Europe,49.372284,-2.364351,544,406,40
+2020/05/04,X2,Channel Islands,Europe,49.372284,-2.364351,544,406,40
+2020/05/05,X2,Channel Islands,Europe,49.372284,-2.364351,544,406,40
 2020/05/06,X2,Channel Islands,Europe,49.372284,-2.364351,545,406,40
 2020/05/07,X2,Channel Islands,Europe,49.372284,-2.364351,545,430,40
 2020/05/08,X2,Channel Islands,Europe,49.372284,-2.364351,545,445,40

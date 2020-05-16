@@ -54,7 +54,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/05/04,DM,Dominica,Americas,15.41666666,-61.33333333,16,13,0
 2020/05/04,DO,Dominican Republic,Americas,19,-70.66666666,8235,1771,346
 2020/05/04,DZ,Algeria,Africa,28,3,4648,1998,465
-2020/05/04,EC,Ecuador,Americas,-2,-77.5,31881,3433,1569
+2020/05/04,EC,Ecuador,Americas,-2,-77.5,29509,3433,1569
 2020/05/04,EE,Estonia,Europe,59,26,1703,259,55
 2020/05/04,EG,Egypt,Africa,27,30,6813,1632,436
 2020/05/04,EH,Western Sahara,Africa,24.5,-13,6,5,0
@@ -102,6 +102,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/05/04,KE,Kenya,Africa,1,38,490,173,24
 2020/05/04,KG,Kyrgyzstan,Asia,41,75,830,575,10
 2020/05/04,KH,Cambodia,Asia,13,105,122,120,0
+2020/05/04,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
 2020/05/04,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,15,8,0
 2020/05/04,KR,South Korea,Asia,37,127.5,10801,9217,252
 2020/05/04,KW,Kuwait,Asia,29.5,45.75,5278,1947,40
@@ -113,6 +114,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/05/04,LI,Liechtenstein,Europe,47.26666666,9.53333333,82,55,1
 2020/05/04,LK,Sri Lanka,Asia,7,81,751,194,8
 2020/05/04,LR,Liberia,Africa,6.5,-9.5,166,58,18
+2020/05/04,LS,Lesotho,Africa,-29.5,28.5,0,0,0
 2020/05/04,LT,Lithuania,Europe,56,24,1419,638,46
 2020/05/04,LU,Luxembourg,Europe,49.75,6.16666666,3828,3405,96
 2020/05/04,LV,Latvia,Europe,57,25,896,348,16
@@ -146,7 +148,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/05/04,NL,Netherlands,Europe,52.5,5.75,40770,0,5082
 2020/05/04,NO,Norway,Europe,62,10,7884,32,214
 2020/05/04,NP,Nepal,Asia,28,84,75,16,0
-2020/05/04,NZ,New Zealand,Oceania,-41,174,1487,1276,20
+2020/05/04,NZ,New Zealand,Oceania,-41,174,1486,1276,20
 2020/05/04,OM,Oman,Asia,21,57,2637,816,12
 2020/05/04,PA,Panama,Americas,9,-80,7197,641,200
 2020/05/04,PE,Peru,Americas,-10,-76,47372,14427,1344
@@ -205,7 +207,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/05/04,VG,British Virgin Islands,Americas,18.431383,-64.62305,6,3,1
 2020/05/04,VN,Vietnam,Asia,16.16666666,107.83333333,271,219,0
 2020/05/04,X1,Diamond Princess,Asia,35.45582,139.68188,712,645,13
-2020/05/04,X2,Channel Islands,Europe,49.372284,-2.364351,544,406,41
+2020/05/04,X2,Channel Islands,Europe,49.372284,-2.364351,544,406,40
 2020/05/04,X3,MS Zaandam,Americas,25.688575,-113.356289,9,0,2
 2020/05/04,YE,Yemen,Asia,15,48,12,1,2
 2020/05/04,YT,Mayotte,Africa,-12.83333333,45.16666666,686,352,6

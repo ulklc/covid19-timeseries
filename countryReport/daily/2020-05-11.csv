@@ -50,7 +50,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/05/11,CZ,Czechia,Europe,49.75,15.5,8176,4711,282
 2020/05/11,DE,Germany,Europe,51,9,172576,145617,7661
 2020/05/11,DJ,Djibouti,Africa,11.5,43,1227,872,3
-2020/05/11,DK,Denmark,Europe,56,10,10513,8328,533
+2020/05/11,DK,Denmark,Europe,56,10,10513,8328,527
 2020/05/11,DM,Dominica,Americas,15.41666666,-61.33333333,16,15,0
 2020/05/11,DO,Dominican Republic,Americas,19,-70.66666666,10634,2870,393
 2020/05/11,DZ,Algeria,Africa,28,3,5891,2841,507
@@ -102,6 +102,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/05/11,KE,Kenya,Africa,1,38,700,251,33
 2020/05/11,KG,Kyrgyzstan,Asia,41,75,1016,688,12
 2020/05/11,KH,Cambodia,Asia,13,105,122,120,0
+2020/05/11,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
 2020/05/11,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,15,14,0
 2020/05/11,KR,South Korea,Asia,37,127.5,10909,9632,256
 2020/05/11,KW,Kuwait,Asia,29.5,45.75,9286,2907,65
@@ -113,6 +114,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/05/11,LI,Liechtenstein,Europe,47.26666666,9.53333333,82,55,1
 2020/05/11,LK,Sri Lanka,Asia,7,81,863,343,9
 2020/05/11,LR,Liberia,Africa,6.5,-9.5,211,85,20
+2020/05/11,LS,Lesotho,Africa,-29.5,28.5,0,0,0
 2020/05/11,LT,Lithuania,Europe,56,24,1485,833,50
 2020/05/11,LU,Luxembourg,Europe,49.75,6.16666666,3888,3602,101
 2020/05/11,LV,Latvia,Europe,57,25,946,464,18

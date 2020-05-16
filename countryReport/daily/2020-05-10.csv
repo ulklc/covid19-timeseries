@@ -50,11 +50,11 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/05/10,CZ,Czechia,Europe,49.75,15.5,8123,4474,280
 2020/05/10,DE,Germany,Europe,51,9,171879,144400,7569
 2020/05/10,DJ,Djibouti,Africa,11.5,43,1210,847,3
-2020/05/10,DK,Denmark,Europe,56,10,10429,8217,529
+2020/05/10,DK,Denmark,Europe,56,10,10429,8217,527
 2020/05/10,DM,Dominica,Americas,15.41666666,-61.33333333,16,14,0
 2020/05/10,DO,Dominican Republic,Americas,19,-70.66666666,10347,2763,388
 2020/05/10,DZ,Algeria,Africa,28,3,5723,2678,502
-2020/05/10,EC,Ecuador,Americas,-2,-77.5,29559,3433,2127
+2020/05/10,EC,Ecuador,Americas,-2,-77.5,29509,3433,2127
 2020/05/10,EE,Estonia,Europe,59,26,1739,750,60
 2020/05/10,EG,Egypt,Africa,27,30,9400,2075,525
 2020/05/10,EH,Western Sahara,Africa,24.5,-13,6,5,0
@@ -102,6 +102,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/05/10,KE,Kenya,Africa,1,38,672,239,32
 2020/05/10,KG,Kyrgyzstan,Asia,41,75,1002,675,12
 2020/05/10,KH,Cambodia,Asia,13,105,122,120,0
+2020/05/10,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
 2020/05/10,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,15,14,0
 2020/05/10,KR,South Korea,Asia,37,127.5,10874,9610,256
 2020/05/10,KW,Kuwait,Asia,29.5,45.75,8688,2729,58
@@ -113,6 +114,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/05/10,LI,Liechtenstein,Europe,47.26666666,9.53333333,82,55,1
 2020/05/10,LK,Sri Lanka,Asia,7,81,856,321,9
 2020/05/10,LR,Liberia,Africa,6.5,-9.5,199,79,20
+2020/05/10,LS,Lesotho,Africa,-29.5,28.5,0,0,0
 2020/05/10,LT,Lithuania,Europe,56,24,1479,828,50
 2020/05/10,LU,Luxembourg,Europe,49.75,6.16666666,3886,3586,101
 2020/05/10,LV,Latvia,Europe,57,25,939,464,18
@@ -122,7 +124,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/05/10,MD,Moldova,Europe,47,29,4927,1958,169
 2020/05/10,ME,Montenegro,Europe,42.5,19.3,324,290,9
 2020/05/10,MF,Saint Martin,Americas,18.08333333,-63.95,39,30,3
-2020/05/10,MG,Madagascar,Africa,-20,47,193,101,0
+2020/05/10,MG,Madagascar,Africa,-20,47,186,101,0
 2020/05/10,MK,North Macedonia,Europe,41.83333333,22,1642,1136,91
 2020/05/10,ML,Mali,Africa,17,-4,704,351,38
 2020/05/10,MM,Myanmar,Asia,22,98,180,72,6

@@ -65,14 +65,14 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/05/12,FJ,Fiji,Oceania,-18,175,18,14,0
 2020/05/12,FK,Falkland Islands,Americas,-51.75,-59,13,13,0
 2020/05/12,FO,Faroe Islands,Europe,62,-7,187,187,0
-2020/05/12,FR,France,Europe,46,2,178225,57785,26991
+2020/05/12,FR,France,Europe,46,2,178060,57785,26991
 2020/05/12,GA,Gabon,Africa,-1,11.75,863,137,9
 2020/05/12,GB,United Kingdom,Europe,54,-2,226463,0,32692
 2020/05/12,GD,Grenada,Americas,12.11666666,-61.66666666,21,13,0
 2020/05/12,GE,Georgia,Asia,42,43.5,642,349,11
 2020/05/12,GF,French Guiana,Americas,4,-53,144,122,1
 2020/05/12,GH,Ghana,Africa,8,-2,5127,494,22
-2020/05/12,GI,Gibraltar,Europe,36.13333333,-5.35,148,144,0
+2020/05/12,GI,Gibraltar,Europe,36.13333333,-5.35,147,144,0
 2020/05/12,GL,Greenland,Americas,72,-40,11,11,0
 2020/05/12,GM,Gambia,Africa,13.46666666,-16.56666666,22,10,1
 2020/05/12,GN,Guinea,Africa,11,-10,2298,816,11
@@ -83,7 +83,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/05/12,GW,Guinea-Bissau,Africa,12,-15,761,26,3
 2020/05/12,GY,Guyana,Americas,5,-59,113,36,10
 2020/05/12,HK,Hong Kong,Asia,22.267,114.188,1048,991,4
-2020/05/12,HN,Honduras,Americas,15,-86.5,2100,206,116
+2020/05/12,HN,Honduras,Americas,15,-86.5,2080,206,116
 2020/05/12,HR,Croatia,Europe,45.16666666,15.5,2207,1808,91
 2020/05/12,HT,Haiti,Americas,19,-72.41666666,209,17,16
 2020/05/12,HU,Hungary,Europe,47,20,3313,1007,425
@@ -102,6 +102,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/05/12,KE,Kenya,Africa,1,38,715,259,36
 2020/05/12,KG,Kyrgyzstan,Asia,41,75,1037,709,12
 2020/05/12,KH,Cambodia,Asia,13,105,122,121,0
+2020/05/12,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
 2020/05/12,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,15,14,0
 2020/05/12,KR,South Korea,Asia,37,127.5,10936,9670,258
 2020/05/12,KW,Kuwait,Asia,29.5,45.75,10277,3101,75
@@ -113,6 +114,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/05/12,LI,Liechtenstein,Europe,47.26666666,9.53333333,82,55,1
 2020/05/12,LK,Sri Lanka,Asia,7,81,889,366,9
 2020/05/12,LR,Liberia,Africa,6.5,-9.5,211,85,20
+2020/05/12,LS,Lesotho,Africa,-29.5,28.5,0,0,0
 2020/05/12,LT,Lithuania,Europe,56,24,1491,850,50
 2020/05/12,LU,Luxembourg,Europe,49.75,6.16666666,3894,3610,102
 2020/05/12,LV,Latvia,Europe,57,25,950,627,18

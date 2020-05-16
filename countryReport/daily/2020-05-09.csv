@@ -54,7 +54,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/05/09,DM,Dominica,Americas,15.41666666,-61.33333333,16,14,0
 2020/05/09,DO,Dominican Republic,Americas,19,-70.66666666,9882,2584,385
 2020/05/09,DZ,Algeria,Africa,28,3,5558,2546,494
-2020/05/09,EC,Ecuador,Americas,-2,-77.5,29071,3433,1717
+2020/05/09,EC,Ecuador,Americas,-2,-77.5,29509,3433,1717
 2020/05/09,EE,Estonia,Europe,59,26,1733,747,60
 2020/05/09,EG,Egypt,Africa,27,30,8964,2002,514
 2020/05/09,EH,Western Sahara,Africa,24.5,-13,6,5,0
@@ -102,6 +102,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/05/09,KE,Kenya,Africa,1,38,649,207,30
 2020/05/09,KG,Kyrgyzstan,Asia,41,75,931,658,12
 2020/05/09,KH,Cambodia,Asia,13,105,122,120,0
+2020/05/09,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
 2020/05/09,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,15,13,0
 2020/05/09,KR,South Korea,Asia,37,127.5,10840,9568,256
 2020/05/09,KW,Kuwait,Asia,29.5,45.75,7623,2622,49
@@ -113,6 +114,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/05/09,LI,Liechtenstein,Europe,47.26666666,9.53333333,82,55,1
 2020/05/09,LK,Sri Lanka,Asia,7,81,847,260,9
 2020/05/09,LR,Liberia,Africa,6.5,-9.5,199,79,20
+2020/05/09,LS,Lesotho,Africa,-29.5,28.5,0,0,0
 2020/05/09,LT,Lithuania,Europe,56,24,1444,828,49
 2020/05/09,LU,Luxembourg,Europe,49.75,6.16666666,3877,3550,101
 2020/05/09,LV,Latvia,Europe,57,25,930,464,18
@@ -122,7 +124,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/05/09,MD,Moldova,Europe,47,29,4867,1925,161
 2020/05/09,ME,Montenegro,Europe,42.5,19.3,324,274,8
 2020/05/09,MF,Saint Martin,Americas,18.08333333,-63.95,39,30,3
-2020/05/09,MG,Madagascar,Africa,-20,47,193,101,0
+2020/05/09,MG,Madagascar,Africa,-20,47,186,101,0
 2020/05/09,MK,North Macedonia,Europe,41.83333333,22,1622,1112,91
 2020/05/09,ML,Mali,Africa,17,-4,692,298,37
 2020/05/09,MM,Myanmar,Asia,22,98,178,68,6
@@ -173,7 +175,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/05/09,SI,Slovenia,Europe,46.11666666,14.81666666,1454,255,101
 2020/05/09,SK,Slovakia,Europe,48.66666666,19.5,1455,919,26
 2020/05/09,SL,Sierra Leone,Africa,8.5,-11.5,291,58,18
-2020/05/09,SM,San Marino,Europe,43.76666666,12.41666666,637,126,41
+2020/05/09,SM,San Marino,Europe,43.76666666,12.41666666,628,126,41
 2020/05/09,SN,Senegal,Africa,14,-14,1634,643,17
 2020/05/09,SO,Somalia,Africa,10,49,997,110,48
 2020/05/09,SR,Suriname,Americas,4,-56,10,9,1

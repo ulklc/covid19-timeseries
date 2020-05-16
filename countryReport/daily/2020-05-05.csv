@@ -54,7 +54,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/05/05,DM,Dominica,Americas,15.41666666,-61.33333333,16,14,0
 2020/05/05,DO,Dominican Republic,Americas,19,-70.66666666,8480,1905,354
 2020/05/05,DZ,Algeria,Africa,28,3,4838,2067,470
-2020/05/05,EC,Ecuador,Americas,-2,-77.5,31881,3433,1569
+2020/05/05,EC,Ecuador,Americas,-2,-77.5,29509,3433,1569
 2020/05/05,EE,Estonia,Europe,59,26,1711,261,55
 2020/05/05,EG,Egypt,Africa,27,30,7201,1730,452
 2020/05/05,EH,Western Sahara,Africa,24.5,-13,6,5,0
@@ -102,6 +102,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/05/05,KE,Kenya,Africa,1,38,535,182,24
 2020/05/05,KG,Kyrgyzstan,Asia,41,75,843,600,11
 2020/05/05,KH,Cambodia,Asia,13,105,122,120,0
+2020/05/05,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
 2020/05/05,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,15,12,0
 2020/05/05,KR,South Korea,Asia,37,127.5,10804,9283,254
 2020/05/05,KW,Kuwait,Asia,29.5,45.75,5804,2032,40
@@ -113,6 +114,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/05/05,LI,Liechtenstein,Europe,47.26666666,9.53333333,82,55,1
 2020/05/05,LK,Sri Lanka,Asia,7,81,771,213,9
 2020/05/05,LR,Liberia,Africa,6.5,-9.5,170,58,20
+2020/05/05,LS,Lesotho,Africa,-29.5,28.5,0,0,0
 2020/05/05,LT,Lithuania,Europe,56,24,1423,678,46
 2020/05/05,LU,Luxembourg,Europe,49.75,6.16666666,3840,3412,96
 2020/05/05,LV,Latvia,Europe,57,25,896,348,17
@@ -205,7 +207,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/05/05,VG,British Virgin Islands,Americas,18.431383,-64.62305,6,3,1
 2020/05/05,VN,Vietnam,Asia,16.16666666,107.83333333,271,232,0
 2020/05/05,X1,Diamond Princess,Asia,35.45582,139.68188,712,645,13
-2020/05/05,X2,Channel Islands,Europe,49.372284,-2.364351,544,406,41
+2020/05/05,X2,Channel Islands,Europe,49.372284,-2.364351,544,406,40
 2020/05/05,X3,MS Zaandam,Americas,25.688575,-113.356289,9,0,2
 2020/05/05,YE,Yemen,Asia,15,48,22,1,4
 2020/05/05,YT,Mayotte,Africa,-12.83333333,45.16666666,739,352,9

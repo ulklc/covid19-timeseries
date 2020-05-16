@@ -72,7 +72,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/05/13,GE,Georgia,Asia,42,43.5,647,372,11
 2020/05/13,GF,French Guiana,Americas,4,-53,153,124,1
 2020/05/13,GH,Ghana,Africa,8,-2,5408,514,24
-2020/05/13,GI,Gibraltar,Europe,36.13333333,-5.35,148,144,0
+2020/05/13,GI,Gibraltar,Europe,36.13333333,-5.35,147,144,0
 2020/05/13,GL,Greenland,Americas,72,-40,11,11,0
 2020/05/13,GM,Gambia,Africa,13.46666666,-16.56666666,23,10,1
 2020/05/13,GN,Guinea,Africa,11,-10,2374,856,14
@@ -102,6 +102,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/05/13,KE,Kenya,Africa,1,38,737,281,40
 2020/05/13,KG,Kyrgyzstan,Asia,41,75,1044,726,12
 2020/05/13,KH,Cambodia,Asia,13,105,122,121,0
+2020/05/13,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
 2020/05/13,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,15,14,0
 2020/05/13,KR,South Korea,Asia,37,127.5,10962,9695,259
 2020/05/13,KW,Kuwait,Asia,29.5,45.75,11028,3263,82
@@ -113,6 +114,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/05/13,LI,Liechtenstein,Europe,47.26666666,9.53333333,82,55,1
 2020/05/13,LK,Sri Lanka,Asia,7,81,893,382,9
 2020/05/13,LR,Liberia,Africa,6.5,-9.5,213,101,20
+2020/05/13,LS,Lesotho,Africa,-29.5,28.5,0,0,0
 2020/05/13,LT,Lithuania,Europe,56,24,1505,908,54
 2020/05/13,LU,Luxembourg,Europe,49.75,6.16666666,3904,3629,103
 2020/05/13,LV,Latvia,Europe,57,25,951,627,19
