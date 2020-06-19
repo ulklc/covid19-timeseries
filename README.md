@@ -1,9 +1,9 @@
 # Covid19 timeseries data
 Covid19 timeseries data store
 
-This is data repository for covid 19 history. Webcrawlers is taking snapshot for every GMT 00:00 sources below and converting to CSV. There is some data normalization steps for different sources like country code or other stuffs. Sometimes there is some data inconsistency between days, we are keeping update, if newly counts lower than older, we are updating older rows. 
+This is data repository for Covid19 history. Webcrawlers is taking snapshot for every GMT 00:00 sources below and converting to CSV. There are some data normalization steps for different sources like country code or other stuffs. Sometimes there is some data inconsistency between days, we are keeping update, if newly counts lower than older, we are updating older rows. 
 
-*If you feels wrong data for own country, please open an issue.
+*If you feel wrong data for own country, please open an issue.
 
 ## Files
 
