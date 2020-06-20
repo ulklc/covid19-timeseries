@@ -20,7 +20,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/05/15,BG,Bulgaria,Europe,43,25,2138,545,102
 2020/05/15,BH,Bahrain,Asia,26,50.55,6583,2640,12
 2020/05/15,BI,Burundi,Africa,-3.5,30,15,7,1
-2020/05/15,BJ,Benin,Africa,9.5,2.25,339,83,2
+2020/05/15,BJ,Benin,Africa,9.5,2.25,130,61,2
 2020/05/15,BL,Saint Barthélemy,Americas,18.5,-63.41666666,6,6,0
 2020/05/15,BM,Bermuda,Americas,32.33333333,-64.75,122,66,9
 2020/05/15,BN,Brunei,Asia,4.5,114.66666666,141,135,1
@@ -59,13 +59,13 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/05/15,EG,Egypt,Africa,27,30,11228,2799,592
 2020/05/15,EH,Western Sahara,Africa,24.5,-13,6,6,0
 2020/05/15,ER,Eritrea,Africa,15,39,39,39,0
-2020/05/15,ES,Spain,Europe,40,-4,274367,188967,27459
+2020/05/15,ES,Spain,Europe,40,-4,274367,188967,26837
 2020/05/15,ET,Ethiopia,Africa,8,38,287,112,5
-2020/05/15,FI,Finland,Europe,64,26,6228,5000,293
+2020/05/15,FI,Finland,Europe,64,26,6228,4800,293
 2020/05/15,FJ,Fiji,Oceania,-18,175,18,15,0
 2020/05/15,FK,Falkland Islands,Americas,-51.75,-59,13,13,0
 2020/05/15,FO,Faroe Islands,Europe,62,-7,187,187,0
-2020/05/15,FR,France,Europe,46,2,179506,60448,27529
+2020/05/15,FR,France,Europe,46,2,179365,60448,27529
 2020/05/15,GA,Gabon,Africa,-1,11.75,1209,219,10
 2020/05/15,GB,United Kingdom,Europe,54,-2,236711,0,33998
 2020/05/15,GD,Grenada,Americas,12.11666666,-61.66666666,22,14,0
