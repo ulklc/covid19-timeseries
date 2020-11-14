@@ -295,6 +295,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,AD,Andorra,Europe,42.5,1.5,5477,4405,75
 2020/11/11,AD,Andorra,Europe,42.5,1.5,5567,4488,75
 2020/11/12,AD,Andorra,Europe,42.5,1.5,5616,4585,75
+2020/11/13,AD,Andorra,Europe,42.5,1.5,5725,4675,75
 2020/01/22,AE,United Arab Emirates,Asia,24,54,0,0,0
 2020/01/23,AE,United Arab Emirates,Asia,24,54,0,0,0
 2020/01/24,AE,United Arab Emirates,Asia,24,54,0,0,0
@@ -591,6 +592,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,AE,United Arab Emirates,Asia,24,54,144385,139701,518
 2020/11/11,AE,United Arab Emirates,Asia,24,54,145599,140442,520
 2020/11/12,AE,United Arab Emirates,Asia,24,54,146735,141215,523
+2020/11/13,AE,United Arab Emirates,Asia,24,54,147961,141883,528
 2020/01/22,AF,Afghanistan,Asia,33,65,0,0,0
 2020/01/23,AF,Afghanistan,Asia,33,65,0,0,0
 2020/01/24,AF,Afghanistan,Asia,33,65,0,0,0
@@ -887,6 +889,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,AF,Afghanistan,Asia,33,65,42463,34954,1577
 2020/11/11,AF,Afghanistan,Asia,33,65,42609,34967,1581
 2020/11/12,AF,Afghanistan,Asia,33,65,42795,35024,1591
+2020/11/13,AF,Afghanistan,Asia,33,65,42969,35036,1595
 2020/01/22,AG,Antigua and Barbuda,Americas,17.05,-61.8,0,0,0
 2020/01/23,AG,Antigua and Barbuda,Americas,17.05,-61.8,0,0,0
 2020/01/24,AG,Antigua and Barbuda,Americas,17.05,-61.8,0,0,0
@@ -1183,6 +1186,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,AG,Antigua and Barbuda,Americas,17.05,-61.8,131,122,3
 2020/11/11,AG,Antigua and Barbuda,Americas,17.05,-61.8,131,124,3
 2020/11/12,AG,Antigua and Barbuda,Americas,17.05,-61.8,131,124,3
+2020/11/13,AG,Antigua and Barbuda,Americas,17.05,-61.8,133,124,3
 2020/01/22,AI,Anguilla,Americas,18.25,-63.16666666,0,0,0
 2020/01/23,AI,Anguilla,Americas,18.25,-63.16666666,0,0,0
 2020/01/24,AI,Anguilla,Americas,18.25,-63.16666666,0,0,0
@@ -1479,6 +1483,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,AI,Anguilla,Americas,18.25,-63.16666666,3,3,0
 2020/11/11,AI,Anguilla,Americas,18.25,-63.16666666,3,3,0
 2020/11/12,AI,Anguilla,Americas,18.25,-63.16666666,3,3,0
+2020/11/13,AI,Anguilla,Americas,18.25,-63.16666666,3,3,0
 2020/01/22,AL,Albania,Europe,41,20,0,0,0
 2020/01/23,AL,Albania,Europe,41,20,0,0,0
 2020/01/24,AL,Albania,Europe,41,20,0,0,0
@@ -1775,6 +1780,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,AL,Albania,Europe,41,20,25294,12353,579
 2020/11/11,AL,Albania,Europe,41,20,25801,12493,590
 2020/11/12,AL,Albania,Europe,41,20,26211,12574,598
+2020/11/13,AL,Albania,Europe,41,20,26701,12667,605
 2020/01/22,AM,Armenia,Asia,40,45,0,0,0
 2020/01/23,AM,Armenia,Asia,40,45,0,0,0
 2020/01/24,AM,Armenia,Asia,40,45,0,0,0
@@ -2071,6 +2077,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,AM,Armenia,Asia,40,45,108687,66835,1609
 2020/11/11,AM,Armenia,Asia,40,45,110548,68336,1636
 2020/11/12,AM,Armenia,Asia,40,45,112680,70130,1668
+2020/11/13,AM,Armenia,Asia,40,45,114383,72116,1697
 2020/01/22,AO,Angola,Africa,-12.5,18.5,0,0,0
 2020/01/23,AO,Angola,Africa,-12.5,18.5,0,0,0
 2020/01/24,AO,Angola,Africa,-12.5,18.5,0,0,0
@@ -2367,6 +2374,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,AO,Angola,Africa,-12.5,18.5,12816,6036,308
 2020/11/11,AO,Angola,Africa,-12.5,18.5,12953,6125,312
 2020/11/12,AO,Angola,Africa,-12.5,18.5,13053,6250,315
+2020/11/13,AO,Angola,Africa,-12.5,18.5,13228,6326,317
 2020/01/22,AR,Argentina,Americas,-34,-64,0,0,0
 2020/01/23,AR,Argentina,Americas,-34,-64,0,0,0
 2020/01/24,AR,Argentina,Americas,-34,-64,0,0,0
@@ -2663,6 +2671,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,AR,Argentina,Americas,-34,-64,1262476,1081897,34183
 2020/11/11,AR,Argentina,Americas,-34,-64,1273356,1081897,34531
 2020/11/12,AR,Argentina,Americas,-34,-64,1284519,1100180,34782
+2020/11/13,AR,Argentina,Americas,-34,-64,1296378,1110477,35045
 2020/01/22,AT,Austria,Europe,47.33333333,13.33333333,0,0,0
 2020/01/23,AT,Austria,Europe,47.33333333,13.33333333,0,0,0
 2020/01/24,AT,Austria,Europe,47.33333333,13.33333333,0,0,0
@@ -2959,6 +2968,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,AT,Austria,Europe,47.33333333,13.33333333,164866,98663,1499
 2020/11/11,AT,Austria,Europe,47.33333333,13.33333333,172380,103759,1564
 2020/11/12,AT,Austria,Europe,47.33333333,13.33333333,181642,107875,1608
+2020/11/13,AT,Austria,Europe,47.33333333,13.33333333,191228,112728,1661
 2020/01/22,AU,Australia,Oceania,-27,133,0,0,0
 2020/01/23,AU,Australia,Oceania,-27,133,0,0,0
 2020/01/24,AU,Australia,Oceania,-27,133,0,0,0
@@ -3255,6 +3265,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,AU,Australia,Oceania,-27,133,27678,25457,907
 2020/11/11,AU,Australia,Oceania,-27,133,27686,25459,907
 2020/11/12,AU,Australia,Oceania,-27,133,27699,25464,907
+2020/11/13,AU,Australia,Oceania,-27,133,27702,25468,907
 2020/01/22,AW,Aruba,Americas,12.5,-69.96666666,0,0,0
 2020/01/23,AW,Aruba,Americas,12.5,-69.96666666,0,0,0
 2020/01/24,AW,Aruba,Americas,12.5,-69.96666666,0,0,0
@@ -3551,6 +3562,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,AW,Aruba,Americas,12.5,-69.96666666,4622,4399,42
 2020/11/11,AW,Aruba,Americas,12.5,-69.96666666,4631,4419,43
 2020/11/12,AW,Aruba,Americas,12.5,-69.96666666,4639,4497,43
+2020/11/13,AW,Aruba,Americas,12.5,-69.96666666,4639,4497,43
 2020/01/22,AZ,Azerbaijan,Asia,40.5,47.5,0,0,0
 2020/01/23,AZ,Azerbaijan,Asia,40.5,47.5,0,0,0
 2020/01/24,AZ,Azerbaijan,Asia,40.5,47.5,0,0,0
@@ -3847,6 +3859,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,AZ,Azerbaijan,Asia,40.5,47.5,67392,50009,867
 2020/11/11,AZ,Azerbaijan,Asia,40.5,47.5,68594,51007,885
 2020/11/12,AZ,Azerbaijan,Asia,40.5,47.5,70216,51986,905
+2020/11/13,AZ,Azerbaijan,Asia,40.5,47.5,71580,53001,927
 2020/01/22,BA,Bosnia and Herzegovina,Europe,44,18,0,0,0
 2020/01/23,BA,Bosnia and Herzegovina,Europe,44,18,0,0,0
 2020/01/24,BA,Bosnia and Herzegovina,Europe,44,18,0,0,0
@@ -4143,6 +4156,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,BA,Bosnia and Herzegovina,Europe,44,18,65024,32261,1629
 2020/11/11,BA,Bosnia and Herzegovina,Europe,44,18,66565,32769,1701
 2020/11/12,BA,Bosnia and Herzegovina,Europe,44,18,68293,33690,1750
+2020/11/13,BA,Bosnia and Herzegovina,Europe,44,18,69625,34491,1808
 2020/01/22,BB,Barbados,Americas,13.16666666,-59.53333333,0,0,0
 2020/01/23,BB,Barbados,Americas,13.16666666,-59.53333333,0,0,0
 2020/01/24,BB,Barbados,Americas,13.16666666,-59.53333333,0,0,0
@@ -4439,6 +4453,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,BB,Barbados,Americas,13.16666666,-59.53333333,243,231,7
 2020/11/11,BB,Barbados,Americas,13.16666666,-59.53333333,249,233,7
 2020/11/12,BB,Barbados,Americas,13.16666666,-59.53333333,249,233,7
+2020/11/13,BB,Barbados,Americas,13.16666666,-59.53333333,249,233,7
 2020/01/22,BD,Bangladesh,Asia,24,90,0,0,0
 2020/01/23,BD,Bangladesh,Asia,24,90,0,0,0
 2020/01/24,BD,Bangladesh,Asia,24,90,0,0,0
@@ -4735,6 +4750,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,BD,Bangladesh,Asia,24,90,423620,341416,6108
 2020/11/11,BD,Bangladesh,Asia,24,90,425353,343131,6127
 2020/11/12,BD,Bangladesh,Asia,24,90,427198,344868,6140
+2020/11/13,BD,Bangladesh,Asia,24,90,428965,346387,6159
 2020/01/22,BE,Belgium,Europe,50.83333333,4,0,0,0
 2020/01/23,BE,Belgium,Europe,50.83333333,4,0,0,0
 2020/01/24,BE,Belgium,Europe,50.83333333,4,0,0,0
@@ -5031,6 +5047,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,BE,Belgium,Europe,50.83333333,4,503182,29796,13216
 2020/11/11,BE,Belgium,Europe,50.83333333,4,507475,30504,13561
 2020/11/12,BE,Belgium,Europe,50.83333333,4,515391,31130,13758
+2020/11/13,BE,Belgium,Europe,50.83333333,4,520393,31372,13891
 2020/01/22,BF,Burkina Faso,Africa,13,-2,0,0,0
 2020/01/23,BF,Burkina Faso,Africa,13,-2,0,0,0
 2020/01/24,BF,Burkina Faso,Africa,13,-2,0,0,0
@@ -5327,6 +5344,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,BF,Burkina Faso,Africa,13,-2,2582,2410,67
 2020/11/11,BF,Burkina Faso,Africa,13,-2,2586,2411,67
 2020/11/12,BF,Burkina Faso,Africa,13,-2,2586,2411,67
+2020/11/13,BF,Burkina Faso,Africa,13,-2,2586,2411,67
 2020/01/22,BG,Bulgaria,Europe,43,25,0,0,0
 2020/01/23,BG,Bulgaria,Europe,43,25,0,0,0
 2020/01/24,BG,Bulgaria,Europe,43,25,0,0,0
@@ -5623,6 +5641,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,BG,Bulgaria,Europe,43,25,83366,25799,1851
 2020/11/11,BG,Bulgaria,Europe,43,25,87311,26714,1898
 2020/11/12,BG,Bulgaria,Europe,43,25,90725,27587,1970
+2020/11/13,BG,Bulgaria,Europe,43,25,94937,28269,2055
 2020/01/22,BH,Bahrain,Asia,26,50.55,0,0,0
 2020/01/23,BH,Bahrain,Asia,26,50.55,0,0,0
 2020/01/24,BH,Bahrain,Asia,26,50.55,0,0,0
@@ -5919,6 +5938,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,BH,Bahrain,Asia,26,50.55,83811,81415,331
 2020/11/11,BH,Bahrain,Asia,26,50.55,84042,81658,332
 2020/11/12,BH,Bahrain,Asia,26,50.55,84192,81846,332
+2020/11/13,BH,Bahrain,Asia,26,50.55,84349,82038,332
 2020/01/22,BI,Burundi,Africa,-3.5,30,0,0,0
 2020/01/23,BI,Burundi,Africa,-3.5,30,0,0,0
 2020/01/24,BI,Burundi,Africa,-3.5,30,0,0,0
@@ -6215,6 +6235,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,BI,Burundi,Africa,-3.5,30,615,549,1
 2020/11/11,BI,Burundi,Africa,-3.5,30,615,549,1
 2020/11/12,BI,Burundi,Africa,-3.5,30,623,549,1
+2020/11/13,BI,Burundi,Africa,-3.5,30,623,549,1
 2020/01/22,BJ,Benin,Africa,9.5,2.25,0,0,0
 2020/01/23,BJ,Benin,Africa,9.5,2.25,0,0,0
 2020/01/24,BJ,Benin,Africa,9.5,2.25,0,0,0
@@ -6511,6 +6532,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,BJ,Benin,Africa,9.5,2.25,2781,2515,43
 2020/11/11,BJ,Benin,Africa,9.5,2.25,2844,2515,43
 2020/11/12,BJ,Benin,Africa,9.5,2.25,2844,2515,43
+2020/11/13,BJ,Benin,Africa,9.5,2.25,2844,2515,43
 2020/01/22,BL,Saint Barthélemy,Americas,18.5,-63.41666666,0,0,0
 2020/01/23,BL,Saint Barthélemy,Americas,18.5,-63.41666666,0,0,0
 2020/01/24,BL,Saint Barthélemy,Americas,18.5,-63.41666666,0,0,0
@@ -6807,6 +6829,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,BL,Saint Barthélemy,Americas,18.5,-63.41666666,90,77,0
 2020/11/11,BL,Saint Barthélemy,Americas,18.5,-63.41666666,90,77,0
 2020/11/12,BL,Saint Barthélemy,Americas,18.5,-63.41666666,109,83,0
+2020/11/13,BL,Saint Barthélemy,Americas,18.5,-63.41666666,109,83,0
 2020/01/22,BM,Bermuda,Americas,32.33333333,-64.75,0,0,0
 2020/01/23,BM,Bermuda,Americas,32.33333333,-64.75,0,0,0
 2020/01/24,BM,Bermuda,Americas,32.33333333,-64.75,0,0,0
@@ -7103,6 +7126,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,BM,Bermuda,Americas,32.33333333,-64.75,214,182,9
 2020/11/11,BM,Bermuda,Americas,32.33333333,-64.75,214,182,9
 2020/11/12,BM,Bermuda,Americas,32.33333333,-64.75,220,188,9
+2020/11/13,BM,Bermuda,Americas,32.33333333,-64.75,222,189,9
 2020/01/22,BN,Brunei,Asia,4.5,114.66666666,0,0,0
 2020/01/23,BN,Brunei,Asia,4.5,114.66666666,0,0,0
 2020/01/24,BN,Brunei,Asia,4.5,114.66666666,0,0,0
@@ -7399,6 +7423,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,BN,Brunei,Asia,4.5,114.66666666,148,145,3
 2020/11/11,BN,Brunei,Asia,4.5,114.66666666,148,145,3
 2020/11/12,BN,Brunei,Asia,4.5,114.66666666,148,145,3
+2020/11/13,BN,Brunei,Asia,4.5,114.66666666,148,145,3
 2020/01/22,BO,Bolivia,Americas,-17,-65,0,0,0
 2020/01/23,BO,Bolivia,Americas,-17,-65,0,0,0
 2020/01/24,BO,Bolivia,Americas,-17,-65,0,0,0
@@ -7695,6 +7720,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,BO,Bolivia,Americas,-17,-65,142561,114881,8802
 2020/11/11,BO,Bolivia,Americas,-17,-65,142664,115199,8808
 2020/11/12,BO,Bolivia,Americas,-17,-65,142776,115718,8818
+2020/11/13,BO,Bolivia,Americas,-17,-65,142889,116137,8825
 2020/01/22,BQ,Caribbean Netherlands,Americas,12.18,-68.25,0,0,0
 2020/01/23,BQ,Caribbean Netherlands,Americas,12.18,-68.25,0,0,0
 2020/01/24,BQ,Caribbean Netherlands,Americas,12.18,-68.25,0,0,0
@@ -7991,6 +8017,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,BQ,Caribbean Netherlands,Americas,12.18,-68.25,154,145,3
 2020/11/11,BQ,Caribbean Netherlands,Americas,12.18,-68.25,154,145,3
 2020/11/12,BQ,Caribbean Netherlands,Americas,12.18,-68.25,155,151,3
+2020/11/13,BQ,Caribbean Netherlands,Americas,12.18,-68.25,155,151,3
 2020/01/22,BR,Brazil,Americas,-10,-55,0,0,0
 2020/01/23,BR,Brazil,Americas,-10,-55,0,0,0
 2020/01/24,BR,Brazil,Americas,-10,-55,0,0,0
@@ -8287,6 +8314,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,BR,Brazil,Americas,-10,-55,5701283,5064344,162842
 2020/11/11,BR,Brazil,Americas,-10,-55,5749007,5064344,163406
 2020/11/12,BR,Brazil,Americas,-10,-55,5783647,5256767,164332
+2020/11/13,BR,Brazil,Americas,-10,-55,5819496,5267567,164946
 2020/01/22,BS,Bahamas,Americas,24.25,-76,0,0,0
 2020/01/23,BS,Bahamas,Americas,24.25,-76,0,0,0
 2020/01/24,BS,Bahamas,Americas,24.25,-76,0,0,0
@@ -8583,6 +8611,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,BS,Bahamas,Americas,24.25,-76,6984,4943,154
 2020/11/11,BS,Bahamas,Americas,24.25,-76,7060,5099,154
 2020/11/12,BS,Bahamas,Americas,24.25,-76,7124,5192,155
+2020/11/13,BS,Bahamas,Americas,24.25,-76,7163,5282,155
 2020/01/22,BT,Bhutan,Asia,27.5,90.5,0,0,0
 2020/01/23,BT,Bhutan,Asia,27.5,90.5,0,0,0
 2020/01/24,BT,Bhutan,Asia,27.5,90.5,0,0,0
@@ -8879,6 +8908,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,BT,Bhutan,Asia,27.5,90.5,364,342,0
 2020/11/11,BT,Bhutan,Asia,27.5,90.5,364,343,0
 2020/11/12,BT,Bhutan,Asia,27.5,90.5,364,345,0
+2020/11/13,BT,Bhutan,Asia,27.5,90.5,369,345,0
 2020/01/22,BW,Botswana,Africa,-22,24,0,0,0
 2020/01/23,BW,Botswana,Africa,-22,24,0,0,0
 2020/01/24,BW,Botswana,Africa,-22,24,0,0,0
@@ -9175,6 +9205,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,BW,Botswana,Africa,-22,24,7835,5534,27
 2020/11/11,BW,Botswana,Africa,-22,24,7835,5534,27
 2020/11/12,BW,Botswana,Africa,-22,24,8225,5559,27
+2020/11/13,BW,Botswana,Africa,-22,24,8225,5559,27
 2020/01/22,BY,Belarus,Europe,53,28,0,0,0
 2020/01/23,BY,Belarus,Europe,53,28,0,0,0
 2020/01/24,BY,Belarus,Europe,53,28,0,0,0
@@ -9471,6 +9502,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,BY,Belarus,Europe,53,28,108300,91646,1016
 2020/11/11,BY,Belarus,Europe,53,28,109357,92266,1022
 2020/11/12,BY,Belarus,Europe,53,28,110455,92843,1027
+2020/11/13,BY,Belarus,Europe,53,28,111622,93570,1033
 2020/01/22,BZ,Belize,Americas,17.25,-88.75,0,0,0
 2020/01/23,BZ,Belize,Americas,17.25,-88.75,0,0,0
 2020/01/24,BZ,Belize,Americas,17.25,-88.75,0,0,0
@@ -9767,6 +9799,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,BZ,Belize,Americas,17.25,-88.75,4230,2386,71
 2020/11/11,BZ,Belize,Americas,17.25,-88.75,4414,2440,73
 2020/11/12,BZ,Belize,Americas,17.25,-88.75,4520,2485,75
+2020/11/13,BZ,Belize,Americas,17.25,-88.75,4596,2513,75
 2020/01/22,CA,Canada,Americas,60,-95,0,0,0
 2020/01/23,CA,Canada,Americas,60,-95,0,0,0
 2020/01/24,CA,Canada,Americas,60,-95,0,0,0
@@ -10063,6 +10096,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,CA,Canada,Americas,60,-95,272512,221000,10629
 2020/11/11,CA,Canada,Americas,60,-95,277061,223199,10685
 2020/11/12,CA,Canada,Americas,60,-95,282577,226775,10768
+2020/11/13,CA,Canada,Americas,60,-95,286701,229834,10826
 2020/01/22,CD,DR Congo,Africa,0,25,0,0,0
 2020/01/23,CD,DR Congo,Africa,0,25,0,0,0
 2020/01/24,CD,DR Congo,Africa,0,25,0,0,0
@@ -10359,6 +10393,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,CD,DR Congo,Africa,0,25,11642,10928,316
 2020/11/11,CD,DR Congo,Africa,0,25,11642,10928,316
 2020/11/12,CD,DR Congo,Africa,0,25,11692,10983,318
+2020/11/13,CD,DR Congo,Africa,0,25,11692,10983,318
 2020/01/22,CF,Central African Republic,Africa,7,21,0,0,0
 2020/01/23,CF,Central African Republic,Africa,7,21,0,0,0
 2020/01/24,CF,Central African Republic,Africa,7,21,0,0,0
@@ -10655,6 +10690,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,CF,Central African Republic,Africa,7,21,4880,1924,62
 2020/11/11,CF,Central African Republic,Africa,7,21,4884,1924,62
 2020/11/12,CF,Central African Republic,Africa,7,21,4888,1924,62
+2020/11/13,CF,Central African Republic,Africa,7,21,4888,1924,62
 2020/01/22,CG,Republic of the Congo,Africa,-1,15,0,0,0
 2020/01/23,CG,Republic of the Congo,Africa,-1,15,0,0,0
 2020/01/24,CG,Republic of the Congo,Africa,-1,15,0,0,0
@@ -10951,6 +10987,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,CG,Republic of the Congo,Africa,-1,15,5379,3887,92
 2020/11/11,CG,Republic of the Congo,Africa,-1,15,5379,3887,92
 2020/11/12,CG,Republic of the Congo,Africa,-1,15,5379,3887,92
+2020/11/13,CG,Republic of the Congo,Africa,-1,15,5515,3887,92
 2020/01/22,CH,Switzerland,Europe,47,8,0,0,0
 2020/01/23,CH,Switzerland,Europe,47,8,0,0,0
 2020/01/24,CH,Switzerland,Europe,47,8,0,0,0
@@ -11247,6 +11284,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,CH,Switzerland,Europe,47,8,235202,122600,3013
 2020/11/11,CH,Switzerland,Europe,47,8,243472,130000,3112
 2020/11/12,CH,Switzerland,Europe,47,8,250396,141000,3216
+2020/11/13,CH,Switzerland,Europe,47,8,257135,141000,3315
 2020/01/22,CI,Ivory Coast,Africa,8,-5,0,0,0
 2020/01/23,CI,Ivory Coast,Africa,8,-5,0,0,0
 2020/01/24,CI,Ivory Coast,Africa,8,-5,0,0,0
@@ -11543,6 +11581,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,CI,Ivory Coast,Africa,8,-5,20847,20546,126
 2020/11/11,CI,Ivory Coast,Africa,8,-5,20855,20572,127
 2020/11/12,CI,Ivory Coast,Africa,8,-5,20882,20584,127
+2020/11/13,CI,Ivory Coast,Africa,8,-5,20899,20599,127
 2020/01/22,CL,Chile,Americas,-30,-71,0,0,0
 2020/01/23,CL,Chile,Americas,-30,-71,0,0,0
 2020/01/24,CL,Chile,Americas,-30,-71,0,0,0
@@ -11839,6 +11878,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,CL,Chile,Americas,-30,-71,523907,500142,14611
 2020/11/11,CL,Chile,Americas,-30,-71,524804,501426,14633
 2020/11/12,CL,Chile,Americas,-30,-71,526438,502475,14699
+2020/11/13,CL,Chile,Americas,-30,-71,528030,503540,14738
 2020/01/22,CM,Cameroon,Africa,6,12,0,0,0
 2020/01/23,CM,Cameroon,Africa,6,12,0,0,0
 2020/01/24,CM,Cameroon,Africa,6,12,0,0,0
@@ -12135,6 +12175,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,CM,Cameroon,Africa,6,12,22421,21510,433
 2020/11/11,CM,Cameroon,Africa,6,12,22490,21510,433
 2020/11/12,CM,Cameroon,Africa,6,12,22490,21510,433
+2020/11/13,CM,Cameroon,Africa,6,12,22583,21510,433
 2020/01/22,CN,China,Asia,35,105,547,28,17
 2020/01/23,CN,China,Asia,35,105,639,30,18
 2020/01/24,CN,China,Asia,35,105,916,36,26
@@ -12431,6 +12472,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,CN,China,Asia,35,105,86267,81207,4634
 2020/11/11,CN,China,Asia,35,105,86284,81228,4634
 2020/11/12,CN,China,Asia,35,105,86299,81252,4634
+2020/11/13,CN,China,Asia,35,105,86307,81279,4634
 2020/01/22,CO,Colombia,Americas,4,-72,0,0,0
 2020/01/23,CO,Colombia,Americas,4,-72,0,0,0
 2020/01/24,CO,Colombia,Americas,4,-72,0,0,0
@@ -12727,6 +12769,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,CO,Colombia,Americas,4,-72,1156675,1059237,33148
 2020/11/11,CO,Colombia,Americas,4,-72,1165326,1070423,33312
 2020/11/12,CO,Colombia,Americas,4,-72,1174012,1081691,33491
+2020/11/13,CO,Colombia,Americas,4,-72,1182697,1089340,33669
 2020/01/22,CR,Costa Rica,Americas,10,-84,0,0,0
 2020/01/23,CR,Costa Rica,Americas,10,-84,0,0,0
 2020/01/24,CR,Costa Rica,Americas,10,-84,0,0,0
@@ -13023,6 +13066,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,CR,Costa Rica,Americas,10,-84,118566,72941,1502
 2020/11/11,CR,Costa Rica,Americas,10,-84,119768,73509,1513
 2020/11/12,CR,Costa Rica,Americas,10,-84,120939,74255,1527
+2020/11/13,CR,Costa Rica,Americas,10,-84,122123,74868,1537
 2020/01/22,CU,Cuba,Americas,21.5,-80,0,0,0
 2020/01/23,CU,Cuba,Americas,21.5,-80,0,0,0
 2020/01/24,CU,Cuba,Americas,21.5,-80,0,0,0
@@ -13319,6 +13363,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,CU,Cuba,Americas,21.5,-80,7392,6749,130
 2020/11/11,CU,Cuba,Americas,21.5,-80,7429,6831,130
 2020/11/12,CU,Cuba,Americas,21.5,-80,7487,6924,131
+2020/11/13,CU,Cuba,Americas,21.5,-80,7541,6965,131
 2020/01/22,CV,Cape Verde,Africa,16,-24,0,0,0
 2020/01/23,CV,Cape Verde,Africa,16,-24,0,0,0
 2020/01/24,CV,Cape Verde,Africa,16,-24,0,0,0
@@ -13615,6 +13660,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,CV,Cape Verde,Africa,16,-24,9499,8738,101
 2020/11/11,CV,Cape Verde,Africa,16,-24,9560,8829,102
 2020/11/12,CV,Cape Verde,Africa,16,-24,9694,9004,102
+2020/11/13,CV,Cape Verde,Africa,16,-24,9741,9076,102
 2020/01/22,CW,Curaçao,Americas,12.116667,-68.933333,0,0,0
 2020/01/23,CW,Curaçao,Americas,12.116667,-68.933333,0,0,0
 2020/01/24,CW,Curaçao,Americas,12.116667,-68.933333,0,0,0
@@ -13911,6 +13957,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,CW,Curaçao,Americas,12.116667,-68.933333,1131,837,2
 2020/11/11,CW,Curaçao,Americas,12.116667,-68.933333,1182,865,2
 2020/11/12,CW,Curaçao,Americas,12.116667,-68.933333,1215,899,2
+2020/11/13,CW,Curaçao,Americas,12.116667,-68.933333,1261,913,2
 2020/01/22,CY,Cyprus,Europe,35,33,0,0,0
 2020/01/23,CY,Cyprus,Europe,35,33,0,0,0
 2020/01/24,CY,Cyprus,Europe,35,33,0,0,0
@@ -14207,6 +14254,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,CY,Cyprus,Europe,35,33,6098,1882,28
 2020/11/11,CY,Cyprus,Europe,35,33,6461,1882,33
 2020/11/12,CY,Cyprus,Europe,35,33,6646,1882,34
+2020/11/13,CY,Cyprus,Europe,35,33,6853,2021,38
 2020/01/22,CZ,Czechia,Europe,49.75,15.5,0,0,0
 2020/01/23,CZ,Czechia,Europe,49.75,15.5,0,0,0
 2020/01/24,CZ,Czechia,Europe,49.75,15.5,0,0,0
@@ -14503,6 +14551,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,CZ,Czechia,Europe,49.75,15.5,425845,261273,5263
 2020/11/11,CZ,Czechia,Europe,49.75,15.5,434278,277917,5517
 2020/11/12,CZ,Czechia,Europe,49.75,15.5,443113,285957,5708
+2020/11/13,CZ,Czechia,Europe,49.75,15.5,450392,301385,5878
 2020/01/22,DE,Germany,Europe,51,9,0,0,0
 2020/01/23,DE,Germany,Europe,51,9,0,0,0
 2020/01/24,DE,Germany,Europe,51,9,0,0,0
@@ -14799,6 +14848,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,DE,Germany,Europe,51,9,705640,441200,11860
 2020/11/11,DE,Germany,Europe,51,9,726176,454800,12082
 2020/11/12,DE,Germany,Europe,51,9,749638,467800,12276
+2020/11/13,DE,Germany,Europe,51,9,772822,481700,12503
 2020/01/22,DJ,Djibouti,Africa,11.5,43,0,0,0
 2020/01/23,DJ,Djibouti,Africa,11.5,43,0,0,0
 2020/01/24,DJ,Djibouti,Africa,11.5,43,0,0,0
@@ -15095,6 +15145,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,DJ,Djibouti,Africa,11.5,43,5633,5497,61
 2020/11/11,DJ,Djibouti,Africa,11.5,43,5635,5501,61
 2020/11/12,DJ,Djibouti,Africa,11.5,43,5641,5509,61
+2020/11/13,DJ,Djibouti,Africa,11.5,43,5641,5509,61
 2020/01/22,DK,Denmark,Europe,56,10,0,0,0
 2020/01/23,DK,Denmark,Europe,56,10,0,0,0
 2020/01/24,DK,Denmark,Europe,56,10,0,0,0
@@ -15391,6 +15442,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,DK,Denmark,Europe,56,10,56958,42249,750
 2020/11/11,DK,Denmark,Europe,56,10,57952,43483,753
 2020/11/12,DK,Denmark,Europe,56,10,58963,44693,755
+2020/11/13,DK,Denmark,Europe,56,10,60000,45705,756
 2020/01/22,DM,Dominica,Americas,15.41666666,-61.33333333,0,0,0
 2020/01/23,DM,Dominica,Americas,15.41666666,-61.33333333,0,0,0
 2020/01/24,DM,Dominica,Americas,15.41666666,-61.33333333,0,0,0
@@ -15687,6 +15739,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,DM,Dominica,Americas,15.41666666,-61.33333333,63,35,0
 2020/11/11,DM,Dominica,Americas,15.41666666,-61.33333333,68,41,0
 2020/11/12,DM,Dominica,Americas,15.41666666,-61.33333333,68,41,0
+2020/11/13,DM,Dominica,Americas,15.41666666,-61.33333333,68,41,0
 2020/01/22,DO,Dominican Republic,Americas,19,-70.66666666,0,0,0
 2020/01/23,DO,Dominican Republic,Americas,19,-70.66666666,0,0,0
 2020/01/24,DO,Dominican Republic,Americas,19,-70.66666666,0,0,0
@@ -15983,6 +16036,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,DO,Dominican Republic,Americas,19,-70.66666666,131131,108765,2269
 2020/11/11,DO,Dominican Republic,Americas,19,-70.66666666,131265,109057,2272
 2020/11/12,DO,Dominican Republic,Americas,19,-70.66666666,131636,109135,2274
+2020/11/13,DO,Dominican Republic,Americas,19,-70.66666666,132554,109268,2280
 2020/01/22,DZ,Algeria,Africa,28,3,0,0,0
 2020/01/23,DZ,Algeria,Africa,28,3,0,0,0
 2020/01/24,DZ,Algeria,Africa,28,3,0,0,0
@@ -16279,6 +16333,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,DZ,Algeria,Africa,28,3,63446,42626,2077
 2020/11/11,DZ,Algeria,Africa,28,3,64257,42980,2093
 2020/11/12,DZ,Algeria,Africa,28,3,65108,42980,2111
+2020/11/13,DZ,Algeria,Africa,28,3,65975,43779,2124
 2020/01/22,EC,Ecuador,Americas,-2,-77.5,0,0,0
 2020/01/23,EC,Ecuador,Americas,-2,-77.5,0,0,0
 2020/01/24,EC,Ecuador,Americas,-2,-77.5,0,0,0
@@ -16575,6 +16630,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,EC,Ecuador,Americas,-2,-77.5,175711,154956,12849
 2020/11/11,EC,Ecuador,Americas,-2,-77.5,176630,154956,12920
 2020/11/12,EC,Ecuador,Americas,-2,-77.5,177513,154956,12946
+2020/11/13,EC,Ecuador,Americas,-2,-77.5,178674,154956,12977
 2020/01/22,EE,Estonia,Europe,59,26,0,0,0
 2020/01/23,EE,Estonia,Europe,59,26,0,0,0
 2020/01/24,EE,Estonia,Europe,59,26,0,0,0
@@ -16871,6 +16927,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,EE,Estonia,Europe,59,26,6376,4219,76
 2020/11/11,EE,Estonia,Europe,59,26,6508,4378,76
 2020/11/12,EE,Estonia,Europe,59,26,6881,4453,76
+2020/11/13,EE,Estonia,Europe,59,26,7148,4551,80
 2020/01/22,EG,Egypt,Africa,27,30,0,0,0
 2020/01/23,EG,Egypt,Africa,27,30,0,0,0
 2020/01/24,EG,Egypt,Africa,27,30,0,0,0
@@ -17167,6 +17224,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,EG,Egypt,Africa,27,30,109654,100540,6394
 2020/11/11,EG,Egypt,Africa,27,30,109881,100662,6405
 2020/11/12,EG,Egypt,Africa,27,30,110095,100760,6417
+2020/11/13,EG,Egypt,Africa,27,30,110319,100847,6429
 2020/01/22,EH,Western Sahara,Africa,24.5,-13,0,0,0
 2020/01/23,EH,Western Sahara,Africa,24.5,-13,0,0,0
 2020/01/24,EH,Western Sahara,Africa,24.5,-13,0,0,0
@@ -17463,6 +17521,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,EH,Western Sahara,Africa,24.5,-13,10,8,1
 2020/11/11,EH,Western Sahara,Africa,24.5,-13,10,8,1
 2020/11/12,EH,Western Sahara,Africa,24.5,-13,10,8,1
+2020/11/13,EH,Western Sahara,Africa,24.5,-13,10,8,1
 2020/01/22,ER,Eritrea,Africa,15,39,0,0,0
 2020/01/23,ER,Eritrea,Africa,15,39,0,0,0
 2020/01/24,ER,Eritrea,Africa,15,39,0,0,0
@@ -17759,6 +17818,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,ER,Eritrea,Africa,15,39,491,438,0
 2020/11/11,ER,Eritrea,Africa,15,39,491,438,0
 2020/11/12,ER,Eritrea,Africa,15,39,493,444,0
+2020/11/13,ER,Eritrea,Africa,15,39,493,444,0
 2020/01/22,ES,Spain,Europe,40,-4,0,0,0
 2020/01/23,ES,Spain,Europe,40,-4,0,0,0
 2020/01/24,ES,Spain,Europe,40,-4,0,0,0
@@ -18055,6 +18115,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,ES,Spain,Europe,40,-4,1443997,0,39756
 2020/11/11,ES,Spain,Europe,40,-4,1463093,0,40105
 2020/11/12,ES,Spain,Europe,40,-4,1484868,0,40461
+2020/11/13,ES,Spain,Europe,40,-4,1492608,0,40769
 2020/01/22,ET,Ethiopia,Africa,8,38,0,0,0
 2020/01/23,ET,Ethiopia,Africa,8,38,0,0,0
 2020/01/24,ET,Ethiopia,Africa,8,38,0,0,0
@@ -18351,6 +18412,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,ET,Ethiopia,Africa,8,38,100327,61516,1537
 2020/11/11,ET,Ethiopia,Africa,8,38,100727,62497,1545
 2020/11/12,ET,Ethiopia,Africa,8,38,101248,63268,1554
+2020/11/13,ET,Ethiopia,Africa,8,38,101757,63571,1558
 2020/01/22,FI,Finland,Europe,64,26,0,0,0
 2020/01/23,FI,Finland,Europe,64,26,0,0,0
 2020/01/24,FI,Finland,Europe,64,26,0,0,0
@@ -18647,6 +18709,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,FI,Finland,Europe,64,26,18107,12700,363
 2020/11/11,FI,Finland,Europe,64,26,18345,14000,365
 2020/11/12,FI,Finland,Europe,64,26,18542,14000,365
+2020/11/13,FI,Finland,Europe,64,26,18858,14000,369
 2020/01/22,FJ,Fiji,Oceania,-18,175,0,0,0
 2020/01/23,FJ,Fiji,Oceania,-18,175,0,0,0
 2020/01/24,FJ,Fiji,Oceania,-18,175,0,0,0
@@ -18943,6 +19006,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,FJ,Fiji,Oceania,-18,175,34,31,2
 2020/11/11,FJ,Fiji,Oceania,-18,175,35,32,2
 2020/11/12,FJ,Fiji,Oceania,-18,175,35,32,2
+2020/11/13,FJ,Fiji,Oceania,-18,175,35,32,2
 2020/01/22,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
 2020/01/23,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
 2020/01/24,FK,Falkland Islands,Americas,-51.75,-59,0,0,0
@@ -19239,6 +19303,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,FK,Falkland Islands,Americas,-51.75,-59,13,13,0
 2020/11/11,FK,Falkland Islands,Americas,-51.75,-59,14,13,0
 2020/11/12,FK,Falkland Islands,Americas,-51.75,-59,14,13,0
+2020/11/13,FK,Falkland Islands,Americas,-51.75,-59,15,13,0
 2020/01/22,FO,Faroe Islands,Europe,62,-7,0,0,0
 2020/01/23,FO,Faroe Islands,Europe,62,-7,0,0,0
 2020/01/24,FO,Faroe Islands,Europe,62,-7,0,0,0
@@ -19535,6 +19600,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,FO,Faroe Islands,Europe,62,-7,497,493,0
 2020/11/11,FO,Faroe Islands,Europe,62,-7,497,494,0
 2020/11/12,FO,Faroe Islands,Europe,62,-7,497,494,0
+2020/11/13,FO,Faroe Islands,Europe,62,-7,497,494,0
 2020/01/22,FR,France,Europe,46,2,0,0,0
 2020/01/23,FR,France,Europe,46,2,0,0,0
 2020/01/24,FR,France,Europe,46,2,2,0,0
@@ -19831,6 +19897,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,FR,France,Europe,46,2,1829659,131920,42207
 2020/11/11,FR,France,Europe,46,2,1865538,133696,42535
 2020/11/12,FR,France,Europe,46,2,1898710,134954,42960
+2020/11/13,FR,France,Europe,46,2,1922504,137155,43892
 2020/01/22,GA,Gabon,Africa,-1,11.75,0,0,0
 2020/01/23,GA,Gabon,Africa,-1,11.75,0,0,0
 2020/01/24,GA,Gabon,Africa,-1,11.75,0,0,0
@@ -20127,6 +20194,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,GA,Gabon,Africa,-1,11.75,9029,8899,57
 2020/11/11,GA,Gabon,Africa,-1,11.75,9048,8922,57
 2020/11/12,GA,Gabon,Africa,-1,11.75,9048,8922,57
+2020/11/13,GA,Gabon,Africa,-1,11.75,9062,8939,58
 2020/01/22,GB,United Kingdom,Europe,54,-2,0,0,0
 2020/01/23,GB,United Kingdom,Europe,54,-2,0,0,0
 2020/01/24,GB,United Kingdom,Europe,54,-2,0,0,0
@@ -20423,6 +20491,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,GB,United Kingdom,Europe,54,-2,1233775,0,49770
 2020/11/11,GB,United Kingdom,Europe,54,-2,1256725,0,50365
 2020/11/12,GB,United Kingdom,Europe,54,-2,1290195,0,50928
+2020/11/13,GB,United Kingdom,Europe,54,-2,1317496,0,51304
 2020/01/22,GD,Grenada,Americas,12.11666666,-61.66666666,0,0,0
 2020/01/23,GD,Grenada,Americas,12.11666666,-61.66666666,0,0,0
 2020/01/24,GD,Grenada,Americas,12.11666666,-61.66666666,0,0,0
@@ -20719,6 +20788,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,GD,Grenada,Americas,12.11666666,-61.66666666,32,27,0
 2020/11/11,GD,Grenada,Americas,12.11666666,-61.66666666,32,27,0
 2020/11/12,GD,Grenada,Americas,12.11666666,-61.66666666,32,27,0
+2020/11/13,GD,Grenada,Americas,12.11666666,-61.66666666,32,27,0
 2020/01/22,GE,Georgia,Asia,42,43.5,0,0,0
 2020/01/23,GE,Georgia,Asia,42,43.5,0,0,0
 2020/01/24,GE,Georgia,Asia,42,43.5,0,0,0
@@ -21015,6 +21085,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,GE,Georgia,Asia,42,43.5,63650,47390,521
 2020/11/11,GE,Georgia,Asia,42,43.5,66561,49811,566
 2020/11/12,GE,Georgia,Asia,42,43.5,69681,52169,599
+2020/11/13,GE,Georgia,Asia,42,43.5,73154,55511,636
 2020/01/22,GF,French Guiana,Americas,4,-53,0,0,0
 2020/01/23,GF,French Guiana,Americas,4,-53,0,0,0
 2020/01/24,GF,French Guiana,Americas,4,-53,0,0,0
@@ -21311,6 +21382,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,GF,French Guiana,Americas,4,-53,10715,9995,70
 2020/11/11,GF,French Guiana,Americas,4,-53,10729,9995,70
 2020/11/12,GF,French Guiana,Americas,4,-53,10780,9995,70
+2020/11/13,GF,French Guiana,Americas,4,-53,10808,9995,70
 2020/01/22,GH,Ghana,Africa,8,-2,0,0,0
 2020/01/23,GH,Ghana,Africa,8,-2,0,0,0
 2020/01/24,GH,Ghana,Africa,8,-2,0,0,0
@@ -21607,6 +21679,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,GH,Ghana,Africa,8,-2,49202,47726,320
 2020/11/11,GH,Ghana,Africa,8,-2,49302,47843,320
 2020/11/12,GH,Ghana,Africa,8,-2,49957,48096,320
+2020/11/13,GH,Ghana,Africa,8,-2,50018,48179,320
 2020/01/22,GI,Gibraltar,Europe,36.13333333,-5.35,0,0,0
 2020/01/23,GI,Gibraltar,Europe,36.13333333,-5.35,0,0,0
 2020/01/24,GI,Gibraltar,Europe,36.13333333,-5.35,0,0,0
@@ -21903,6 +21976,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,GI,Gibraltar,Europe,36.13333333,-5.35,814,702,0
 2020/11/11,GI,Gibraltar,Europe,36.13333333,-5.35,842,712,1
 2020/11/12,GI,Gibraltar,Europe,36.13333333,-5.35,864,719,1
+2020/11/13,GI,Gibraltar,Europe,36.13333333,-5.35,876,729,1
 2020/01/22,GL,Greenland,Americas,72,-40,0,0,0
 2020/01/23,GL,Greenland,Americas,72,-40,0,0,0
 2020/01/24,GL,Greenland,Americas,72,-40,0,0,0
@@ -22199,6 +22273,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,GL,Greenland,Americas,72,-40,17,17,0
 2020/11/11,GL,Greenland,Americas,72,-40,17,17,0
 2020/11/12,GL,Greenland,Americas,72,-40,17,17,0
+2020/11/13,GL,Greenland,Americas,72,-40,18,17,0
 2020/01/22,GM,Gambia,Africa,13.46666666,-16.56666666,0,0,0
 2020/01/23,GM,Gambia,Africa,13.46666666,-16.56666666,0,0,0
 2020/01/24,GM,Gambia,Africa,13.46666666,-16.56666666,0,0,0
@@ -22495,6 +22570,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,GM,Gambia,Africa,13.46666666,-16.56666666,3696,3543,122
 2020/11/11,GM,Gambia,Africa,13.46666666,-16.56666666,3697,3549,122
 2020/11/12,GM,Gambia,Africa,13.46666666,-16.56666666,3697,3549,122
+2020/11/13,GM,Gambia,Africa,13.46666666,-16.56666666,3698,3557,122
 2020/01/22,GN,Guinea,Africa,11,-10,0,0,0
 2020/01/23,GN,Guinea,Africa,11,-10,0,0,0
 2020/01/24,GN,Guinea,Africa,11,-10,0,0,0
@@ -22791,6 +22867,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,GN,Guinea,Africa,11,-10,12484,10857,74
 2020/11/11,GN,Guinea,Africa,11,-10,12516,10879,74
 2020/11/12,GN,Guinea,Africa,11,-10,12537,10899,74
+2020/11/13,GN,Guinea,Africa,11,-10,12537,10899,74
 2020/01/22,GP,Guadeloupe,Americas,16.25,-61.583333,0,0,0
 2020/01/23,GP,Guadeloupe,Americas,16.25,-61.583333,0,0,0
 2020/01/24,GP,Guadeloupe,Americas,16.25,-61.583333,0,0,0
@@ -23087,6 +23164,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,GP,Guadeloupe,Americas,16.25,-61.583333,8098,2242,139
 2020/11/11,GP,Guadeloupe,Americas,16.25,-61.583333,8098,2242,139
 2020/11/12,GP,Guadeloupe,Americas,16.25,-61.583333,8098,2242,139
+2020/11/13,GP,Guadeloupe,Americas,16.25,-61.583333,8098,2242,139
 2020/01/22,GQ,Equatorial Guinea,Africa,2,10,0,0,0
 2020/01/23,GQ,Equatorial Guinea,Africa,2,10,0,0,0
 2020/01/24,GQ,Equatorial Guinea,Africa,2,10,0,0,0
@@ -23383,6 +23461,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,GQ,Equatorial Guinea,Africa,2,10,5102,4971,85
 2020/11/11,GQ,Equatorial Guinea,Africa,2,10,5102,4971,85
 2020/11/12,GQ,Equatorial Guinea,Africa,2,10,5104,4973,85
+2020/11/13,GQ,Equatorial Guinea,Africa,2,10,5104,4973,85
 2020/01/22,GR,Greece,Europe,39,22,0,0,0
 2020/01/23,GR,Greece,Europe,39,22,0,0,0
 2020/01/24,GR,Greece,Europe,39,22,0,0,0
@@ -23679,6 +23758,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,GR,Greece,Europe,39,22,60570,9989,866
 2020/11/11,GR,Greece,Europe,39,22,63321,9989,909
 2020/11/12,GR,Greece,Europe,39,22,66637,9989,959
+2020/11/13,GR,Greece,Europe,39,22,69675,9989,997
 2020/01/22,GT,Guatemala,Americas,15.5,-90.25,0,0,0
 2020/01/23,GT,Guatemala,Americas,15.5,-90.25,0,0,0
 2020/01/24,GT,Guatemala,Americas,15.5,-90.25,0,0,0
@@ -23975,6 +24055,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,GT,Guatemala,Americas,15.5,-90.25,112129,102140,3832
 2020/11/11,GT,Guatemala,Americas,15.5,-90.25,112811,102643,3845
 2020/11/12,GT,Guatemala,Americas,15.5,-90.25,113543,103174,3858
+2020/11/13,GT,Guatemala,Americas,15.5,-90.25,114123,103685,3880
 2020/01/22,GW,Guinea-Bissau,Africa,12,-15,0,0,0
 2020/01/23,GW,Guinea-Bissau,Africa,12,-15,0,0,0
 2020/01/24,GW,Guinea-Bissau,Africa,12,-15,0,0,0
@@ -24271,6 +24352,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,GW,Guinea-Bissau,Africa,12,-15,2419,2255,43
 2020/11/11,GW,Guinea-Bissau,Africa,12,-15,2419,2255,43
 2020/11/12,GW,Guinea-Bissau,Africa,12,-15,2419,2255,43
+2020/11/13,GW,Guinea-Bissau,Africa,12,-15,2419,2255,43
 2020/01/22,GY,Guyana,Americas,5,-59,0,0,0
 2020/01/23,GY,Guyana,Americas,5,-59,0,0,0
 2020/01/24,GY,Guyana,Americas,5,-59,0,0,0
@@ -24567,6 +24649,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,GY,Guyana,Americas,5,-59,4530,3575,135
 2020/11/11,GY,Guyana,Americas,5,-59,4618,3611,137
 2020/11/12,GY,Guyana,Americas,5,-59,4662,3616,138
+2020/11/13,GY,Guyana,Americas,5,-59,4724,3688,138
 2020/01/22,HK,Hong Kong,Asia,22.267,114.188,0,0,0
 2020/01/23,HK,Hong Kong,Asia,22.267,114.188,2,0,0
 2020/01/24,HK,Hong Kong,Asia,22.267,114.188,2,0,0
@@ -24863,6 +24946,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,HK,Hong Kong,Asia,22.267,114.188,5390,5153,108
 2020/11/11,HK,Hong Kong,Asia,22.267,114.188,5408,5159,108
 2020/11/12,HK,Hong Kong,Asia,22.267,114.188,5431,5170,108
+2020/11/13,HK,Hong Kong,Asia,22.267,114.188,5437,5177,108
 2020/01/22,HN,Honduras,Americas,15,-86.5,0,0,0
 2020/01/23,HN,Honduras,Americas,15,-86.5,0,0,0
 2020/01/24,HN,Honduras,Americas,15,-86.5,0,0,0
@@ -25159,6 +25243,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,HN,Honduras,Americas,15,-86.5,100573,43177,2765
 2020/11/11,HN,Honduras,Americas,15,-86.5,100804,43507,2780
 2020/11/12,HN,Honduras,Americas,15,-86.5,101169,43857,2797
+2020/11/13,HN,Honduras,Americas,15,-86.5,101468,44068,2804
 2020/01/22,HR,Croatia,Europe,45.16666666,15.5,0,0,0
 2020/01/23,HR,Croatia,Europe,45.16666666,15.5,0,0,0
 2020/01/24,HR,Croatia,Europe,45.16666666,15.5,0,0,0
@@ -25455,6 +25540,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,HR,Croatia,Europe,45.16666666,15.5,70243,54854,865
 2020/11/11,HR,Croatia,Europe,45.16666666,15.5,72840,56434,893
 2020/11/12,HR,Croatia,Europe,45.16666666,15.5,75922,58649,925
+2020/11/13,HR,Croatia,Europe,45.16666666,15.5,78978,61264,968
 2020/01/22,HT,Haiti,Americas,19,-72.41666666,0,0,0
 2020/01/23,HT,Haiti,Americas,19,-72.41666666,0,0,0
 2020/01/24,HT,Haiti,Americas,19,-72.41666666,0,0,0
@@ -25751,6 +25837,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,HT,Haiti,Americas,19,-72.41666666,9137,7618,232
 2020/11/11,HT,Haiti,Americas,19,-72.41666666,9152,7683,232
 2020/11/12,HT,Haiti,Americas,19,-72.41666666,9152,7683,232
+2020/11/13,HT,Haiti,Americas,19,-72.41666666,9168,7701,232
 2020/01/22,HU,Hungary,Europe,47,20,0,0,0
 2020/01/23,HU,Hungary,Europe,47,20,0,0,0
 2020/01/24,HU,Hungary,Europe,47,20,0,0,0
@@ -26047,6 +26134,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,HU,Hungary,Europe,47,20,118918,27585,2596
 2020/11/11,HU,Hungary,Europe,47,20,122863,28808,2697
 2020/11/12,HU,Hungary,Europe,47,20,126790,29302,2784
+2020/11/13,HU,Hungary,Europe,47,20,131887,29802,2883
 2020/01/22,ID,Indonesia,Asia,-5,120,0,0,0
 2020/01/23,ID,Indonesia,Asia,-5,120,0,0,0
 2020/01/24,ID,Indonesia,Asia,-5,120,0,0,0
@@ -26343,6 +26431,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,ID,Indonesia,Asia,-5,120,444348,375741,14761
 2020/11/11,ID,Indonesia,Asia,-5,120,448118,378982,14836
 2020/11/12,ID,Indonesia,Asia,-5,120,452291,382084,14933
+2020/11/13,ID,Indonesia,Asia,-5,120,457735,385094,15037
 2020/01/22,IE,Ireland,Europe,53,-8,0,0,0
 2020/01/23,IE,Ireland,Europe,53,-8,0,0,0
 2020/01/24,IE,Ireland,Europe,53,-8,0,0,0
@@ -26639,6 +26728,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,IE,Ireland,Europe,53,-8,65889,23364,1963
 2020/11/11,IE,Ireland,Europe,53,-8,66247,23364,1965
 2020/11/12,IE,Ireland,Europe,53,-8,66632,23364,1965
+2020/11/13,IE,Ireland,Europe,53,-8,67099,23364,1972
 2020/01/22,IL,Israel,Asia,31.47,35.13,0,0,0
 2020/01/23,IL,Israel,Asia,31.47,35.13,0,0,0
 2020/01/24,IL,Israel,Asia,31.47,35.13,0,0,0
@@ -26935,6 +27025,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,IL,Israel,Asia,31.47,35.13,320661,309840,2684
 2020/11/11,IL,Israel,Asia,31.47,35.13,321326,310605,2700
 2020/11/12,IL,Israel,Asia,31.47,35.13,322159,310605,2706
+2020/11/13,IL,Israel,Asia,31.47,35.13,322695,312131,2716
 2020/01/22,IM,Isle of Man,Europe,54.25,-4.5,0,0,0
 2020/01/23,IM,Isle of Man,Europe,54.25,-4.5,0,0,0
 2020/01/24,IM,Isle of Man,Europe,54.25,-4.5,0,0,0
@@ -27231,6 +27322,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,IM,Isle of Man,Europe,54.25,-4.5,359,329,25
 2020/11/11,IM,Isle of Man,Europe,54.25,-4.5,361,329,25
 2020/11/12,IM,Isle of Man,Europe,54.25,-4.5,363,329,25
+2020/11/13,IM,Isle of Man,Europe,54.25,-4.5,363,329,25
 2020/01/22,IN,India,Asia,20,77,0,0,0
 2020/01/23,IN,India,Asia,20,77,0,0,0
 2020/01/24,IN,India,Asia,20,77,0,0,0
@@ -27527,6 +27619,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,IN,India,Asia,20,77,8635754,8011844,127615
 2020/11/11,IN,India,Asia,20,77,8684039,8064548,128164
 2020/11/12,IN,India,Asia,20,77,8727900,8113345,128686
+2020/11/13,IN,India,Asia,20,77,8773243,8161467,129225
 2020/01/22,IQ,Iraq,Asia,33,44,0,0,0
 2020/01/23,IQ,Iraq,Asia,33,44,0,0,0
 2020/01/24,IQ,Iraq,Asia,33,44,0,0,0
@@ -27823,6 +27916,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,IQ,Iraq,Asia,33,44,505310,434665,11432
 2020/11/11,IQ,Iraq,Asia,33,44,508508,436657,11482
 2020/11/12,IQ,Iraq,Asia,33,44,511806,439228,11532
+2020/11/13,IQ,Iraq,Asia,33,44,514496,441856,11580
 2020/01/22,IR,Iran,Asia,32,53,0,0,0
 2020/01/23,IR,Iran,Asia,32,53,0,0,0
 2020/01/24,IR,Iran,Asia,32,53,0,0,0
@@ -28119,6 +28213,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,IR,Iran,Asia,32,53,703288,530694,39202
 2020/11/11,IR,Iran,Asia,32,53,715068,536105,39664
 2020/11/12,IR,Iran,Asia,32,53,726585,541566,40121
+2020/11/13,IR,Iran,Asia,32,53,738322,546642,40582
 2020/01/22,IS,Iceland,Europe,65,-18,0,0,0
 2020/01/23,IS,Iceland,Europe,65,-18,0,0,0
 2020/01/24,IS,Iceland,Europe,65,-18,0,0,0
@@ -28415,6 +28510,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,IS,Iceland,Europe,65,-18,5114,4521,24
 2020/11/11,IS,Iceland,Europe,65,-18,5142,4576,24
 2020/11/12,IS,Iceland,Europe,65,-18,5160,4663,25
+2020/11/13,IS,Iceland,Europe,65,-18,5170,4698,25
 2020/01/22,IT,Italy,Europe,42.83333333,12.83333333,0,0,0
 2020/01/23,IT,Italy,Europe,42.83333333,12.83333333,0,0,0
 2020/01/24,IT,Italy,Europe,42.83333333,12.83333333,0,0,0
@@ -28711,6 +28807,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,IT,Italy,Europe,42.83333333,12.83333333,995463,363023,42330
 2020/11/11,IT,Italy,Europe,42.83333333,12.83333333,1028424,372113,42953
 2020/11/12,IT,Italy,Europe,42.83333333,12.83333333,1066401,387758,43589
+2020/11/13,IT,Italy,Europe,42.83333333,12.83333333,1107303,399238,44139
 2020/01/22,JM,Jamaica,Americas,18.25,-77.5,0,0,0
 2020/01/23,JM,Jamaica,Americas,18.25,-77.5,0,0,0
 2020/01/24,JM,Jamaica,Americas,18.25,-77.5,0,0,0
@@ -29007,6 +29104,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,JM,Jamaica,Americas,18.25,-77.5,9573,4987,224
 2020/11/11,JM,Jamaica,Americas,18.25,-77.5,9581,4995,225
 2020/11/12,JM,Jamaica,Americas,18.25,-77.5,9634,5043,225
+2020/11/13,JM,Jamaica,Americas,18.25,-77.5,9723,5168,227
 2020/01/22,JO,Jordan,Asia,31,36,0,0,0
 2020/01/23,JO,Jordan,Asia,31,36,0,0,0
 2020/01/24,JO,Jordan,Asia,31,36,0,0,0
@@ -29303,6 +29401,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,JO,Jordan,Asia,31,36,120982,9249,1386
 2020/11/11,JO,Jordan,Asia,31,36,126401,9416,1467
 2020/11/12,JO,Jordan,Asia,31,36,132086,9564,1547
+2020/11/13,JO,Jordan,Asia,31,36,136555,9729,1618
 2020/01/22,JP,Japan,Asia,36,138,2,0,0
 2020/01/23,JP,Japan,Asia,36,138,2,0,0
 2020/01/24,JP,Japan,Asia,36,138,2,0,0
@@ -29599,6 +29698,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,JP,Japan,Asia,36,138,108983,98274,1829
 2020/11/11,JP,Japan,Asia,36,138,110156,99108,1841
 2020/11/12,JP,Japan,Asia,36,138,111711,100005,1851
+2020/11/13,JP,Japan,Asia,36,138,113298,101018,1867
 2020/01/22,KE,Kenya,Africa,1,38,0,0,0
 2020/01/23,KE,Kenya,Africa,1,38,0,0,0
 2020/01/24,KE,Kenya,Africa,1,38,0,0,0
@@ -29895,6 +29995,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,KE,Kenya,Africa,1,38,64588,43095,1154
 2020/11/11,KE,Kenya,Africa,1,38,65804,43626,1180
 2020/11/12,KE,Kenya,Africa,1,38,66723,44040,1203
+2020/11/13,KE,Kenya,Africa,1,38,68193,44872,1228
 2020/01/22,KG,Kyrgyzstan,Asia,41,75,0,0,0
 2020/01/23,KG,Kyrgyzstan,Asia,41,75,0,0,0
 2020/01/24,KG,Kyrgyzstan,Asia,41,75,0,0,0
@@ -30191,6 +30292,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,KG,Kyrgyzstan,Asia,41,75,63960,54774,1185
 2020/11/11,KG,Kyrgyzstan,Asia,41,75,64360,55306,1188
 2020/11/12,KG,Kyrgyzstan,Asia,41,75,64887,55824,1193
+2020/11/13,KG,Kyrgyzstan,Asia,41,75,65454,56307,1195
 2020/01/22,KH,Cambodia,Asia,13,105,0,0,0
 2020/01/23,KH,Cambodia,Asia,13,105,0,0,0
 2020/01/24,KH,Cambodia,Asia,13,105,0,0,0
@@ -30487,6 +30589,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,KH,Cambodia,Asia,13,105,300,288,0
 2020/11/11,KH,Cambodia,Asia,13,105,301,288,0
 2020/11/12,KH,Cambodia,Asia,13,105,301,288,0
+2020/11/13,KH,Cambodia,Asia,13,105,301,289,0
 2020/01/22,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
 2020/01/23,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
 2020/01/24,KM,Comoros,Africa,-12.16666666,44.25,0,0,0
@@ -30783,6 +30886,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,KM,Comoros,Africa,-12.16666666,44.25,569,541,7
 2020/11/11,KM,Comoros,Africa,-12.16666666,44.25,569,541,7
 2020/11/12,KM,Comoros,Africa,-12.16666666,44.25,574,542,7
+2020/11/13,KM,Comoros,Africa,-12.16666666,44.25,574,542,7
 2020/01/22,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
 2020/01/23,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
 2020/01/24,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,0,0,0
@@ -31079,6 +31183,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,19,19,0
 2020/11/11,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,19,19,0
 2020/11/12,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,19,19,0
+2020/11/13,KN,Saint Kitts and Nevis,Americas,17.33333333,-62.75,19,19,0
 2020/01/22,KR,South Korea,Asia,37,127.5,1,0,0
 2020/01/23,KR,South Korea,Asia,37,127.5,1,0,0
 2020/01/24,KR,South Korea,Asia,37,127.5,2,0,0
@@ -31375,6 +31480,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,KR,South Korea,Asia,37,127.5,27653,25160,485
 2020/11/11,KR,South Korea,Asia,37,127.5,27799,25266,487
 2020/11/12,KR,South Korea,Asia,37,127.5,27942,25404,487
+2020/11/13,KR,South Korea,Asia,37,127.5,28133,25537,488
 2020/01/22,KW,Kuwait,Asia,29.5,45.75,0,0,0
 2020/01/23,KW,Kuwait,Asia,29.5,45.75,0,0,0
 2020/01/24,KW,Kuwait,Asia,29.5,45.75,0,0,0
@@ -31671,6 +31777,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,KW,Kuwait,Asia,29.5,45.75,133381,124156,821
 2020/11/11,KW,Kuwait,Asia,29.5,45.75,134159,124905,826
 2020/11/12,KW,Kuwait,Asia,29.5,45.75,134932,125593,830
+2020/11/13,KW,Kuwait,Asia,29.5,45.75,135650,126344,833
 2020/01/22,KY,Cayman Islands,Americas,19.5,-80.5,0,0,0
 2020/01/23,KY,Cayman Islands,Americas,19.5,-80.5,0,0,0
 2020/01/24,KY,Cayman Islands,Americas,19.5,-80.5,0,0,0
@@ -31967,6 +32074,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,KY,Cayman Islands,Americas,19.5,-80.5,253,236,1
 2020/11/11,KY,Cayman Islands,Americas,19.5,-80.5,253,236,1
 2020/11/12,KY,Cayman Islands,Americas,19.5,-80.5,253,236,1
+2020/11/13,KY,Cayman Islands,Americas,19.5,-80.5,253,236,1
 2020/01/22,KZ,Kazakhstan,Asia,48,68,0,0,0
 2020/01/23,KZ,Kazakhstan,Asia,48,68,0,0,0
 2020/01/24,KZ,Kazakhstan,Asia,48,68,0,0,0
@@ -32263,6 +32371,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,KZ,Kazakhstan,Asia,48,68,117336,108169,1857
 2020/11/11,KZ,Kazakhstan,Asia,48,68,117904,108387,1899
 2020/11/12,KZ,Kazakhstan,Asia,48,68,118491,108632,1899
+2020/11/13,KZ,Kazakhstan,Asia,48,68,119129,108958,1899
 2020/01/22,LA,Laos,Asia,18,105,0,0,0
 2020/01/23,LA,Laos,Asia,18,105,0,0,0
 2020/01/24,LA,Laos,Asia,18,105,0,0,0
@@ -32559,6 +32668,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,LA,Laos,Asia,18,105,24,23,0
 2020/11/11,LA,Laos,Asia,18,105,24,23,0
 2020/11/12,LA,Laos,Asia,18,105,24,23,0
+2020/11/13,LA,Laos,Asia,18,105,24,23,0
 2020/01/22,LB,Lebanon,Asia,33.83333333,35.83333333,0,0,0
 2020/01/23,LB,Lebanon,Asia,33.83333333,35.83333333,0,0,0
 2020/01/24,LB,Lebanon,Asia,33.83333333,35.83333333,0,0,0
@@ -32855,6 +32965,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,LB,Lebanon,Asia,33.83333333,35.83333333,96907,53360,749
 2020/11/11,LB,Lebanon,Asia,33.83333333,35.83333333,98829,54869,763
 2020/11/12,LB,Lebanon,Asia,33.83333333,35.83333333,100703,55706,775
+2020/11/13,LB,Lebanon,Asia,33.83333333,35.83333333,102607,57693,796
 2020/01/22,LC,Saint Lucia,Americas,13.88333333,-60.96666666,0,0,0
 2020/01/23,LC,Saint Lucia,Americas,13.88333333,-60.96666666,0,0,0
 2020/01/24,LC,Saint Lucia,Americas,13.88333333,-60.96666666,0,0,0
@@ -33151,6 +33262,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,LC,Saint Lucia,Americas,13.88333333,-60.96666666,148,32,1
 2020/11/11,LC,Saint Lucia,Americas,13.88333333,-60.96666666,148,32,2
 2020/11/12,LC,Saint Lucia,Americas,13.88333333,-60.96666666,148,46,2
+2020/11/13,LC,Saint Lucia,Americas,13.88333333,-60.96666666,156,46,2
 2020/01/22,LI,Liechtenstein,Europe,47.26666666,9.53333333,0,0,0
 2020/01/23,LI,Liechtenstein,Europe,47.26666666,9.53333333,0,0,0
 2020/01/24,LI,Liechtenstein,Europe,47.26666666,9.53333333,0,0,0
@@ -33447,6 +33559,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,LI,Liechtenstein,Europe,47.26666666,9.53333333,846,590,4
 2020/11/11,LI,Liechtenstein,Europe,47.26666666,9.53333333,877,616,4
 2020/11/12,LI,Liechtenstein,Europe,47.26666666,9.53333333,905,656,4
+2020/11/13,LI,Liechtenstein,Europe,47.26666666,9.53333333,928,682,5
 2020/01/22,LK,Sri Lanka,Asia,7,81,0,0,0
 2020/01/23,LK,Sri Lanka,Asia,7,81,0,0,0
 2020/01/24,LK,Sri Lanka,Asia,7,81,0,0,0
@@ -33743,6 +33856,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,LK,Sri Lanka,Asia,7,81,14715,9537,41
 2020/11/11,LK,Sri Lanka,Asia,7,81,15350,10183,46
 2020/11/12,LK,Sri Lanka,Asia,7,81,15723,10653,48
+2020/11/13,LK,Sri Lanka,Asia,7,81,16191,11031,53
 2020/01/22,LR,Liberia,Africa,6.5,-9.5,0,0,0
 2020/01/23,LR,Liberia,Africa,6.5,-9.5,0,0,0
 2020/01/24,LR,Liberia,Africa,6.5,-9.5,0,0,0
@@ -34039,6 +34153,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,LR,Liberia,Africa,6.5,-9.5,1461,1310,82
 2020/11/11,LR,Liberia,Africa,6.5,-9.5,1461,1310,82
 2020/11/12,LR,Liberia,Africa,6.5,-9.5,1468,1312,82
+2020/11/13,LR,Liberia,Africa,6.5,-9.5,1491,1314,82
 2020/01/22,LS,Lesotho,Africa,-29.5,28.5,0,0,0
 2020/01/23,LS,Lesotho,Africa,-29.5,28.5,0,0,0
 2020/01/24,LS,Lesotho,Africa,-29.5,28.5,0,0,0
@@ -34335,6 +34450,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,LS,Lesotho,Africa,-29.5,28.5,2026,1029,44
 2020/11/11,LS,Lesotho,Africa,-29.5,28.5,2026,1029,44
 2020/11/12,LS,Lesotho,Africa,-29.5,28.5,2026,1029,44
+2020/11/13,LS,Lesotho,Africa,-29.5,28.5,2041,1056,44
 2020/01/22,LT,Lithuania,Europe,56,24,0,0,0
 2020/01/23,LT,Lithuania,Europe,56,24,0,0,0
 2020/01/24,LT,Lithuania,Europe,56,24,0,0,0
@@ -34631,6 +34747,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,LT,Lithuania,Europe,56,24,26841,5962,221
 2020/11/11,LT,Lithuania,Europe,56,24,28262,6608,235
 2020/11/12,LT,Lithuania,Europe,56,24,29812,7096,244
+2020/11/13,LT,Lithuania,Europe,56,24,31878,7247,253
 2020/01/22,LU,Luxembourg,Europe,49.75,6.16666666,0,0,0
 2020/01/23,LU,Luxembourg,Europe,49.75,6.16666666,0,0,0
 2020/01/24,LU,Luxembourg,Europe,49.75,6.16666666,0,0,0
@@ -34927,6 +35044,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,LU,Luxembourg,Europe,49.75,6.16666666,23710,14094,198
 2020/11/11,LU,Luxembourg,Europe,49.75,6.16666666,24505,14094,206
 2020/11/12,LU,Luxembourg,Europe,49.75,6.16666666,25218,14798,211
+2020/11/13,LU,Luxembourg,Europe,49.75,6.16666666,25931,15428,219
 2020/01/22,LV,Latvia,Europe,57,25,0,0,0
 2020/01/23,LV,Latvia,Europe,57,25,0,0,0
 2020/01/24,LV,Latvia,Europe,57,25,0,0,0
@@ -35223,6 +35341,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,LV,Latvia,Europe,57,25,8395,1471,103
 2020/11/11,LV,Latvia,Europe,57,25,8848,1471,105
 2020/11/12,LV,Latvia,Europe,57,25,9381,1515,107
+2020/11/13,LV,Latvia,Europe,57,25,9836,1515,116
 2020/01/22,LY,Libya,Africa,25,17,0,0,0
 2020/01/23,LY,Libya,Africa,25,17,0,0,0
 2020/01/24,LY,Libya,Africa,25,17,0,0,0
@@ -35519,6 +35638,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,LY,Libya,Africa,25,17,70010,41512,957
 2020/11/11,LY,Libya,Africa,25,17,70885,42098,970
 2020/11/12,LY,Libya,Africa,25,17,71804,42703,985
+2020/11/13,LY,Libya,Africa,25,17,72628,43259,995
 2020/01/22,MA,Morocco,Africa,32,-5,0,0,0
 2020/01/23,MA,Morocco,Africa,32,-5,0,0,0
 2020/01/24,MA,Morocco,Africa,32,-5,0,0,0
@@ -35815,6 +35935,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,MA,Morocco,Africa,32,-5,265165,216851,4425
 2020/11/11,MA,Morocco,Africa,32,-5,270626,221743,4506
 2020/11/12,MA,Morocco,Africa,32,-5,276821,226040,4570
+2020/11/13,MA,Morocco,Africa,32,-5,282336,229160,4631
 2020/01/22,MC,Monaco,Europe,43.73333333,7.4,0,0,0
 2020/01/23,MC,Monaco,Europe,43.73333333,7.4,0,0,0
 2020/01/24,MC,Monaco,Europe,43.73333333,7.4,0,0,0
@@ -36111,6 +36232,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,MC,Monaco,Europe,43.73333333,7.4,512,378,2
 2020/11/11,MC,Monaco,Europe,43.73333333,7.4,524,390,2
 2020/11/12,MC,Monaco,Europe,43.73333333,7.4,532,408,2
+2020/11/13,MC,Monaco,Europe,43.73333333,7.4,540,426,2
 2020/01/22,MD,Moldova,Europe,47,29,0,0,0
 2020/01/23,MD,Moldova,Europe,47,29,0,0,0
 2020/01/24,MD,Moldova,Europe,47,29,0,0,0
@@ -36407,6 +36529,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,MD,Moldova,Europe,47,29,83592,64826,1930
 2020/11/11,MD,Moldova,Europe,47,29,84707,66115,1950
 2020/11/12,MD,Moldova,Europe,47,29,86038,67270,1969
+2020/11/13,MD,Moldova,Europe,47,29,87361,68392,1987
 2020/01/22,ME,Montenegro,Europe,42.5,19.3,0,0,0
 2020/01/23,ME,Montenegro,Europe,42.5,19.3,0,0,0
 2020/01/24,ME,Montenegro,Europe,42.5,19.3,0,0,0
@@ -36703,6 +36826,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,ME,Montenegro,Europe,42.5,19.3,24154,16378,349
 2020/11/11,ME,Montenegro,Europe,42.5,19.3,24865,16542,356
 2020/11/12,ME,Montenegro,Europe,42.5,19.3,25509,16788,364
+2020/11/13,ME,Montenegro,Europe,42.5,19.3,26109,16904,377
 2020/01/22,MF,Saint Martin,Americas,18.08333333,-63.95,0,0,0
 2020/01/23,MF,Saint Martin,Americas,18.08333333,-63.95,0,0,0
 2020/01/24,MF,Saint Martin,Americas,18.08333333,-63.95,0,0,0
@@ -36999,6 +37123,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,MF,Saint Martin,Americas,18.08333333,-63.95,604,522,12
 2020/11/11,MF,Saint Martin,Americas,18.08333333,-63.95,604,522,12
 2020/11/12,MF,Saint Martin,Americas,18.08333333,-63.95,655,551,12
+2020/11/13,MF,Saint Martin,Americas,18.08333333,-63.95,655,551,12
 2020/01/22,MG,Madagascar,Africa,-20,47,0,0,0
 2020/01/23,MG,Madagascar,Africa,-20,47,0,0,0
 2020/01/24,MG,Madagascar,Africa,-20,47,0,0,0
@@ -37295,6 +37420,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,MG,Madagascar,Africa,-20,47,17223,16516,249
 2020/11/11,MG,Madagascar,Africa,-20,47,17223,16516,249
 2020/11/12,MG,Madagascar,Africa,-20,47,17223,16516,249
+2020/11/13,MG,Madagascar,Africa,-20,47,17223,16516,249
 2020/01/22,MK,North Macedonia,Europe,41.83333333,22,0,0,0
 2020/01/23,MK,North Macedonia,Europe,41.83333333,22,0,0,0
 2020/01/24,MK,North Macedonia,Europe,41.83333333,22,0,0,0
@@ -37591,6 +37717,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,MK,North Macedonia,Europe,41.83333333,22,41222,24920,1186
 2020/11/11,MK,North Macedonia,Europe,41.83333333,22,42540,25353,1212
 2020/11/12,MK,North Macedonia,Europe,41.83333333,22,43835,25782,1238
+2020/11/13,MK,North Macedonia,Europe,41.83333333,22,44898,26289,1263
 2020/01/22,ML,Mali,Africa,17,-4,0,0,0
 2020/01/23,ML,Mali,Africa,17,-4,0,0,0
 2020/01/24,ML,Mali,Africa,17,-4,0,0,0
@@ -37887,6 +38014,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,ML,Mali,Africa,17,-4,3745,2905,137
 2020/11/11,ML,Mali,Africa,17,-4,3753,2909,138
 2020/11/12,ML,Mali,Africa,17,-4,3792,2923,138
+2020/11/13,ML,Mali,Africa,17,-4,3806,2926,139
 2020/01/22,MM,Myanmar,Asia,22,98,0,0,0
 2020/01/23,MM,Myanmar,Asia,22,98,0,0,0
 2020/01/24,MM,Myanmar,Asia,22,98,0,0,0
@@ -38183,6 +38311,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,MM,Myanmar,Asia,22,98,63241,47411,1461
 2020/11/11,MM,Myanmar,Asia,22,98,64453,48532,1480
 2020/11/12,MM,Myanmar,Asia,22,98,65598,49563,1508
+2020/11/13,MM,Myanmar,Asia,22,98,66734,50336,1534
 2020/01/22,MN,Mongolia,Asia,46,105,0,0,0
 2020/01/23,MN,Mongolia,Asia,46,105,0,0,0
 2020/01/24,MN,Mongolia,Asia,46,105,0,0,0
@@ -38479,6 +38608,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,MN,Mongolia,Asia,46,105,374,317,0
 2020/11/11,MN,Mongolia,Asia,46,105,382,317,0
 2020/11/12,MN,Mongolia,Asia,46,105,406,317,0
+2020/11/13,MN,Mongolia,Asia,46,105,412,317,0
 2020/01/22,MO,Macau,Asia,22.16666666,113.55,1,0,0
 2020/01/23,MO,Macau,Asia,22.16666666,113.55,2,0,0
 2020/01/24,MO,Macau,Asia,22.16666666,113.55,2,0,0
@@ -38775,6 +38905,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,MO,Macau,Asia,22.16666666,113.55,46,46,0
 2020/11/11,MO,Macau,Asia,22.16666666,113.55,46,46,0
 2020/11/12,MO,Macau,Asia,22.16666666,113.55,46,46,0
+2020/11/13,MO,Macau,Asia,22.16666666,113.55,46,46,0
 2020/01/22,MQ,Martinique,Americas,14.666667,-61,0,0,0
 2020/01/23,MQ,Martinique,Americas,14.666667,-61,0,0,0
 2020/01/24,MQ,Martinique,Americas,14.666667,-61,0,0,0
@@ -39071,6 +39202,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,MQ,Martinique,Americas,14.666667,-61,4732,98,37
 2020/11/11,MQ,Martinique,Americas,14.666667,-61,4732,98,37
 2020/11/12,MQ,Martinique,Americas,14.666667,-61,4732,98,37
+2020/11/13,MQ,Martinique,Americas,14.666667,-61,4732,98,37
 2020/01/22,MR,Mauritania,Africa,20,-12,0,0,0
 2020/01/23,MR,Mauritania,Africa,20,-12,0,0,0
 2020/01/24,MR,Mauritania,Africa,20,-12,0,0,0
@@ -39367,6 +39499,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,MR,Mauritania,Africa,20,-12,7848,7498,165
 2020/11/11,MR,Mauritania,Africa,20,-12,7885,7499,165
 2020/11/12,MR,Mauritania,Africa,20,-12,7900,7500,165
+2020/11/13,MR,Mauritania,Africa,20,-12,7932,7513,165
 2020/01/22,MS,Montserrat,Americas,16.75,-62.2,0,0,0
 2020/01/23,MS,Montserrat,Americas,16.75,-62.2,0,0,0
 2020/01/24,MS,Montserrat,Americas,16.75,-62.2,0,0,0
@@ -39663,6 +39796,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,MS,Montserrat,Americas,16.75,-62.2,13,12,1
 2020/11/11,MS,Montserrat,Americas,16.75,-62.2,13,12,1
 2020/11/12,MS,Montserrat,Americas,16.75,-62.2,13,12,1
+2020/11/13,MS,Montserrat,Americas,16.75,-62.2,13,12,1
 2020/01/22,MT,Malta,Europe,35.83333333,14.58333333,0,0,0
 2020/01/23,MT,Malta,Europe,35.83333333,14.58333333,0,0,0
 2020/01/24,MT,Malta,Europe,35.83333333,14.58333333,0,0,0
@@ -39959,6 +40093,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,MT,Malta,Europe,35.83333333,14.58333333,7396,5274,81
 2020/11/11,MT,Malta,Europe,35.83333333,14.58333333,7537,5371,88
 2020/11/12,MT,Malta,Europe,35.83333333,14.58333333,7646,5479,88
+2020/11/13,MT,Malta,Europe,35.83333333,14.58333333,7796,5580,92
 2020/01/22,MU,Mauritius,Africa,-20.28333333,57.55,0,0,0
 2020/01/23,MU,Mauritius,Africa,-20.28333333,57.55,0,0,0
 2020/01/24,MU,Mauritius,Africa,-20.28333333,57.55,0,0,0
@@ -40255,6 +40390,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,MU,Mauritius,Africa,-20.28333333,57.55,453,416,10
 2020/11/11,MU,Mauritius,Africa,-20.28333333,57.55,453,416,10
 2020/11/12,MU,Mauritius,Africa,-20.28333333,57.55,468,427,10
+2020/11/13,MU,Mauritius,Africa,-20.28333333,57.55,470,428,10
 2020/01/22,MV,Maldives,Asia,3.25,73,0,0,0
 2020/01/23,MV,Maldives,Asia,3.25,73,0,0,0
 2020/01/24,MV,Maldives,Asia,3.25,73,0,0,0
@@ -40551,6 +40687,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,MV,Maldives,Asia,3.25,73,12030,11182,41
 2020/11/11,MV,Maldives,Asia,3.25,73,12059,11199,41
 2020/11/12,MV,Maldives,Asia,3.25,73,12085,11225,41
+2020/11/13,MV,Maldives,Asia,3.25,73,12112,11244,41
 2020/01/22,MW,Malawi,Africa,-13.5,34,0,0,0
 2020/01/23,MW,Malawi,Africa,-13.5,34,0,0,0
 2020/01/24,MW,Malawi,Africa,-13.5,34,0,0,0
@@ -40847,6 +40984,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,MW,Malawi,Africa,-13.5,34,5953,5361,185
 2020/11/11,MW,Malawi,Africa,-13.5,34,5955,5366,185
 2020/11/12,MW,Malawi,Africa,-13.5,34,5958,5369,185
+2020/11/13,MW,Malawi,Africa,-13.5,34,5962,5372,185
 2020/01/22,MX,Mexico,Americas,23,-102,0,0,0
 2020/01/23,MX,Mexico,Americas,23,-102,0,0,0
 2020/01/24,MX,Mexico,Americas,23,-102,0,0,0
@@ -41143,6 +41281,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,MX,Mexico,Americas,23,-102,972785,721076,95225
 2020/11/11,MX,Mexico,Americas,23,-102,978531,725846,95842
 2020/11/12,MX,Mexico,Americas,23,-102,986177,731468,96430
+2020/11/13,MX,Mexico,Americas,23,-102,991835,736197,97056
 2020/01/22,MY,Malaysia,Asia,2.5,112.5,0,0,0
 2020/01/23,MY,Malaysia,Asia,2.5,112.5,0,0,0
 2020/01/24,MY,Malaysia,Asia,2.5,112.5,0,0,0
@@ -41439,6 +41578,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,MY,Malaysia,Asia,2.5,112.5,42050,30304,300
 2020/11/11,MY,Malaysia,Asia,2.5,112.5,42872,31073,302
 2020/11/12,MY,Malaysia,Asia,2.5,112.5,43791,32069,303
+2020/11/13,MY,Malaysia,Asia,2.5,112.5,45095,32969,304
 2020/01/22,MZ,Mozambique,Africa,-18.25,35,0,0,0
 2020/01/23,MZ,Mozambique,Africa,-18.25,35,0,0,0
 2020/01/24,MZ,Mozambique,Africa,-18.25,35,0,0,0
@@ -41735,6 +41875,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,MZ,Mozambique,Africa,-18.25,35,13892,11748,99
 2020/11/11,MZ,Mozambique,Africa,-18.25,35,13991,11959,104
 2020/11/12,MZ,Mozambique,Africa,-18.25,35,14094,12134,104
+2020/11/13,MZ,Mozambique,Africa,-18.25,35,14227,12238,110
 2020/01/22,NA,Namibia,Africa,-22,17,0,0,0
 2020/01/23,NA,Namibia,Africa,-22,17,0,0,0
 2020/01/24,NA,Namibia,Africa,-22,17,0,0,0
@@ -42031,6 +42172,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,NA,Namibia,Africa,-22,17,13253,11701,134
 2020/11/11,NA,Namibia,Africa,-22,17,13292,11739,134
 2020/11/12,NA,Namibia,Africa,-22,17,13345,12188,135
+2020/11/13,NA,Namibia,Africa,-22,17,13372,12243,138
 2020/01/22,NC,New Caledonia,Oceania,-21.5,165.5,0,0,0
 2020/01/23,NC,New Caledonia,Oceania,-21.5,165.5,0,0,0
 2020/01/24,NC,New Caledonia,Oceania,-21.5,165.5,0,0,0
@@ -42327,6 +42469,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,NC,New Caledonia,Oceania,-21.5,165.5,29,28,0
 2020/11/11,NC,New Caledonia,Oceania,-21.5,165.5,29,28,0
 2020/11/12,NC,New Caledonia,Oceania,-21.5,165.5,30,28,0
+2020/11/13,NC,New Caledonia,Oceania,-21.5,165.5,30,28,0
 2020/01/22,NE,Niger,Africa,16,8,0,0,0
 2020/01/23,NE,Niger,Africa,16,8,0,0,0
 2020/01/24,NE,Niger,Africa,16,8,0,0,0
@@ -42623,6 +42766,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,NE,Niger,Africa,16,8,1256,1144,69
 2020/11/11,NE,Niger,Africa,16,8,1263,1144,69
 2020/11/12,NE,Niger,Africa,16,8,1282,1144,69
+2020/11/13,NE,Niger,Africa,16,8,1289,1145,69
 2020/01/22,NG,Nigeria,Africa,10,8,0,0,0
 2020/01/23,NG,Nigeria,Africa,10,8,0,0,0
 2020/01/24,NG,Nigeria,Africa,10,8,0,0,0
@@ -42919,6 +43063,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,NG,Nigeria,Africa,10,8,64336,60333,1160
 2020/11/11,NG,Nigeria,Africa,10,8,64516,60737,1162
 2020/11/12,NG,Nigeria,Africa,10,8,64728,60790,1162
+2020/11/13,NG,Nigeria,Africa,10,8,64884,60936,1163
 2020/01/22,NI,Nicaragua,Americas,13,-85,0,0,0
 2020/01/23,NI,Nicaragua,Americas,13,-85,0,0,0
 2020/01/24,NI,Nicaragua,Americas,13,-85,0,0,0
@@ -43215,6 +43360,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,NI,Nicaragua,Americas,13,-85,5661,4225,158
 2020/11/11,NI,Nicaragua,Americas,13,-85,5661,4225,158
 2020/11/12,NI,Nicaragua,Americas,13,-85,5661,4225,158
+2020/11/13,NI,Nicaragua,Americas,13,-85,5661,4225,158
 2020/01/22,NL,Netherlands,Europe,52.5,5.75,0,0,0
 2020/01/23,NL,Netherlands,Europe,52.5,5.75,0,0,0
 2020/01/24,NL,Netherlands,Europe,52.5,5.75,0,0,0
@@ -43511,6 +43657,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,NL,Netherlands,Europe,52.5,5.75,419412,0,8141
 2020/11/11,NL,Netherlands,Europe,52.5,5.75,424819,0,8215
 2020/11/12,NL,Netherlands,Europe,52.5,5.75,430453,0,8304
+2020/11/13,NL,Netherlands,Europe,52.5,5.75,436544,0,8358
 2020/01/22,NO,Norway,Europe,62,10,0,0,0
 2020/01/23,NO,Norway,Europe,62,10,0,0,0
 2020/01/24,NO,Norway,Europe,62,10,0,0,0
@@ -43807,6 +43954,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,NO,Norway,Europe,62,10,25524,11863,285
 2020/11/11,NO,Norway,Europe,62,10,26511,11863,285
 2020/11/12,NO,Norway,Europe,62,10,27228,11863,291
+2020/11/13,NO,Norway,Europe,62,10,27485,11863,294
 2020/01/22,NP,Nepal,Asia,28,84,0,0,0
 2020/01/23,NP,Nepal,Asia,28,84,0,0,0
 2020/01/24,NP,Nepal,Asia,28,84,0,0,0
@@ -44103,6 +44251,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,NP,Nepal,Asia,28,84,199760,160577,1148
 2020/11/11,NP,Nepal,Asia,28,84,202329,162243,1174
 2020/11/12,NP,Nepal,Asia,28,84,204242,164592,1189
+2020/11/13,NP,Nepal,Asia,28,84,206353,168129,1202
 2020/01/22,NZ,New Zealand,Oceania,-41,174,0,0,0
 2020/01/23,NZ,New Zealand,Oceania,-41,174,0,0,0
 2020/01/24,NZ,New Zealand,Oceania,-41,174,0,0,0
@@ -44399,6 +44548,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,NZ,New Zealand,Oceania,-41,174,1987,1910,25
 2020/11/11,NZ,New Zealand,Oceania,-41,174,1988,1911,25
 2020/11/12,NZ,New Zealand,Oceania,-41,174,1991,1913,25
+2020/11/13,NZ,New Zealand,Oceania,-41,174,1995,1917,25
 2020/01/22,OM,Oman,Asia,21,57,0,0,0
 2020/01/23,OM,Oman,Asia,21,57,0,0,0
 2020/01/24,OM,Oman,Asia,21,57,0,0,0
@@ -44695,6 +44845,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,OM,Oman,Asia,21,57,118884,109330,1316
 2020/11/11,OM,Oman,Asia,21,57,119186,109633,1321
 2020/11/12,OM,Oman,Asia,21,57,119442,110050,1326
+2020/11/13,OM,Oman,Asia,21,57,119442,110050,1326
 2020/01/22,PA,Panama,Americas,9,-80,0,0,0
 2020/01/23,PA,Panama,Americas,9,-80,0,0,0
 2020/01/24,PA,Panama,Americas,9,-80,0,0,0
@@ -44991,6 +45142,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,PA,Panama,Americas,9,-80,140331,118711,2808
 2020/11/11,PA,Panama,Americas,9,-80,141302,119707,2817
 2020/11/12,PA,Panama,Americas,9,-80,143352,122070,2830
+2020/11/13,PA,Panama,Americas,9,-80,143352,122070,2830
 2020/01/22,PE,Peru,Americas,-10,-76,0,0,0
 2020/01/23,PE,Peru,Americas,-10,-76,0,0,0
 2020/01/24,PE,Peru,Americas,-10,-76,0,0,0
@@ -45287,6 +45439,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,PE,Peru,Americas,-10,-76,925431,850670,34992
 2020/11/11,PE,Peru,Americas,-10,-76,928006,853208,35031
 2020/11/12,PE,Peru,Americas,-10,-76,930237,856023,35067
+2020/11/13,PE,Peru,Americas,-10,-76,932650,858388,35106
 2020/01/22,PF,French Polynesia,Oceania,-15,-140,0,0,0
 2020/01/23,PF,French Polynesia,Oceania,-15,-140,0,0,0
 2020/01/24,PF,French Polynesia,Oceania,-15,-140,0,0,0
@@ -45583,6 +45736,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,PF,French Polynesia,Oceania,-15,-140,10971,4842,52
 2020/11/11,PF,French Polynesia,Oceania,-15,-140,11316,4842,52
 2020/11/12,PF,French Polynesia,Oceania,-15,-140,11485,4842,52
+2020/11/13,PF,French Polynesia,Oceania,-15,-140,11706,4842,53
 2020/01/22,PG,Papua New Guinea,Oceania,-6,147,0,0,0
 2020/01/23,PG,Papua New Guinea,Oceania,-6,147,0,0,0
 2020/01/24,PG,Papua New Guinea,Oceania,-6,147,0,0,0
@@ -45879,6 +46033,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,PG,Papua New Guinea,Oceania,-6,147,599,585,7
 2020/11/11,PG,Papua New Guinea,Oceania,-6,147,599,586,7
 2020/11/12,PG,Papua New Guinea,Oceania,-6,147,599,586,7
+2020/11/13,PG,Papua New Guinea,Oceania,-6,147,600,586,7
 2020/01/22,PH,Philippines,Asia,13,122,0,0,0
 2020/01/23,PH,Philippines,Asia,13,122,0,0,0
 2020/01/24,PH,Philippines,Asia,13,122,0,0,0
@@ -46175,6 +46330,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,PH,Philippines,Asia,13,122,399749,361919,7661
 2020/11/11,PH,Philippines,Asia,13,122,401416,362217,7710
 2020/11/12,PH,Philippines,Asia,13,122,402820,362417,7721
+2020/11/13,PH,Philippines,Asia,13,122,404713,362903,7752
 2020/01/22,PK,Pakistan,Asia,30,70,0,0,0
 2020/01/23,PK,Pakistan,Asia,30,70,0,0,0
 2020/01/24,PK,Pakistan,Asia,30,70,0,0,0
@@ -46471,6 +46627,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,PK,Pakistan,Asia,30,70,346476,319431,7000
 2020/11/11,PK,Pakistan,Asia,30,70,348184,320065,7021
 2020/11/12,PK,Pakistan,Asia,30,70,349992,320849,7055
+2020/11/13,PK,Pakistan,Asia,30,70,352296,321563,7092
 2020/01/22,PL,Poland,Europe,52,20,0,0,0
 2020/01/23,PL,Poland,Europe,52,20,0,0,0
 2020/01/24,PL,Poland,Europe,52,20,0,0,0
@@ -46767,6 +46924,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,PL,Poland,Europe,52,20,593592,230661,8375
 2020/11/11,PL,Poland,Europe,52,20,618813,242875,8805
 2020/11/12,PL,Poland,Europe,52,20,641496,254349,9080
+2020/11/13,PL,Poland,Europe,52,20,665547,267580,9499
 2020/01/22,PM,Saint Pierre and Miquelon,Americas,46.83333333,-56.33333333,0,0,0
 2020/01/23,PM,Saint Pierre and Miquelon,Americas,46.83333333,-56.33333333,0,0,0
 2020/01/24,PM,Saint Pierre and Miquelon,Americas,46.83333333,-56.33333333,0,0,0
@@ -47063,6 +47221,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,PM,Saint Pierre and Miquelon,Americas,46.83333333,-56.33333333,16,12,0
 2020/11/11,PM,Saint Pierre and Miquelon,Americas,46.83333333,-56.33333333,16,12,0
 2020/11/12,PM,Saint Pierre and Miquelon,Americas,46.83333333,-56.33333333,16,12,0
+2020/11/13,PM,Saint Pierre and Miquelon,Americas,46.83333333,-56.33333333,16,12,0
 2020/01/22,PS,Palestine,Asia,31.9,35.2,0,0,0
 2020/01/23,PS,Palestine,Asia,31.9,35.2,0,0,0
 2020/01/24,PS,Palestine,Asia,31.9,35.2,0,0,0
@@ -47359,6 +47518,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,PS,Palestine,Asia,31.9,35.2,59422,51425,533
 2020/11/11,PS,Palestine,Asia,31.9,35.2,60065,52226,538
 2020/11/12,PS,Palestine,Asia,31.9,35.2,60784,52861,542
+2020/11/13,PS,Palestine,Asia,31.9,35.2,61514,53367,548
 2020/01/22,PT,Portugal,Europe,39.5,-8,0,0,0
 2020/01/23,PT,Portugal,Europe,39.5,-8,0,0,0
 2020/01/24,PT,Portugal,Europe,39.5,-8,0,0,0
@@ -47655,6 +47815,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,PT,Portugal,Europe,39.5,-8,187237,106878,3021
 2020/11/11,PT,Portugal,Europe,39.5,-8,192172,110353,3103
 2020/11/12,PT,Portugal,Europe,39.5,-8,198011,113689,3181
+2020/11/13,PT,Portugal,Europe,39.5,-8,204664,117382,3250
 2020/01/22,PY,Paraguay,Americas,-23,-58,0,0,0
 2020/01/23,PY,Paraguay,Americas,-23,-58,0,0,0
 2020/01/24,PY,Paraguay,Americas,-23,-58,0,0,0
@@ -47951,6 +48112,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,PY,Paraguay,Americas,-23,-58,67948,48437,1502
 2020/11/11,PY,Paraguay,Americas,-23,-58,69106,49545,1532
 2020/11/12,PY,Paraguay,Americas,-23,-58,69653,50045,1543
+2020/11/13,PY,Paraguay,Americas,-23,-58,70392,50514,1556
 2020/01/22,QA,Qatar,Asia,25.5,51.25,0,0,0
 2020/01/23,QA,Qatar,Asia,25.5,51.25,0,0,0
 2020/01/24,QA,Qatar,Asia,25.5,51.25,0,0,0
@@ -48247,6 +48409,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,QA,Qatar,Asia,25.5,51.25,134663,131733,233
 2020/11/11,QA,Qatar,Asia,25.5,51.25,134887,131926,233
 2020/11/12,QA,Qatar,Asia,25.5,51.25,135132,132153,234
+2020/11/13,QA,Qatar,Asia,25.5,51.25,135367,132356,234
 2020/01/22,RE,Réunion,Africa,-21.15,55.5,0,0,0
 2020/01/23,RE,Réunion,Africa,-21.15,55.5,0,0,0
 2020/01/24,RE,Réunion,Africa,-21.15,55.5,0,0,0
@@ -48543,6 +48706,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,RE,Réunion,Africa,-21.15,55.5,6572,5380,28
 2020/11/11,RE,Réunion,Africa,-21.15,55.5,6572,5380,28
 2020/11/12,RE,Réunion,Africa,-21.15,55.5,6735,5380,28
+2020/11/13,RE,Réunion,Africa,-21.15,55.5,6881,5928,28
 2020/01/22,RO,Romania,Europe,46,25,0,0,0
 2020/01/23,RO,Romania,Europe,46,25,0,0,0
 2020/01/24,RO,Romania,Europe,46,25,0,0,0
@@ -48839,6 +49003,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,RO,Romania,Europe,46,25,314295,211408,8186
 2020/11/11,RO,Romania,Europe,46,25,324094,218086,8389
 2020/11/12,RO,Romania,Europe,46,25,334236,224916,8510
+2020/11/13,RO,Romania,Europe,46,25,343725,231808,8684
 2020/01/22,RS,Serbia,Europe,44,21,0,0,0
 2020/01/23,RS,Serbia,Europe,44,21,0,0,0
 2020/01/24,RS,Serbia,Europe,44,21,0,0,0
@@ -49135,6 +49300,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,RS,Serbia,Europe,44,21,66888,31536,915
 2020/11/11,RS,Serbia,Europe,44,21,70424,31536,936
 2020/11/12,RS,Serbia,Europe,44,21,73765,31536,955
+2020/11/13,RS,Serbia,Europe,44,21,77264,31536,972
 2020/01/22,RU,Russia,Europe,60,100,0,0,0
 2020/01/23,RU,Russia,Europe,60,100,0,0,0
 2020/01/24,RU,Russia,Europe,60,100,0,0,0
@@ -49431,6 +49597,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,RU,Russia,Europe,60,100,1817109,1350741,31161
 2020/11/11,RU,Russia,Europe,60,100,1836960,1369357,31593
 2020/11/12,RU,Russia,Europe,60,100,1858568,1388168,32032
+2020/11/13,RU,Russia,Europe,60,100,1880551,1406903,32443
 2020/01/22,RW,Rwanda,Africa,-2,30,0,0,0
 2020/01/23,RW,Rwanda,Africa,-2,30,0,0,0
 2020/01/24,RW,Rwanda,Africa,-2,30,0,0,0
@@ -49727,6 +49894,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,RW,Rwanda,Africa,-2,30,5262,4967,40
 2020/11/11,RW,Rwanda,Africa,-2,30,5312,4974,41
 2020/11/12,RW,Rwanda,Africa,-2,30,5319,4974,41
+2020/11/13,RW,Rwanda,Africa,-2,30,5362,4993,42
 2020/01/22,SA,Saudi Arabia,Asia,25,45,0,0,0
 2020/01/23,SA,Saudi Arabia,Asia,25,45,0,0,0
 2020/01/24,SA,Saudi Arabia,Asia,25,45,0,0,0
@@ -50023,6 +50191,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,SA,Saudi Arabia,Asia,25,45,351455,338281,5576
 2020/11/11,SA,Saudi Arabia,Asia,25,45,351849,338702,5590
 2020/11/12,SA,Saudi Arabia,Asia,25,45,352160,339114,5605
+2020/11/13,SA,Saudi Arabia,Asia,25,45,352601,339568,5625
 2020/01/22,SC,Seychelles,Africa,-4.58333333,55.66666666,0,0,0
 2020/01/23,SC,Seychelles,Africa,-4.58333333,55.66666666,0,0,0
 2020/01/24,SC,Seychelles,Africa,-4.58333333,55.66666666,0,0,0
@@ -50319,6 +50488,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,SC,Seychelles,Africa,-4.58333333,55.66666666,158,155,0
 2020/11/11,SC,Seychelles,Africa,-4.58333333,55.66666666,158,155,0
 2020/11/12,SC,Seychelles,Africa,-4.58333333,55.66666666,160,157,0
+2020/11/13,SC,Seychelles,Africa,-4.58333333,55.66666666,160,157,0
 2020/01/22,SD,Sudan,Africa,15,30,0,0,0
 2020/01/23,SD,Sudan,Africa,15,30,0,0,0
 2020/01/24,SD,Sudan,Africa,15,30,0,0,0
@@ -50615,6 +50785,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,SD,Sudan,Africa,15,30,14155,9492,1116
 2020/11/11,SD,Sudan,Africa,15,30,14155,9492,1116
 2020/11/12,SD,Sudan,Africa,15,30,14401,9535,1116
+2020/11/13,SD,Sudan,Africa,15,30,14401,9535,1116
 2020/01/22,SE,Sweden,Europe,62,15,0,0,0
 2020/01/23,SE,Sweden,Europe,62,15,0,0,0
 2020/01/24,SE,Sweden,Europe,62,15,0,0,0
@@ -50911,6 +51082,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,SE,Sweden,Europe,62,15,162240,0,6057
 2020/11/11,SE,Sweden,Europe,62,15,166707,0,6082
 2020/11/12,SE,Sweden,Europe,62,15,171365,0,6122
+2020/11/13,SE,Sweden,Europe,62,15,177355,0,6164
 2020/01/22,SG,Singapore,Asia,1.36666666,103.8,0,0,0
 2020/01/23,SG,Singapore,Asia,1.36666666,103.8,1,0,0
 2020/01/24,SG,Singapore,Asia,1.36666666,103.8,3,0,0
@@ -51207,6 +51379,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,SG,Singapore,Asia,1.36666666,103.8,58073,57985,28
 2020/11/11,SG,Singapore,Asia,1.36666666,103.8,58091,57990,28
 2020/11/12,SG,Singapore,Asia,1.36666666,103.8,58102,58002,28
+2020/11/13,SG,Singapore,Asia,1.36666666,103.8,58114,58008,28
 2020/01/22,SI,Slovenia,Europe,46.11666666,14.81666666,0,0,0
 2020/01/23,SI,Slovenia,Europe,46.11666666,14.81666666,0,0,0
 2020/01/24,SI,Slovenia,Europe,46.11666666,14.81666666,0,0,0
@@ -51503,6 +51676,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,SI,Slovenia,Europe,46.11666666,14.81666666,46717,25007,605
 2020/11/11,SI,Slovenia,Europe,46.11666666,14.81666666,48939,27577,645
 2020/11/12,SI,Slovenia,Europe,46.11666666,14.81666666,50870,30027,686
+2020/11/13,SI,Slovenia,Europe,46.11666666,14.81666666,52385,31792,724
 2020/01/22,SK,Slovakia,Europe,48.66666666,19.5,0,0,0
 2020/01/23,SK,Slovakia,Europe,48.66666666,19.5,0,0,0
 2020/01/24,SK,Slovakia,Europe,48.66666666,19.5,0,0,0
@@ -51799,6 +51973,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,SK,Slovakia,Europe,48.66666666,19.5,77123,21718,390
 2020/11/11,SK,Slovakia,Europe,48.66666666,19.5,79181,23247,414
 2020/11/12,SK,Slovakia,Europe,48.66666666,19.5,81772,24314,464
+2020/11/13,SK,Slovakia,Europe,48.66666666,19.5,83796,26439,491
 2020/01/22,SL,Sierra Leone,Africa,8.5,-11.5,0,0,0
 2020/01/23,SL,Sierra Leone,Africa,8.5,-11.5,0,0,0
 2020/01/24,SL,Sierra Leone,Africa,8.5,-11.5,0,0,0
@@ -52095,6 +52270,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,SL,Sierra Leone,Africa,8.5,-11.5,2386,1813,74
 2020/11/11,SL,Sierra Leone,Africa,8.5,-11.5,2386,1813,74
 2020/11/12,SL,Sierra Leone,Africa,8.5,-11.5,2387,1816,74
+2020/11/13,SL,Sierra Leone,Africa,8.5,-11.5,2387,1816,74
 2020/01/22,SM,San Marino,Europe,43.76666666,12.41666666,0,0,0
 2020/01/23,SM,San Marino,Europe,43.76666666,12.41666666,0,0,0
 2020/01/24,SM,San Marino,Europe,43.76666666,12.41666666,0,0,0
@@ -52391,6 +52567,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,SM,San Marino,Europe,43.76666666,12.41666666,1114,789,42
 2020/11/11,SM,San Marino,Europe,43.76666666,12.41666666,1190,857,42
 2020/11/12,SM,San Marino,Europe,43.76666666,12.41666666,1190,857,42
+2020/11/13,SM,San Marino,Europe,43.76666666,12.41666666,1253,888,42
 2020/01/22,SN,Senegal,Africa,14,-14,0,0,0
 2020/01/23,SN,Senegal,Africa,14,-14,0,0,0
 2020/01/24,SN,Senegal,Africa,14,-14,0,0,0
@@ -52687,6 +52864,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,SN,Senegal,Africa,14,-14,15720,15366,326
 2020/11/11,SN,Senegal,Africa,14,-14,15735,15386,326
 2020/11/12,SN,Senegal,Africa,14,-14,15744,15386,326
+2020/11/13,SN,Senegal,Africa,14,-14,15755,15400,326
 2020/01/22,SO,Somalia,Africa,10,49,0,0,0
 2020/01/23,SO,Somalia,Africa,10,49,0,0,0
 2020/01/24,SO,Somalia,Africa,10,49,0,0,0
@@ -52983,6 +53161,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,SO,Somalia,Africa,10,49,4301,3247,107
 2020/11/11,SO,Somalia,Africa,10,49,4301,3247,107
 2020/11/12,SO,Somalia,Africa,10,49,4301,3330,107
+2020/11/13,SO,Somalia,Africa,10,49,4301,3330,107
 2020/01/22,SR,Suriname,Americas,4,-56,0,0,0
 2020/01/23,SR,Suriname,Americas,4,-56,0,0,0
 2020/01/24,SR,Suriname,Americas,4,-56,0,0,0
@@ -53279,6 +53458,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,SR,Suriname,Americas,4,-56,5241,5110,113
 2020/11/11,SR,Suriname,Americas,4,-56,5254,5118,113
 2020/11/12,SR,Suriname,Americas,4,-56,5261,5126,114
+2020/11/13,SR,Suriname,Americas,4,-56,5261,5126,114
 2020/01/22,SS,South Sudan,Africa,7,30,0,0,0
 2020/01/23,SS,South Sudan,Africa,7,30,0,0,0
 2020/01/24,SS,South Sudan,Africa,7,30,0,0,0
@@ -53575,6 +53755,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,SS,South Sudan,Africa,7,30,2960,1290,59
 2020/11/11,SS,South Sudan,Africa,7,30,2960,1290,59
 2020/11/12,SS,South Sudan,Africa,7,30,2960,1290,59
+2020/11/13,SS,South Sudan,Africa,7,30,2960,1290,59
 2020/01/22,ST,São Tomé and Príncipe,Africa,1,7,0,0,0
 2020/01/23,ST,São Tomé and Príncipe,Africa,1,7,0,0,0
 2020/01/24,ST,São Tomé and Príncipe,Africa,1,7,0,0,0
@@ -53871,6 +54052,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,ST,São Tomé and Príncipe,Africa,1,7,962,912,16
 2020/11/11,ST,São Tomé and Príncipe,Africa,1,7,962,914,16
 2020/11/12,ST,São Tomé and Príncipe,Africa,1,7,963,914,16
+2020/11/13,ST,São Tomé and Príncipe,Africa,1,7,963,914,16
 2020/01/22,SV,El Salvador,Americas,13.83333333,-88.91666666,0,0,0
 2020/01/23,SV,El Salvador,Americas,13.83333333,-88.91666666,0,0,0
 2020/01/24,SV,El Salvador,Americas,13.83333333,-88.91666666,0,0,0
@@ -54167,6 +54349,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,SV,El Salvador,Americas,13.83333333,-88.91666666,35145,31172,1020
 2020/11/11,SV,El Salvador,Americas,13.83333333,-88.91666666,35145,31172,1024
 2020/11/12,SV,El Salvador,Americas,13.83333333,-88.91666666,36030,32246,1028
+2020/11/13,SV,El Salvador,Americas,13.83333333,-88.91666666,36195,32487,1033
 2020/01/22,SX,Sint Maarten,Americas,18.033333,-63.05,0,0,0
 2020/01/23,SX,Sint Maarten,Americas,18.033333,-63.05,0,0,0
 2020/01/24,SX,Sint Maarten,Americas,18.033333,-63.05,0,0,0
@@ -54463,6 +54646,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,SX,Sint Maarten,Americas,18.033333,-63.05,908,804,23
 2020/11/11,SX,Sint Maarten,Americas,18.033333,-63.05,908,804,23
 2020/11/12,SX,Sint Maarten,Americas,18.033333,-63.05,914,825,23
+2020/11/13,SX,Sint Maarten,Americas,18.033333,-63.05,914,825,23
 2020/01/22,SY,Syria,Asia,35,38,0,0,0
 2020/01/23,SY,Syria,Asia,35,38,0,0,0
 2020/01/24,SY,Syria,Asia,35,38,0,0,0
@@ -54759,6 +54943,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,SY,Syria,Asia,35,38,6352,2454,325
 2020/11/11,SY,Syria,Asia,35,38,6421,2504,329
 2020/11/12,SY,Syria,Asia,35,38,6486,2558,333
+2020/11/13,SY,Syria,Asia,35,38,6552,2609,337
 2020/01/22,SZ,Eswatini,Africa,-26.5,31.5,0,0,0
 2020/01/23,SZ,Eswatini,Africa,-26.5,31.5,0,0,0
 2020/01/24,SZ,Eswatini,Africa,-26.5,31.5,0,0,0
@@ -55055,6 +55240,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,SZ,Eswatini,Africa,-26.5,31.5,6024,5737,117
 2020/11/11,SZ,Eswatini,Africa,-26.5,31.5,6044,5744,117
 2020/11/12,SZ,Eswatini,Africa,-26.5,31.5,6060,5746,117
+2020/11/13,SZ,Eswatini,Africa,-26.5,31.5,6076,5756,118
 2020/01/22,TC,Turks and Caicos Islands,Americas,21.75,-71.58333333,0,0,0
 2020/01/23,TC,Turks and Caicos Islands,Americas,21.75,-71.58333333,0,0,0
 2020/01/24,TC,Turks and Caicos Islands,Americas,21.75,-71.58333333,0,0,0
@@ -55351,6 +55537,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,TC,Turks and Caicos Islands,Americas,21.75,-71.58333333,711,695,6
 2020/11/11,TC,Turks and Caicos Islands,Americas,21.75,-71.58333333,716,695,6
 2020/11/12,TC,Turks and Caicos Islands,Americas,21.75,-71.58333333,716,695,6
+2020/11/13,TC,Turks and Caicos Islands,Americas,21.75,-71.58333333,716,695,6
 2020/01/22,TD,Chad,Africa,15,19,0,0,0
 2020/01/23,TD,Chad,Africa,15,19,0,0,0
 2020/01/24,TD,Chad,Africa,15,19,0,0,0
@@ -55647,6 +55834,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,TD,Chad,Africa,15,19,1561,1413,99
 2020/11/11,TD,Chad,Africa,15,19,1565,1420,99
 2020/11/12,TD,Chad,Africa,15,19,1578,1428,100
+2020/11/13,TD,Chad,Africa,15,19,1589,1435,100
 2020/01/22,TG,Togo,Africa,8,1.16666666,0,0,0
 2020/01/23,TG,Togo,Africa,8,1.16666666,0,0,0
 2020/01/24,TG,Togo,Africa,8,1.16666666,0,0,0
@@ -55943,6 +56131,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,TG,Togo,Africa,8,1.16666666,2558,1763,57
 2020/11/11,TG,Togo,Africa,8,1.16666666,2593,1792,59
 2020/11/12,TG,Togo,Africa,8,1.16666666,2605,1815,60
+2020/11/13,TG,Togo,Africa,8,1.16666666,2605,1815,60
 2020/01/22,TH,Thailand,Asia,15,100,2,0,0
 2020/01/23,TH,Thailand,Asia,15,100,3,0,0
 2020/01/24,TH,Thailand,Asia,15,100,5,0,0
@@ -56239,6 +56428,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,TH,Thailand,Asia,15,100,3844,3670,60
 2020/11/11,TH,Thailand,Asia,15,100,3847,3685,60
 2020/11/12,TH,Thailand,Asia,15,100,3852,3693,60
+2020/11/13,TH,Thailand,Asia,15,100,3861,3697,60
 2020/01/22,TJ,Tajikistan,Asia,39,71,0,0,0
 2020/01/23,TJ,Tajikistan,Asia,39,71,0,0,0
 2020/01/24,TJ,Tajikistan,Asia,39,71,0,0,0
@@ -56535,6 +56725,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,TJ,Tajikistan,Asia,39,71,11417,10763,84
 2020/11/11,TJ,Tajikistan,Asia,39,71,11456,10811,84
 2020/11/12,TJ,Tajikistan,Asia,39,71,11496,10853,84
+2020/11/13,TJ,Tajikistan,Asia,39,71,11534,10894,85
 2020/01/22,TL,Timor-Leste,Asia,-8.83333333,125.91666666,0,0,0
 2020/01/23,TL,Timor-Leste,Asia,-8.83333333,125.91666666,0,0,0
 2020/01/24,TL,Timor-Leste,Asia,-8.83333333,125.91666666,0,0,0
@@ -56831,6 +57022,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,TL,Timor-Leste,Asia,-8.83333333,125.91666666,30,29,0
 2020/11/11,TL,Timor-Leste,Asia,-8.83333333,125.91666666,30,29,0
 2020/11/12,TL,Timor-Leste,Asia,-8.83333333,125.91666666,30,29,0
+2020/11/13,TL,Timor-Leste,Asia,-8.83333333,125.91666666,30,29,0
 2020/01/22,TN,Tunisia,Africa,34,9,0,0,0
 2020/01/23,TN,Tunisia,Africa,34,9,0,0,0
 2020/01/24,TN,Tunisia,Africa,34,9,0,0,0
@@ -57127,6 +57319,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,TN,Tunisia,Africa,34,9,72993,48103,2006
 2020/11/11,TN,Tunisia,Africa,34,9,74522,51750,2100
 2020/11/12,TN,Tunisia,Africa,34,9,76106,51807,2151
+2020/11/13,TN,Tunisia,Africa,34,9,77668,52912,2209
 2020/01/22,TR,Turkey,Asia,39,35,0,0,0
 2020/01/23,TR,Turkey,Asia,39,35,0,0,0
 2020/01/24,TR,Turkey,Asia,39,35,0,0,0
@@ -57423,6 +57616,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,TR,Turkey,Asia,39,35,399360,342501,11059
 2020/11/11,TR,Turkey,Asia,39,35,402053,344613,11145
 2020/11/12,TR,Turkey,Asia,39,35,404894,346794,11233
+2020/11/13,TR,Turkey,Asia,39,35,407939,348804,11326
 2020/01/22,TT,Trinidad and Tobago,Americas,11,-61,0,0,0
 2020/01/23,TT,Trinidad and Tobago,Americas,11,-61,0,0,0
 2020/01/24,TT,Trinidad and Tobago,Americas,11,-61,0,0,0
@@ -57719,6 +57913,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,TT,Trinidad and Tobago,Americas,11,-61,5880,5238,111
 2020/11/11,TT,Trinidad and Tobago,Americas,11,-61,5904,5284,111
 2020/11/12,TT,Trinidad and Tobago,Americas,11,-61,5930,5317,111
+2020/11/13,TT,Trinidad and Tobago,Americas,11,-61,5980,5343,111
 2020/01/22,TW,Taiwan,Asia,23.5,121,1,0,0
 2020/01/23,TW,Taiwan,Asia,23.5,121,1,0,0
 2020/01/24,TW,Taiwan,Asia,23.5,121,3,0,0
@@ -58015,6 +58210,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,TW,Taiwan,Asia,23.5,121,580,528,7
 2020/11/11,TW,Taiwan,Asia,23.5,121,584,528,7
 2020/11/12,TW,Taiwan,Asia,23.5,121,589,532,7
+2020/11/13,TW,Taiwan,Asia,23.5,121,597,533,7
 2020/01/22,TZ,Tanzania,Africa,-6,35,0,0,0
 2020/01/23,TZ,Tanzania,Africa,-6,35,0,0,0
 2020/01/24,TZ,Tanzania,Africa,-6,35,0,0,0
@@ -58311,6 +58507,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,TZ,Tanzania,Africa,-6,35,509,183,21
 2020/11/11,TZ,Tanzania,Africa,-6,35,509,183,21
 2020/11/12,TZ,Tanzania,Africa,-6,35,509,183,21
+2020/11/13,TZ,Tanzania,Africa,-6,35,509,183,21
 2020/01/22,UA,Ukraine,Europe,49,32,0,0,0
 2020/01/23,UA,Ukraine,Europe,49,32,0,0,0
 2020/01/24,UA,Ukraine,Europe,49,32,0,0,0
@@ -58607,6 +58804,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,UA,Ukraine,Europe,49,32,479197,214657,8756
 2020/11/11,UA,Ukraine,Europe,49,32,489808,221459,8947
 2020/11/12,UA,Ukraine,Europe,49,32,500865,227694,9145
+2020/11/13,UA,Ukraine,Europe,49,32,512652,233849,9317
 2020/01/22,UG,Uganda,Africa,1,32,0,0,0
 2020/01/23,UG,Uganda,Africa,1,32,0,0,0
 2020/01/24,UG,Uganda,Africa,1,32,0,0,0
@@ -58903,6 +59101,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,UG,Uganda,Africa,1,32,14704,7836,133
 2020/11/11,UG,Uganda,Africa,1,32,14993,7939,139
 2020/11/12,UG,Uganda,Africa,1,32,15217,7985,143
+2020/11/13,UG,Uganda,Africa,1,32,15402,8038,144
 2020/01/22,US,United States,Americas,38,-97,1,0,0
 2020/01/23,US,United States,Americas,38,-97,1,0,0
 2020/01/24,US,United States,Americas,38,-97,2,0,0
@@ -59199,6 +59398,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,US,United States,Americas,38,-97,10553871,6594237,245746
 2020/11/11,US,United States,Americas,38,-97,10695526,6642268,247214
 2020/11/12,US,United States,Americas,38,-97,10860787,6700098,248487
+2020/11/13,US,United States,Americas,38,-97,11057645,6780978,249942
 2020/01/22,UY,Uruguay,Americas,-33,-56,0,0,0
 2020/01/23,UY,Uruguay,Americas,-33,-56,0,0,0
 2020/01/24,UY,Uruguay,Americas,-33,-56,0,0,0
@@ -59495,6 +59695,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,UY,Uruguay,Americas,-33,-56,3620,3034,62
 2020/11/11,UY,Uruguay,Americas,-33,-56,3700,3078,63
 2020/11/12,UY,Uruguay,Americas,-33,-56,3795,3103,63
+2020/11/13,UY,Uruguay,Americas,-33,-56,3795,3103,63
 2020/01/22,UZ,Uzbekistan,Asia,41,64,0,0,0
 2020/01/23,UZ,Uzbekistan,Asia,41,64,0,0,0
 2020/01/24,UZ,Uzbekistan,Asia,41,64,0,0,0
@@ -59791,6 +59992,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,UZ,Uzbekistan,Asia,41,64,69027,66194,588
 2020/11/11,UZ,Uzbekistan,Asia,41,64,69330,66609,591
 2020/11/12,UZ,Uzbekistan,Asia,41,64,69560,66814,593
+2020/11/13,UZ,Uzbekistan,Asia,41,64,69754,66886,594
 2020/01/22,VA,Vatican City,Europe,41.9,12.45,0,0,0
 2020/01/23,VA,Vatican City,Europe,41.9,12.45,0,0,0
 2020/01/24,VA,Vatican City,Europe,41.9,12.45,0,0,0
@@ -60087,6 +60289,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,VA,Vatican City,Europe,41.9,12.45,27,15,0
 2020/11/11,VA,Vatican City,Europe,41.9,12.45,27,15,0
 2020/11/12,VA,Vatican City,Europe,41.9,12.45,27,15,0
+2020/11/13,VA,Vatican City,Europe,41.9,12.45,27,15,0
 2020/01/22,VC,Saint Vincent and the Grenadines,Americas,13.25,-61.2,0,0,0
 2020/01/23,VC,Saint Vincent and the Grenadines,Americas,13.25,-61.2,0,0,0
 2020/01/24,VC,Saint Vincent and the Grenadines,Americas,13.25,-61.2,0,0,0
@@ -60383,6 +60586,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,VC,Saint Vincent and the Grenadines,Americas,13.25,-61.2,76,72,0
 2020/11/11,VC,Saint Vincent and the Grenadines,Americas,13.25,-61.2,76,72,0
 2020/11/12,VC,Saint Vincent and the Grenadines,Americas,13.25,-61.2,77,74,0
+2020/11/13,VC,Saint Vincent and the Grenadines,Americas,13.25,-61.2,78,76,0
 2020/01/22,VE,Venezuela,Americas,8,-66,0,0,0
 2020/01/23,VE,Venezuela,Americas,8,-66,0,0,0
 2020/01/24,VE,Venezuela,Americas,8,-66,0,0,0
@@ -60679,6 +60883,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,VE,Venezuela,Americas,8,-66,95149,90054,830
 2020/11/11,VE,Venezuela,Americas,8,-66,95445,90359,834
 2020/11/12,VE,Venezuela,Americas,8,-66,95750,90743,838
+2020/11/13,VE,Venezuela,Americas,8,-66,96140,91141,841
 2020/01/22,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
 2020/01/23,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
 2020/01/24,VG,British Virgin Islands,Americas,18.431383,-64.62305,0,0,0
@@ -60975,6 +61180,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,VG,British Virgin Islands,Americas,18.431383,-64.62305,71,70,1
 2020/11/11,VG,British Virgin Islands,Americas,18.431383,-64.62305,71,70,1
 2020/11/12,VG,British Virgin Islands,Americas,18.431383,-64.62305,71,70,1
+2020/11/13,VG,British Virgin Islands,Americas,18.431383,-64.62305,71,70,1
 2020/01/22,VN,Vietnam,Asia,16.16666666,107.83333333,0,0,0
 2020/01/23,VN,Vietnam,Asia,16.16666666,107.83333333,2,0,0
 2020/01/24,VN,Vietnam,Asia,16.16666666,107.83333333,2,0,0
@@ -61271,6 +61477,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,VN,Vietnam,Asia,16.16666666,107.83333333,1226,1087,35
 2020/11/11,VN,Vietnam,Asia,16.16666666,107.83333333,1252,1087,35
 2020/11/12,VN,Vietnam,Asia,16.16666666,107.83333333,1253,1093,35
+2020/11/13,VN,Vietnam,Asia,16.16666666,107.83333333,1256,1101,35
 2020/01/22,X1,Diamond Princess,Asia,35.45582,139.68188,0,0,0
 2020/01/23,X1,Diamond Princess,Asia,35.45582,139.68188,0,0,0
 2020/01/24,X1,Diamond Princess,Asia,35.45582,139.68188,0,0,0
@@ -61567,6 +61774,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,X1,Diamond Princess,Asia,35.45582,139.68188,712,659,13
 2020/11/11,X1,Diamond Princess,Asia,35.45582,139.68188,712,659,13
 2020/11/12,X1,Diamond Princess,Asia,35.45582,139.68188,712,659,13
+2020/11/13,X1,Diamond Princess,Asia,35.45582,139.68188,712,659,13
 2020/01/22,X2,Channel Islands,Europe,49.372284,-2.364351,0,0,0
 2020/01/23,X2,Channel Islands,Europe,49.372284,-2.364351,0,0,0
 2020/01/24,X2,Channel Islands,Europe,49.372284,-2.364351,0,0,0
@@ -61863,6 +62071,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,X2,Channel Islands,Europe,49.372284,-2.364351,972,766,48
 2020/11/11,X2,Channel Islands,Europe,49.372284,-2.364351,986,766,48
 2020/11/12,X2,Channel Islands,Europe,49.372284,-2.364351,1003,766,48
+2020/11/13,X2,Channel Islands,Europe,49.372284,-2.364351,1003,766,48
 2020/01/22,X3,MS Zaandam,Americas,25.688575,-113.356289,0,0,0
 2020/01/23,X3,MS Zaandam,Americas,25.688575,-113.356289,0,0,0
 2020/01/24,X3,MS Zaandam,Americas,25.688575,-113.356289,0,0,0
@@ -62159,6 +62368,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,X3,MS Zaandam,Americas,25.688575,-113.356289,9,0,2
 2020/11/11,X3,MS Zaandam,Americas,25.688575,-113.356289,9,0,2
 2020/11/12,X3,MS Zaandam,Americas,25.688575,-113.356289,9,0,2
+2020/11/13,X3,MS Zaandam,Americas,25.688575,-113.356289,9,0,2
 2020/01/22,YE,Yemen,Asia,15,48,0,0,0
 2020/01/23,YE,Yemen,Asia,15,48,0,0,0
 2020/01/24,YE,Yemen,Asia,15,48,0,0,0
@@ -62455,6 +62665,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,YE,Yemen,Asia,15,48,2071,1394,605
 2020/11/11,YE,Yemen,Asia,15,48,2071,1394,605
 2020/11/12,YE,Yemen,Asia,15,48,2071,1394,605
+2020/11/13,YE,Yemen,Asia,15,48,2072,1394,605
 2020/01/22,YT,Mayotte,Africa,-12.83333333,45.16666666,0,0,0
 2020/01/23,YT,Mayotte,Africa,-12.83333333,45.16666666,0,0,0
 2020/01/24,YT,Mayotte,Africa,-12.83333333,45.16666666,0,0,0
@@ -62751,6 +62962,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,YT,Mayotte,Africa,-12.83333333,45.16666666,4815,2964,46
 2020/11/11,YT,Mayotte,Africa,-12.83333333,45.16666666,4815,2964,46
 2020/11/12,YT,Mayotte,Africa,-12.83333333,45.16666666,4921,2964,46
+2020/11/13,YT,Mayotte,Africa,-12.83333333,45.16666666,4921,2964,46
 2020/01/22,ZA,South Africa,Africa,-29,24,0,0,0
 2020/01/23,ZA,South Africa,Africa,-29,24,0,0,0
 2020/01/24,ZA,South Africa,Africa,-29,24,0,0,0
@@ -63047,6 +63259,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,ZA,South Africa,Africa,-29,24,740254,683194,19951
 2020/11/11,ZA,South Africa,Africa,-29,24,742394,686458,20011
 2020/11/12,ZA,South Africa,Africa,-29,24,744732,690903,20076
+2020/11/13,ZA,South Africa,Africa,-29,24,746945,692177,20153
 2020/01/22,ZM,Zambia,Africa,-15,30,0,0,0
 2020/01/23,ZM,Zambia,Africa,-15,30,0,0,0
 2020/01/24,ZM,Zambia,Africa,-15,30,0,0,0
@@ -63343,6 +63556,7 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,ZM,Zambia,Africa,-15,30,16997,16019,350
 2020/11/11,ZM,Zambia,Africa,-15,30,17036,16070,350
 2020/11/12,ZM,Zambia,Africa,-15,30,17056,16102,350
+2020/11/13,ZM,Zambia,Africa,-15,30,17093,16134,350
 2020/01/22,ZW,Zimbabwe,Africa,-20,30,0,0,0
 2020/01/23,ZW,Zimbabwe,Africa,-20,30,0,0,0
 2020/01/24,ZW,Zimbabwe,Africa,-20,30,0,0,0
@@ -63639,3 +63853,4 @@ day,countryCode,countryName,region,lat,lon,confirmed,recovered,death
 2020/11/10,ZW,Zimbabwe,Africa,-20,30,8610,8040,255
 2020/11/11,ZW,Zimbabwe,Africa,-20,30,8667,8046,255
 2020/11/12,ZW,Zimbabwe,Africa,-20,30,8696,8060,255
+2020/11/13,ZW,Zimbabwe,Africa,-20,30,8765,8090,257
